@@ -39,7 +39,7 @@ two_columns_layout: true
 
 
 # Advanced Settings
-baseurl: "cryptocurrencynewspro" # the subpath of your site, e.g. /blog
+baseurl: "cryptocurrencynewspro.com" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 google_analytics: ""
 language: "en"
