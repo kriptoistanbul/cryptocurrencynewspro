@@ -1,0 +1,24 @@
+name: cryptocurrencynewspro
+title: cryptocurrencynewspro | CCN Pro
+description: Kripto paralar ve teknolojileri hakkında bilgilendirici haber ve içerik sitesi.
+tags:
+  - kripto
+  - coin
+  - kripto para
+  - bitcoin
+  - ethereum
+show_hero: true
+menu:
+  - title: Ana Sayfa
+    url: /
+  - title: Yazılar
+    url: /
+  - title: Hakkımızda
+    url: /about
+  - title: İletişim
+    url: /contact
+email: cryptocurrencynewspro@gmail.com
+# Contact Form Setting
+# See: https://formspree.io/
+formspree_form_id: formspree_form_id
+paginate: 12
