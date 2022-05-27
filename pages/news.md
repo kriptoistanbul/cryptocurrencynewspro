@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: category
 menu: false
 date: '2022-05-27 01:53:59'
 title: Cryptocurrency News
