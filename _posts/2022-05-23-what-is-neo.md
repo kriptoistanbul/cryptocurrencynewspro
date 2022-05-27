@@ -157,9 +157,6 @@ paginate: true
 </tr>
 </thead>
 <tbody>
-<tr>
-<td>Rating on Crypto.ru</td>
-<td>#41</td>
 </tr>
 <tr>
 <td>Position on CoinMarketCap</td>
