@@ -11,6 +11,7 @@ categories:
   - btc
 redirect_from:
   - /BTC/bitcoin/
+  - /heres-how-the-bitcoin-family-secures-their-btc-eth-ltc-fortune/
   permalink: "/what/bitcoin/"
 paginate: true
 ---
