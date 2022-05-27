@@ -3,6 +3,8 @@ layout: category
 menu: false
 date: '2022-05-27 01:53:59'
 title: Cryptocurrency News
+redirect_from:
+  - /wp-content/uploads/2021/06/Crypto-size.jpg
 permalink: /news/
 description: Some description.
 ---
