@@ -144,11 +144,11 @@ paginate: true
 <li>Transactions are not attached to the identity of the user.&nbsp;Therefore, if users have agreed to include a financial transaction in a block, then each participant can transfer LTC from one address to another without the need to provide personal data.&nbsp;That is, as with the transfer of cash, the sender does not need to know the recipient and vice versa.</li>
 <li>Litecoin transactional data is transmitted by P2P network nodes, which were randomly selected.&nbsp;Therefore, it is almost impossible to track from which wallet the money was sent and to which it should come.</li>
 </ul>
-<h2>Security</h2>
+<h4>Security</h4>
 <p>The single-guarantee nature of an LTC wallet allows you to completely exclude hacking by anyone.&nbsp;All transactions are completely transparent, and fraud attempts are recognized and stopped at the very first stage of the transaction.</p>
 <p>Theoretically, hacking the payment system is possible, however, if more than half of the users of the LCT network transmit false information during the verification process.&nbsp;To do this kind of work, attackers need to have extraordinary mental abilities and computer technology, the power of which should be much higher than all supercomputers that exist today.</p>
 <div data-banner-name="Widgetm_6" data-show-on="all">&nbsp;</div>
-<h2>How to create a litecoin wallet?</h2>
+<h4>How to create a litecoin wallet?</h4>
 <p>Everyone can get their own LTC wallet.&nbsp;This can be done in several steps in two ways.</p>
 <h3>On the computer</h3>
 <p>To create an electronic wallet on a computer, you need:</p>
@@ -160,7 +160,7 @@ paginate: true
 <li>Click "Open Account".</li>
 </ul>
 <p>After following the instructions, the Litecoin wallet will be installed on the computer.</p>
-<h3>Online wallet</h3>
+<h4>Online wallet</h4>
 <p>Registration of an online wallet is carried out as follows:</p>
 <ul>
 <li>Go to Cryptonator.com</li>
@@ -185,7 +185,7 @@ paginate: true
 <li>Transfer money to it.</li>
 </ul>
 <p>Naturally, the exchange will charge a commission for the procedure of replenishing or withdrawing funds from a crypto wallet, which varies from 0.1 to 1% of the total amount.</p>
-<h2>Advantages and disadvantages</h2>
+<h4>Advantages and disadvantages</h4>
 <p>Using an LTK wallet, the user receives a number of advantages.&nbsp;Namely:</p>
 <ul>
 <li>To install a wallet, you do not need to install special software.</li>
@@ -200,7 +200,7 @@ paginate: true
 <li>The lack of statistics does not allow you to predict the rate of the coin.</li>
 </ul>
 <img src="/assets/img/posts-img/ltc/litecoin-mean.webp" alt="litecoin mean" width="612" height="406" loading="lazy">
-<h2>Alternatives</h2>
+<h4>Alternatives</h4>
 <p>Considering that today the number of digital currencies is constantly increasing, Litecoin is no longer the only crypto currency with many advantages.&nbsp;The following coins are an alternative to it:</p>
 <ul>
 <li>XRP.</li>
@@ -208,7 +208,7 @@ paginate: true
 <li>And other types.</li>
 </ul>
 <p>However, despite the emergence of new, more advanced types of coins, LTC will be in the top 5 best cryptocurrencies for a long time to come.</p>
-<h1>Nuances and possible problems</h1>
+<h5>Nuances and possible problems</h5>
 <p>Before financing in LTK, it is worth remembering that despite all the degrees of security, you can lose your own wallet and the money that is stored on it.&nbsp;As a rule, attackers use several methods to get the login and password from the web wallet.&nbsp;Namely:</p>
 <ul>
 <li>Infect your PC with a virus.</li>
