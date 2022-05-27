@@ -8,6 +8,8 @@ image: /assets/img/posts-img/cryptocurrency/what-is-cryptocurrency.webp
 categories:   
   - what
   - cryptocurrency
+redirect_from:
+  - /coronavirus-updates-live
 permalink: "/what/cryptocurrency/"
 paginate: true
 ---

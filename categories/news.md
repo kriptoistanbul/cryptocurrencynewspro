@@ -17,7 +17,6 @@ redirect_from:
   - /category/trading/
   - /cities/fayetteville-ar/
   - /contact-us/
-  - /coronavirus-updates-live
 permalink: /news/
 description: Some description.
 ---
