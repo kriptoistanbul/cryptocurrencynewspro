@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Cryptocurrency News Pro"
-date:   2022-05-20 18:03:19 +0300
+title:  "What is SHIB"
+date:   2022-05-27 11:03:19 +0300
 subtitle: Is SHIB crypto a good investment? What is SHIB crypto used for? Will Shiba coin reach $1?
 description: Shiba is the central place is occupied by the DeFi decentralized financial instrument. It gives access to both fast exchange operations and passive income options providing liquidity, staking.
 image: /assets/img/posts-img/shib/what-is-shib-shiba.webp
