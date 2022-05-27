@@ -8,9 +8,9 @@
         <img class="img-rounded" src="/assets/img/user.jpg" alt="{{ author.display_name }}">
       {% endif %}
       <p class="def">{{ site.translations.text.author | default: "Author" }}</p>
-      <h3 class="name">
+      <p class="name">
         <a href="{{ author.url }}">{{ author.display_name }}</a>
-      </h3>
+      </p>
       <p class="desc">{{ author.bio }}</p>
       <p>
         {% if author.github_username %}
