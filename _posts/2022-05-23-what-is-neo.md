@@ -157,7 +157,6 @@ paginate: true
 </tr>
 </thead>
 <tbody>
-</tr>
 <tr>
 <td>Position on CoinMarketCap</td>
 <td>#39</td>
