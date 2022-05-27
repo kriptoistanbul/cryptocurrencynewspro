@@ -9,7 +9,7 @@ categories:
   - what
   - cryptocurrency
 redirect_from:
-  - https://cryptocurrencynewspro.com/coronavirus-updates-live
+  - /coronavirus-updates-live
 permalink: "/what/cryptocurrency/"
 paginate: true
 ---
