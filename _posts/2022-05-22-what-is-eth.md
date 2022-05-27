@@ -8,7 +8,7 @@ image: /assets/img/posts-img/eth/what-is-eth-ethereum.webp
 categories:   
   - what
   - ethereum
-permalink: "/what/eth/"
+permalink: "what/eth/"
 paginate: true
 ---
 <h1><strong>What is Ethereum ETH?</strong></h1>
