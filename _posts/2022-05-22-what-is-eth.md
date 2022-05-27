@@ -8,6 +8,8 @@ image: /assets/img/posts-img/eth/what-is-eth-ethereum.webp
 categories:   
   - what
   - ethereum
+redirect_from:
+  - /currencies/ETH/ethereum/
 permalink: "what/eth/"
 paginate: true
 ---
