@@ -9,6 +9,8 @@ categories:
   - what
   - cardano
   - ada
+redirect_from:
+  - /ADA/cardano/
 permalink: "/what/ada/"
 paginate: true
 ---

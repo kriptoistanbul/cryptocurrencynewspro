@@ -4,8 +4,20 @@ menu: false
 date: '2022-05-27 01:53:59'
 title: Cryptocurrency News
 redirect_from:
-  - /wp-content/uploads/2021/06/Crypto-size.jpg
   - /bitcoin-explained-for-dummies/
+  - /Redirect/Listener/3ad223f5-b69c-4473-aeae-921b7abd161d
+  - /category/altcoins/
+  - /category/bitcoin/
+  - /category/blockchain/
+  - /category/crypto-news/
+  - /category/ethereum/
+  - /category/regulations/
+  - /category/ripple/
+  - /category/scams/
+  - /category/trading/
+  - /cities/fayetteville-ar/
+  - /contact-us/
+  - /coronavirus-updates-live
 permalink: /news/
 description: Some description.
 ---
