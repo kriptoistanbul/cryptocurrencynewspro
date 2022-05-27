@@ -10,7 +10,7 @@ categories:
   - bitcoin
   - btc
 redirect_from:
-  - /BTC/bitcoin/
+  - /BTC/Bitcoin/
   permalink: "/what/bitcoin/"
 paginate: true
 ---
