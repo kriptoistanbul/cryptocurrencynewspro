@@ -1,7 +1,7 @@
 # Site Settings
 name: CCN-Pro
 title: CCN-Pro
-image: assets/img/uploads/profile.webp
+image: "/assets/img/uploads/profile.webp"
 description: An Informative website with the latest news and information on cryptocurrencies and technologies.
 tags:
   - kripto
