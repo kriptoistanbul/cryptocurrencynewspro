@@ -1,6 +1,6 @@
 ---
 layout: author
-photo: /assets/img/uploads/profile.png
+photo: /assets/img/uploads/profile.webp
 name: cryptocurrencynewspro
 display_name: cryptocurrencynewspro author
 position: Author
