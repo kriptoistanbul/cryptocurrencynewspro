@@ -3,19 +3,6 @@ layout: null
 ---
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-    {% for page in site.pages %}
-        <url>
-            <loc>{{ page.url | prepend: site.baseurl | prepend: site.url }}</loc>
-            {% if page.layout == 'main' %}
-                <changefreq>yearly</changefreq>
-                <priority>0.1</priority>
-                <lastmod>{{ site.time | date: "%Y-%m-%d" }}</lastmod>
-            {% else %}
-                <changefreq>yearly</changefreq>
-                <priority>0.1</priority>
-            {% endif %}
-        </url>
-    {% endfor %}
     {% for post in site.posts %}
         <url>
             <loc>{{ post.url | prepend: site.baseurl | prepend: site.url }}</loc>
