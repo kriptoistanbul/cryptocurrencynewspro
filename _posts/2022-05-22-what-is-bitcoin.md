@@ -12,6 +12,7 @@ categories:
 redirect_from:
   - /BTC/bitcoin/
   - /heres-how-the-bitcoin-family-secures-their-btc-eth-ltc-fortune/
+  - /bitcoin-is-going-much-higher-in-coming-months-predicts-on-chain-analyst-will-clemente/
   permalink: "/what/bitcoin/"
 paginate: true
 ---
@@ -193,4 +194,10 @@ paginate: true
                   <ul>
                     <li><div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
                      <p itemprop="text" class="faq-a">Yes</p>
+                     <div itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question" class="faq-question">
+                <details>
+                <summary itemprop="name" class="faq-q">Is Bitcoin real money?</summary>
+                 <ul>
+                   <li><div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                    <p itemprop="text" class="faq-a">Yes</p>
 </div>
