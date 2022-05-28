@@ -189,17 +189,6 @@ paginate: true
 </ul>
 
 <div class="schema-faq-code" itemscope="" itemtype="https://schema.org/FAQPage">
-    <div itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question" class="faq-question">
-        <h3 itemprop="name" class="faq-q">Can bitcoin be cashed</h3>
-        <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-             <p itemprop="text" class="faq-a">Yes</p>
-        </div>
-    </div>
-
-    <div itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question" class="faq-question">
-        <h3 itemprop="name" class="faq-q">Is Bitcoin real money?</h3>
-        <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-             <p itemprop="text" class="faq-a">Yes</p>
-        </div>
-    </div>
+{% include faq.html q="Can be Bitcoin cashed?" a="Yes" %}
+{% include faq.html q="Is Bitcoin real money?" a="Yes" %}
 </div>
