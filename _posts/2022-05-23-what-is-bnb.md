@@ -8,8 +8,6 @@ image: /assets/img/posts-img/bnb/what-is-bnb.webp
 categories:   
   - what
   - bnb
-redirect_from:
-  - /BNB/binancecoin/
 permalink: "/what/bnb/"
 paginate: true
 ---

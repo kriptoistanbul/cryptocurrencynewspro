@@ -6,14 +6,10 @@ subtitle: What is Bitcoin? How does btc work? Is Bitcoin real money? Who is Sato
 description: Bitcoin is the first decentralized peer-to-peer payment network powered by its users without a central authority or intermediary.
 image: /assets/img/posts-img/btc/what-is-bitcoin.webp
 categories:   
-  - what
-  - bitcoin
-  - btc
-redirect_from:
-  - /BTC/bitcoin/
-  - /heres-how-the-bitcoin-family-secures-their-btc-eth-ltc-fortune/
-  - /bitcoin-is-going-much-higher-in-coming-months-predicts-on-chain-analyst-will-clemente/
-  permalink: "/what/bitcoin/"
+  what
+  bitcoin
+  btc
+  permalink: /what/bitcoin/
 paginate: true
 ---
 <h1><strong>What is Bitcoin BTC?</strong></h1>

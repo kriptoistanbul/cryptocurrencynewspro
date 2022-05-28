@@ -8,9 +8,6 @@ image: /assets/img/posts-img/cryptocurrency/what-is-cryptocurrency.webp
 categories:   
   - what
   - cryptocurrency
-redirect_from:
-  - /coronavirus-updates-live
-  - /whales-move-nearly-1000000000-in-ethereum-as-markets-pull-back-heres-where-the-crypto-is-going/
 permalink: "/what/cryptocurrency/"
 paginate: true
 ---

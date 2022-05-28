@@ -9,9 +9,6 @@ categories:
   - what
   - cardano
   - ada
-redirect_from:
-  - /ADA/cardano/
-  - /cardanos-rally-pauses-as-smart-contract-launch-is-re-confirmed/
 permalink: "/what/ada/"
 paginate: true
 ---

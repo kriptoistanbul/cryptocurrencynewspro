@@ -8,9 +8,6 @@ image: /assets/img/posts-img/eth/what-is-eth-ethereum.webp
 categories:   
   - what
   - ethereum
-redirect_from:
-  - /currencies/ETH/ethereum/
-  - /cardanos-rally-pauses-as-smart-contract-launch-is-re-confirmed/
 permalink: "what/eth/"
 paginate: true
 ---

@@ -9,9 +9,6 @@ categories:
   - what
   - dot
   - polkadot
-redirect_from:
-  - /DOT/polkadot/
-
 permalink: "/what/dot/"
 paginate: true
 ---
