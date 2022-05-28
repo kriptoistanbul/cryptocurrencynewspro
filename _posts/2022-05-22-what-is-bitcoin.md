@@ -179,7 +179,7 @@ paginate: true
 </li>
 <li><strong>Support for large businesses.</strong> Many companies from the top 100 by capitalization have long been interested in cryptocurrencies. In 2020, PayPal added the ability to its users to buy Bitcoins and several other cryptocurrencies, and in 2021, Tesla acquired about 50,000 BTC and still keeps them on the balance sheet. Such news supports the price of bitcoin well.
 <ul>
-<li><strong>Forecast for 2022:</strong> of the companies that can start using bitcoin on a large scale in 2022, visa and MasterCard can be distinguished (working on integrating cryptocurrencies with their cards), as well as Amazon (it will be possible to pay with cryptocurrency).</li>
+<li><strong>Forecast for 2022:</strong> of the companies that can start using bitcoin on a large scale in 2022, visa and MasterCard can be distinguished (working on integrating cryptocurrencies with their cards), as well as Amazon (it will be possible to pay with cryptocurrency).</li>   
 </ul>
 </li>
 </ul>
