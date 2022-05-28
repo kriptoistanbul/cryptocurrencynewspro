@@ -9,7 +9,7 @@ categories:
   what
   bitcoin
   btc
-  permalink: /what/bitcoin/
+permalink: "/what/bitcoin/"
 paginate: true
 ---
 <h1><strong>What is Bitcoin BTC?</strong></h1>
