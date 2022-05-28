@@ -18,4 +18,16 @@ layout: null
             <priority>0.0</priority>
         </url>
     {% endfor %}
+    <url>
+        <loc>https://cryptocurrencynewspro.com/</loc>
+        <changefreq>daily</changefreq>
+        <priority>1</priority>
+        <lastmod>2022-05-27</lastmod>
+    </url>
+    <url>
+        <loc>https://cryptocurrencynewspro.com/news</loc>
+        <changefreq>daily</changefreq>
+        <priority>1</priority>
+        <lastmod>2022-05-27</lastmod>
+    </url>
 </urlset>
