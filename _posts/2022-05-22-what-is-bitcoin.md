@@ -35,6 +35,7 @@ paginate: true
   <li style="padding: 2px;"><a href="#17">Bitcoin's Popularity in media</a></li>
   <li style="padding: 2px;"><a href="#18">Bitcoin Prospects and Rate Forecast for 2022</a></li>
   <li style="padding: 2px;"><a href="#19">Frequently Asked Questions</a></li>
+  <li style="padding: 2px;"><a href="#20">El Salvador and Bitcoin</a></li>
 </ol>
 
 <h1 id="1"><strong>What is Bitcoin BTC?</strong></h1>
@@ -508,5 +509,78 @@ paginate: true
         </div>
     </div>
 </div>
-<h6 id="20">How to buy Bitcoin</h6>
 {% include youtube.html width="560" height="315" id="ea884j1hf1I" start="0" title="Bitcoin KFC" %}
+<h6 id="20">El Salvador and Bitcoin</h6>
+<p>In early September, a law came into force in El Salvador giving the first cryptocurrency the status of legal tender on a par with the US dollar. On the same day, the country's authorities purchased 550 bitcoins, after which its president, Nayib Bukele, announced the purchase of another 150 bitcoins. El Salvador now holds more than $35 million worth of cryptocurrencies (at the current asset price of about $50,000).</p>
+<p>In the country, prices can be set in bitcoins, taxes can be paid in them. Cryptocurrency exchanges are not subject to capital gains tax. The acceptance of bitcoins for payment became mandatory, and the government also created an official Chivo crypto wallet.</p>
+<p>&ldquo;El Salvador&rsquo;s bitcoin game looks like good PR&rdquo;<br />If El Salvador manages to build a reliable crypto-fiat gateway, the country can become the Panama Canal in the field of crypto-currencies, an incubator for crypto-banks, funds and other interesting projects, BitCluster co-founder Sergey Arestov is sure. According to him, if Nayibu Bukele manages to attract major players, then real assistance to the economy can become tangible.</p>
+<p>&ldquo;However, for now, El Salvador&rsquo;s bitcoin game looks like good PR. Mining alone on a volcano is worth something, &rdquo;the expert emphasized.</p>
+<p>At the end of September, one of the Salvadoran power plants, which uses geothermal sources to generate electricity, began to connect equipment for bitcoin mining. Bukele showed footage of power plant employees plugging in ASIC miners and shipping containers of equipment arriving at the facility.</p>
+<p>The country's budget will be replenished from income from mining farms located on geothermal sources, said Ivan Sharov, CEO of the online store for mining equipment and computer components Hardvar.ru. However, according to him, it is too early to use cryptocurrency as a means of payment due to its huge volatility.</p>
+<p>So, in early September, the bitcoin rate fell by 16% per day, falling below $43 thousand. And less than a month later, on October 5, the value of the asset again exceeded $50 thousand. The price of the cryptocurrency is subject to high fluctuations, and no one can know exactly what it is will be the next day.</p>
+<p>&ldquo;Citizens were allowed to use bitcoin as an indulgence&rdquo;<br />El Salvador is one of the poorest countries in the world, it did not have the funds to create its own fiat currency, which is why it was decided to use bitcoin, says Artem Deev, head of the analytical department at AMarkets. According to him, Bitcoin payments help to reduce the costs of various payment services and transfers.</p>
+<p>&ldquo;Citizens of the country were simply allowed to use bitcoins as a kind of indulgence, to simplify settlements and transfers,&rdquo; Deev explained.</p>
+<p>The government's decision to diversify its foreign exchange reserves by adding a new innovative currency, bitcoin, seems quite logical, added Vitaly Kirpichev, Development Director of TradingView in Russia. In his opinion, the next step could be the adoption of cryptocurrencies by trading partners of El Salvador - Guatemala, Nicaragua, Honduras.</p>
+<p>Given the price dynamics of bitcoin since its inception, the country sees the investment attractiveness of the cryptocurrency and expects a long-term effect, Kirpichev noted. He believes that if a favorable environment is created in El Salvador for the development of trading in bitcoin and other cryptocurrencies, then large investments can go to the country.</p>
+<p>Bitcoin, despite its high level of volatility, can help fight the deflation of the local currency and the impoverishment of the population in the short and long term, Valeria Minaeva, business development and communications specialist at 1inch Network, is sure. According to her, bitcoin is able to attract new interesting projects to the country, as well as rich people from all over the world who will be happy to pay with cryptocurrency.</p>
+<p>&ldquo;So far, of course, this is an experiment for the entire world community, but, in my opinion, this is an extremely intriguing and potentially very profitable experience for the country,&rdquo; Minaeva concluded.</p>
+<h6 id="21">Bitcoin Solana and Ethereum</h6>
+<p>The broader crypto market is seeing recovery trends from the September lows that have driven up the price of the top coins. Bitcoin, <a href="https://cryptocurrencynewspro.com/what/eth/" title="What is Ethereum" target="_blank">Ethereum</a> and <a href="https://cryptocurrencynewspro.com/what/sol/" title="What is solana" target="_blank">Solana</a> have recorded some of the biggest gains so far. This happened due to a number of factors that greatly influenced the movement of cryptocurrencies. Bitcoin in particular has witnessed the most significant price swings, with Ethereum and Solana not too far behind.
+Institutional investors are back on the “bull train”</p>
+<p>Institutional investors are a big reason behind the recent price rally. The crypto market has recorded inflows totaling more than $600 million for eight weeks in a row. The market has benefited greatly from this as the top coins have risen to new heights in recent weeks. Bitcoin alone has gained $225 million in the past week, while altcoins have seen a couple of million inflows in the same time frame. Additional information | According to founder Vitalik Buterin, the big difference between Bitcoin and Ethereum This signals that institutional investors are starting to return to the market en masse, and it strengthens faith in cryptocurrencies where before. there were so few. Solana and Ethereum were the leaders in altcoin influx during this period. Both altcoins led the altcoin market in terms of recorded profits. Both assets are aiming for their previous all-time highs.</p>
+<h6 id="22> Where to buy Bitcoin</h6>
+<table>
+<thead>
+  <tr>
+    <th colspan="3">On Which Exchanges Is Bitcoin Listed?</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>FTX</td>
+    <td>BITGET</td>
+    <td>BINANCEUS</td>
+  </tr>
+  <tr>
+    <td>BYBIT</td>
+    <td>BINGX</td>
+    <td>POLONIEX</td>
+  </tr>
+  <tr>
+    <td>BINANCE</td>
+    <td>HUOBI</td>
+    <td>BITTREX</td>
+  </tr>
+  <tr>
+    <td>WOONETWORK</td>
+    <td>COINEX</td>
+    <td>EXMO</td>
+  </tr>
+  <tr>
+    <td>HITBTC</td>
+    <td>ASCENDEX</td>
+    <td>UPBIT</td>
+  </tr>
+  <tr>
+    <td>KUCOIN</td>
+    <td>KRAKEN</td>
+    <td>TIMEX</td>
+  </tr>
+  <tr>
+    <td>PHEMEX</td>
+    <td>OKEX</td>
+    <td>BITSTAMP</td>
+  </tr>
+  <tr>
+    <td>GATEIO</td>
+    <td>COINBASE</td>
+    <td>DELTA</td>
+  </tr>
+  <tr>
+    <td>OKCOIN</td>
+    <td></td>
+    <td></td>
+  </tr>
+</tbody>
+</table>
+a href="https://cryptocurrencynewspro.com/what/shib/" title="What is Shiba Uni Price" target="_blank">What is Shiba Uni Coin</a>
