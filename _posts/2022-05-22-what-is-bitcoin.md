@@ -206,7 +206,7 @@ paginate: true
     </div>
 
     <div itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question" class="faq-question">
-        <strong><h6 itemprop="name" class="faq-q"What is bitcoin wallet</h6></strong>
+        <strong><h6 itemprop="name" class="faq-q">What is bitcoin wallet</h6></strong>
         <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
              <p itemprop="text" class="faq-a">A Bitcoin wallet is a computerized wallet that can hold Bitcoin as well as other cryptographic forms of money, like Polkadot or ETH. Bitcoin wallet provides you 2 different keys which called the public key and the private key. The public key is the "address" of your wallet. If someone wants to send you bitcoins, they need to know this address. The private key is the “password” to your wallet. If you want to send bitcoins to someone, then you need to present this password to the system. A SEED phrase is like a secret question. The SEED phrase consists of twelve random words, with which you can restore access to your wallet if you lose your private key. When you create a crypto wallet, you get these two keys. They are interconnected by tricky mathematical operations, which we will not go into. <strong>There are two types of crypto wallets:</strong> Wallet on your device, You download the program, register a wallet and receive keys, after which you can make transactions with bitcoin; Online wallet, register and that's it: all bitcoins are stored in the cloud. However, you need to understand that in this case, the service itself has access to your wallet.</p>
         </div>
@@ -341,7 +341,7 @@ paginate: true
     <div itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question" class="faq-question">
         <strong><h6 itemprop="name" class="faq-q">can you bitcoin mine on a gaming pc or a laptop</h6></strong>
         <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-             <p itemprop="text" class="faq-a"Yes, technically you can mine bitcoin on a gaming PC or a laptop. If you have a computer that meets the minimum system requirements, you can mine bitcoin by downloading various applications to your computer.></p>
+             <p itemprop="text" class="faq-a">Yes, technically you can mine bitcoin on a gaming PC or a laptop. If you have a computer that meets the minimum system requirements, you can mine bitcoin by downloading various applications to your computer.></p>
         </div>
     </div>
 
@@ -411,14 +411,14 @@ paginate: true
     <div itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question" class="faq-question">
         <strong><h6 itemprop="name" class="faq-q">can you use bitcoin on ebay</h6></strong>
         <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-             <p itemprop="text" class="faq-a"></p>
+             <p itemprop="text" class="faq-a">No, you cannot use bitcoin as a valid payment method on ebay.</p>
         </div>
     </div>
 
     <div itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question" class="faq-question">
         <strong><h6 itemprop="name" class="faq-q">can you use bitcoin to buy things</h6></strong>
         <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-             <p itemprop="text" class="faq-a">No, you cannot use bitcoin as a valid payment method on ebay.</p>
+             <p itemprop="text" class="faq-a">Yes, you can use bitcoin to buy things on stores which support the bitcoin payments. There ara many places that support bitcoin as a payment system, for example KFC.</p>
         </div>
     </div>
 </div>
