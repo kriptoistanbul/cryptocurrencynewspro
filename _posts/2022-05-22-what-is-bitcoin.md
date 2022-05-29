@@ -184,6 +184,241 @@ paginate: true
 </li>
 </ul>
 <div class="schema-faq-code" itemscope="" itemtype="https://schema.org/FAQPage">
-{% include faq.html q="Can be Bitcoin cashed?" a="Yes" %}
-{% include faq.html q="Is Bitcoin real money?" a="Yes" %}
+    <div itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question" class="faq-question">
+        <strong><h6 itemprop="name" class="faq-q">Can bitcoin be cashed</h6></strong>
+        <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+             <p itemprop="text" class="faq-a">Yes, Bitcoin can be cashed out in 5 ways - through a crypto exchange, a P2P exchange, a specialized exchange service and Bitcoin ATMs and Withdrawing funds.</p>
+        </div>
+    </div>
+
+    <div itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question" class="faq-question">
+        <strong><h6 itemprop="name" class="faq-q">What is bitcoin mining</h6></strong>
+        <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+             <p itemprop="text" class="faq-a">Bitcoin mining is the production of cryptocurrency due to the capacity of computer equipment. Bitcoin mining is the production of cryptocurrency due to the capacity of computer equipment. Bitcoin mining is no longer possible without special expensive equipment. If at the beginning and middle of the 2000s even a home computer with a powerful video card was suitable for this, now industrial computing power is required. The fact is that there cannot be more than 21 million bitcoins. Most of them have already been generated, and more and more capacities are required for each new bitcoin.</p>
+        </div>
+    </div>
+
+    <div itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question" class="faq-question">
+        <strong><h6 itemprop="name" class="faq-q">What is bitcoin and how does it work</h6></strong>
+        <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+             <p itemprop="text" class="faq-a">Bitcoin is a type of digital currency. It is not run by the state or banks. And the digital currency is money that is programmatically controlled by an electronic settlement system. </p>
+        </div>
+    </div>
+
+    <div itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question" class="faq-question">
+        <strong><h6 itemprop="name" class="faq-q"What is bitcoin wallet</h6></strong>
+        <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+             <p itemprop="text" class="faq-a">A Bitcoin wallet is a computerized wallet that can hold Bitcoin as well as other cryptographic forms of money, like Polkadot or ETH. Bitcoin wallet provides you 2 different keys which called the public key and the private key. The public key is the "address" of your wallet. If someone wants to send you bitcoins, they need to know this address. The private key is the “password” to your wallet. If you want to send bitcoins to someone, then you need to present this password to the system. A SEED phrase is like a secret question. The SEED phrase consists of twelve random words, with which you can restore access to your wallet if you lose your private key. When you create a crypto wallet, you get these two keys. They are interconnected by tricky mathematical operations, which we will not go into. <strong>There are two types of crypto wallets:</strong> Wallet on your device, You download the program, register a wallet and receive keys, after which you can make transactions with bitcoin; Online wallet, register and that's it: all bitcoins are stored in the cloud. However, you need to understand that in this case, the service itself has access to your wallet.</p>
+        </div>
+    </div>
+
+    <div itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question" class="faq-question">
+        <strong><h6 itemprop="name" class="faq-q">What is bitcoin investment</h6></strong>
+        <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+             <p itemprop="text" class="faq-a">There are two main and most common strategies for investing in Bitcoin. Positional strategy (strategy "for growth"). It's pretty simple. The investor acquires a certain amount of bitcoins for real money and expects an increase in the rate of the cryptocurrency. Sooner or later, the value of bitcoin will increase, and the purchased cryptocurrency can be sold several times more expensive. Here it is important not to "break down" ahead of time, noticing a short-term drop in the bitcoin rate. Trading on the stock exchange. The basic principles of cryptocurrency trading are similar to those used on the Forex exchange. Here, bitcoin has one key advantage: since the currency itself is not too common in Russia, not everyone knows the basics of bitcoin trading on the exchange. Accordingly, it will be enough for an experienced investor and player to simply "bypass" their competitors.</p>
+        </div>
+    </div>
+
+    <div itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question" class="faq-question">
+        <strong><h6 itemprop="name" class="faq-q">Can I convert Bitcoin to cash?</h6></strong>
+        <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+             <p itemprop="text" class="faq-a">Yes, you can convert Bitcoin to cash. There are different ways to do it but the most popular one is via Cryptocurrency Markets like Binance, Gate io etc.</p>
+        </div>
+    </div>
+
+    <div itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question" class="faq-question">
+        <strong><h6 itemprop="name" class="faq-q">How does Bitcoin make you money?</h6></strong>
+        <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+             <p itemprop="text" class="faq-a">There various ways to make money via Bitcoin. But, there some popular ways to bitcoin make you money such as Mining, Holding, Trading and Saving and Staking Bitcoin. There 2 different ways to mining Bitcoin; Personal mining and Cloud mining. Bitcoin Hold means getting bitcoin low price and waiting for such a long time to increase. The 3th way of bitcoin make you money is trading, you trade Bitcoin via cryptocurrency markets and you make a profit on this markets. The most underestimated way is saving and staking, like banks interest rate, most of cryptocurrencies has interest rates and you can easily make money by staking Bitcoin.</p>
+        </div>
+    </div>
+
+    <div itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question" class="faq-question">
+        <strong><h6 itemprop="name" class="faq-q">Is Bitcoin real money?</h6></strong>
+        <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+             <p itemprop="text" class="faq-a">Yes, Bitcoin is a real money. Even if we couldn't see the Bitcoin physically, Bitcoin is exist in the digital world and you can make payments via Bitcoin like the real money.</p>
+        </div>
+    </div>
+
+    <div itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question" class="faq-question">
+        <strong><h6 itemprop="name" class="faq-q">Can bitcoin be banned</h6></strong>
+        <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+             <p itemprop="text" class="faq-a">Yes Bitcoin can be banned by governments. Some countries have already banned Bitcoin. And some countries have also imposed restrictions. However, it is very difficult to ban bitcoin in developed countries.</p>
+        </div>
+    </div>
+
+    <div itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question" class="faq-question">
+        <strong><h6 itemprop="name" class="faq-q">Can bitcoin be controlled</h6></strong>
+        <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+             <p itemprop="text" class="faq-a">No, Bitcoin cannot be controlled because of its decentralized habit. However, as in every investment instrument, manipulations and speculations can occur in Bitcoin.</p>
+        </div>
+    </div>
+
+    <div itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question" class="faq-question">
+        <strong><h6 itemprop="name" class="faq-q">Can bitcoin be hacked</h6></strong>
+        <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+             <p itemprop="text" class="faq-a">Yes there is always posibility. As a rule, the safety of money is in the hands of the owners. Attackers can steal valuables from a real or virtual vault, bank account, safe deposit box or safe. Hacking a bitcoin wallet is getting a private key. It provides access to coins. It is almost impossible to guess the key, since SHA-256 encryption is used. It would take many years to crack this code on modern computers. It is easier for attackers to take advantage of the carelessness of cryptocurrency owners and lure out the necessary data. </p>
+        </div>
+    </div>
+
+    <div itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question" class="faq-question">
+        <strong><h6 itemprop="name" class="faq-q">Can bitcoin be mined</h6></strong>
+        <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+             <p itemprop="text" class="faq-a">Yes, bitcoin can be mined. There diffrent ways to mine bitcoin, such as ASIC MINING, GPU Mining, CPU Mining, Mining Pools, Solo Mining and Cloud Mining.</p>
+        </div>
+    </div>
+
+    <div itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question" class="faq-question">
+        <strong><h6 itemprop="name" class="faq-q">Can bitcoin be regulated</h6></strong>
+        <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+             <p itemprop="text" class="faq-a">Yes, bitcoin can be regulated, moreover, some governments already regulated it.</p>
+        </div>
+    </div>
+
+    <div itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question" class="faq-question">
+        <strong><h6 itemprop="name" class="faq-q">Can bitcoin be taxed</h6></strong>
+        <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+             <p itemprop="text" class="faq-a">Yes Bitcoin can be taxed. The IRS believes digital money possessions to be "property" for charge purposes, and that implies your virtual cash is burdened similarly as some other resources you own, similar to stocks or gold.</p>
+        </div>
+    </div>
+
+    <div itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question" class="faq-question">
+        <strong><h6 itemprop="name" class="faq-q">Can bitcoin be traced</h6></strong>
+        <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+             <p itemprop="text" class="faq-a">Yes, Bitcoin can be traced. Bitcoin addresses are a series of Latin letters and numbers and do not contain information about the names of their owners, thus creating a false sense of complete anonymity for users. However, transactions in the Bitcoin network are recorded without encryption, which means they can be traced.</p>
+        </div>
+    </div>
+
+    <div itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question" class="faq-question">
+        <strong><h6 itemprop="name" class="faq-q">Can bitcoin be trusted</h6></strong>
+        <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+             <p itemprop="text" class="faq-a">When it comes to trusting, every investments has risk about that. So, this is the decision you should make individually. Before operating with large amounts, investing in Bitcoin, I would like to weigh all the pros and cons of cryptocurrencies and, in particular, bitcoin itself.</p>
+        </div>
+    </div>
+
+    <div itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question" class="faq-question">
+        <strong><h6 itemprop="name" class="faq-q">Can bitcoin expire</h6></strong>
+        <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+             <p itemprop="text" class="faq-a">No, like golds bitcoin can not expire. However, you should keep in mind the number of bitcoin is limited.</p>
+        </div>
+    </div>
+
+    <div itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question" class="faq-question">
+        <strong><h6 itemprop="name" class="faq-q">Can bitcoin go down</h6></strong>
+        <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+             <p itemprop="text" class="faq-a">Yes, Bitcoin can go down. There many different scenarios about that but we can simply say it depends on supply and demand. If there will be a suddent selling fluctuation the price will be go down. On the other hand, theoretically, for the maximum possible depreciation of bitcoin, something serious must happen, contradicting the fundamental values ​​originally laid down in the protocol, said Dmitry Machikhin, CEO of Bitnalog.</p>
+        </div>
+    </div>
+
+    <div itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question" class="faq-question">
+        <strong><h6 itemprop="name" class="faq-q">can bitcoin go higher</h6></strong>
+        <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+             <p itemprop="text" class="faq-a">Yes, bitcoin can go higher depends on market fluctuations.</p>
+        </div>
+    </div>
+
+    <div itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question" class="faq-question">
+        <strong><h6 itemprop="name" class="faq-q">can bitcoin go green</h6></strong>
+        <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+             <p itemprop="text" class="faq-a">Yes, technically bitcoin can go green because it is produced in limited number.</p>
+        </div>
+    </div>
+
+    <div itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question" class="faq-question">
+        <strong><h6 itemprop="name" class="faq-q">Can bitcoin go to 1 million</h6></strong>
+        <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+             <p itemprop="text" class="faq-a">Yes, bitcoin can go to 1 million. According to billionaire Barry Sternlicht, The Bitcoin exchange rate may rise to $1 million. Because, the government is just constantly printing money, but they will not be able to create even more bitcoins.</p>
+        </div>
+    </div>
+
+    <div itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question" class="faq-question">
+        <strong><h6 itemprop="name" class="faq-q">Can bitcoin go to zero</h6></strong>
+        <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+             <p itemprop="text" class="faq-a">Yes, Bitcoin can go to zero. There are several factors that could theoretically lead to a drop in the price of bitcoin to zero, Sergey Arestov, co-founder of BitCluster, explained: A group of miners will switch to themselves 51% of the power and sabotage; Someone will develop an ASIC chip that will pick up 500 trillion seed phrases per second; A total blackout will happen on earth and there will be no electricity; Miners will refuse to process transactions; The internet is going down globally.</p>
+        </div>
+    </div>
+
+    <div itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question" class="faq-question">
+        <strong><h6 itemprop="name" class="faq-q">can you bitcoin mine on a gaming pc or a laptop</h6></strong>
+        <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+             <p itemprop="text" class="faq-a"Yes, technically you can mine bitcoin on a gaming PC or a laptop. If you have a computer that meets the minimum system requirements, you can mine bitcoin by downloading various applications to your computer.></p>
+        </div>
+    </div>
+
+    <div itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question" class="faq-question">
+        <strong><h6 itemprop="name" class="faq-q">Can you bitcoin mine on android or ios or with a phone</h6></strong>
+        <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+             <p itemprop="text" class="faq-a">Yes, in theory, bitcoin mining on an Android or iOS phone is possible using special applications that can be downloaded from Google Play or the App Store. But in practice, bitcoin mining on Android or iOS is not possible. This is due to the high power of the cryptocurrency payment network. As of 2020, the computing power of the Bitcoin network is 2.5 TH/s (2.5 trillion hashes per second). That is how much it takes to get a block and get a reward in the form of new issued coins. Whereas a modern smartphone is capable of providing a maximum computing power of 14 H / s. It is clear that this power is not enough to earn some decent amount, even if the phone will mine crypto around the clock for many years. Theoretically, modern smartphones could profitably mine bitcoins, but only if it were now 2010, when the power of the network was not yet so high. Today, bitcoin mining on an Android or iOS phone, even on the most modern models, is a utopia. But the developers of mining applications on Google Play and the App Store are trying to convince the opposite.</p>
+        </div>
+    </div>
+
+    <div itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question" class="faq-question">
+        <strong><h6 itemprop="name" class="faq-q">Can you buy bitcoin with a credit card</h6></strong>
+        <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+             <p itemprop="text" class="faq-a">Yes, you can buy bitcoin with a credit card on cryptocurrency markets such as binance.</p>
+        </div>
+    </div>
+
+    <div itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question" class="faq-question">
+        <strong><h6 itemprop="name" class="faq-q">Can you buy bitcoin with cash</h6></strong>
+        <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+             <p itemprop="text" class="faq-a">Yes, you can buy bitcoin with cash in different methods. But most popular method is buying on cryptocurrency markets such as binance.</p>
+        </div>
+    </div>
+
+    <div itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question" class="faq-question">
+        <strong><h6 itemprop="name" class="faq-q">Can you buy bitcoin with paypal</h6></strong>
+        <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+             <p itemprop="text" class="faq-a">Yes you can purchase bitcoin with paypal, if you have a valid paypal account.</p>
+        </div>
+    </div>
+
+    <div itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question" class="faq-question">
+        <strong><h6 itemprop="name" class="faq-q">Can you go short on bitcoin</h6></strong>
+        <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+             <p itemprop="text" class="faq-a">Yes, you can go short bitcoin. Most of cryptocurrency markets provides this service.</p>
+        </div>
+    </div>
+
+    <div itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question" class="faq-question">
+        <strong><h6 itemprop="name" class="faq-q">Can you mine bitcoin with gpu</h6></strong>
+        <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+             <p itemprop="text" class="faq-a">Yes, you can mine bitcoin with GPU. Although GPUs do not have a large number of cores, they can still perform parallel multi-threaded computations.To start mining on an integrated video card, it is necessary that the system support for multi-threaded computing technology (for example, OpenCL) is installed for it. Software that allows access to OpenCL technology in Intel processors has been around for quite some time. There are two possibilities to run opencl applications on Intel processors - on the integrated video core (if any) and on the cpu cores. For the on-chip video core processor, support for multi-threaded computing is available from the sixth series of Intel Core (CPU with HD Graphics core).</p>
+        </div>
+    </div>
+
+    <div itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question" class="faq-question">
+        <strong><h6 itemprop="name" class="faq-q">Can you use bitcoin as collateral</h6></strong>
+        <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+             <p itemprop="text" class="faq-a">Yes, you can use bitcoin as collateral. A cryptographic money upheld credit involves computerized cash as guarantee, like a protections based advance. The essential rule works like a home loan credit or car advance — you vow your crypto resources for get the credit and pay it off after some time. You can help this sort of credit through a crypto trade or crypto loaning stage.</p>
+        </div>
+    </div>
+
+    <div itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question" class="faq-question">
+        <strong><h6 itemprop="name" class="faq-q">Can you use bitcoin as real money</h6></strong>
+        <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+             <p itemprop="text" class="faq-a">Yes, you can use bitcoin as real money. There many places that you can buy something by bitcoin or using other cryptocurrencies.</p>
+        </div>
+    </div>
+
+    <div itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question" class="faq-question">
+        <strong><h6 itemprop="name" class="faq-q">Can you use bitcoin on amazon</h6></strong>
+        <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+             <p itemprop="text" class="faq-a">No, for now Amazon supporting bitcoin as a payment system however, there some places that you can buy amazon gift cards by using bitcoin.</p>
+        </div>
+    </div>
+
+    <div itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question" class="faq-question">
+        <strong><h6 itemprop="name" class="faq-q">can you use bitcoin on ebay</h6></strong>
+        <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+             <p itemprop="text" class="faq-a"></p>
+        </div>
+    </div>
+
+    <div itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question" class="faq-question">
+        <strong><h6 itemprop="name" class="faq-q">can you use bitcoin to buy things</h6></strong>
+        <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+             <p itemprop="text" class="faq-a">No, you cannot use bitcoin as a valid payment method on ebay.</p>
+        </div>
+    </div>
 </div>
