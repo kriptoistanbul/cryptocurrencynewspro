@@ -98,10 +98,6 @@ paginate: true
 <li>If everything matches, the transaction is confirmed.</li>
 <li>All translations correct from the point of view of the system are recorded in information blocks.</li>
 </ol>
-<html itemscope itemprop="VideoObject" itemtype="https://schema.org/VideoObject">
-<head>
-  <title itemprop="name">Introducing the self-driving bicycle in the Netherlands</title>
-</head>
 <body>
 <p>In the example, we looked at the transaction in the very first block, there are several hundred thousand of them, and the blocks with information about confirmed transfers go in chronological order. The technology (without exaggeration, revolutionary) was called blockchain &ndash; in translation, a chain of blocks. Schematically, it looks like this:</p>
 <p>&nbsp;</p>
@@ -113,7 +109,68 @@ paginate: true
 <img src="/assets/img/posts-img/btc/bitcoin-future.webp" alt="future of btc" width="612" height="612" loading="lazy">
 <h4 id="8">How to buy and securely store Bitcoin</h4>
 <p>If you want to use bitcoins for online payments, international transfers, or storage with an eye to long-term price increases, you need to buy them somewhere.</p>
-{% include how-to.html coinname="bitcoin" coinlink="https://cryptocurrencynewspro.com/what/bitcoin" step1text="When buying Bitcoin for the first time; You need to choose an exchange that accepts payment in TL, USD or any other currency of your choice." step2text="Enter the cryptocurrency exchange of your choice. Then create an account by verifying your name, email address, phone number and credentials." step3text="The cheapest way to buy Bitcoin is usually to deposit funds from your bank account to an exchange and then use it for purchases. If you decide to sell your cryptocurrency, you can transfer the money back to your account later." step4text="First of all - you don't have to buy a whole Bitcoin. Most exchanges let you buy $10 worth, maybe even less. Just type in how much you want to spend in TL, dollars or your deposited currency and let the exchange calculate the rest." %}
+<div itemscope="" itemtype="https://schema.org/HowTo">
+  <b><span itemprop="name"><p>How to buy bitcoin</p></span></b>
+  <div><p>Estimated Cost</p> <span itemprop="estimatedCost" itemscope="" itemtype="https://schema.org/MonetaryAmount">
+    <meta itemprop="currency" content="USD" />
+    <meta itemprop="value" content="0" />
+    <p>$0</p>
+  </span>
+  </div>
+  <div><p>Estimated Total Time</p> <span itemprop="totalTime" content="P2D"><p>5 min</p></span></div>
+  <div><p><b>What is necessary:</b></p></div>
+  <div itemprop="supply" itemscope="" itemtype="https://schema.org/HowToSupply">
+      <span itemprop="name"><p>ID Card</p></span>
+  </div>
+  <div itemprop="supply" itemscope="" itemtype="https://schema.org/HowToSupply">
+      <span itemprop="name"><p>E Mail</p></span>
+  </div>
+  <div itemprop="supply" itemscope="" itemtype="https://schema.org/HowToSupply">
+      <span itemprop="name"><p>Phone Number</p></span>
+  </div>
+  <div itemprop="supply" itemscope="" itemtype="https://schema.org/HowToSupply">
+      <span itemprop="name"><p>Payment Method</p></span>
+  </div>
+  <div itemprop="tool" itemscope="" itemtype="https://schema.org/HowToTool">
+      <span itemprop="name"><p>Tool: A cryptocurrency market.</p></span>
+  </div>
+  <div itemprop="step" itemscope="" itemtype="https://schema.org/HowToStep">
+    <link itemprop="url" href="https://cryptocurrencynewspro.com/what/bitcoin" />
+    <div itemprop="name"><p><b>Compare Cryptocurrency Markets</b></p></div>
+    <img itemprop="image" alt="cryptocurrency market bitcoin" img="" src="https://cryptocurrencynewspro.com/assets/img/compare-markets.png" />
+    <div itemprop="itemListElement" itemscope="" itemtype="https://schema.org/HowToDirection">
+      <div itemprop="text"><p>When buying Bitcoin for the first time; You need to choose an exchange that accepts payment in TL, USD or any other currency of your choice.</p>
+      </div>
+    </div>
+  </div>
+  <div itemprop="step" itemscope="" itemtype="https://schema.org/HowToStep">
+    <link itemprop="url" href="https://cryptocurrencynewspro.com/what/bitcoin" />
+    <div itemprop="name"><p><b>Create an account</b></p></div>
+    <img itemprop="image" alt="register" img="" src="https://cryptocurrencynewspro.com/assets/img/register.png" />
+    <div itemprop="itemListElement" itemscope="" itemtype="https://schema.org/HowToDirection">
+      <div itemprop="text"><p>Enter the cryptocurrency exchange of your choice. Then create an account by verifying your name, email address, phone number and credentials.</p>
+      </div>
+    </div>
+  </div>
+  <div itemprop="step" itemscope="" itemtype="https://schema.org/HowToStep">
+    <link itemprop="url" href="https://cryptocurrencynewspro.com/what/bitcoin" />
+    <div itemprop="name"><p><b>Make Payment</b></p></div>
+    <img itemprop="image" alt="make payment" img="" src="https://cryptocurrencynewspro.com/assets/img/make-payment.png" />
+    <div itemprop="itemListElement" itemscope="" itemtype="https://schema.org/HowToDirection">
+      <div itemprop="text"><p>The cheapest way to buy Bitcoin is usually to deposit funds from your bank account to an exchange and then use it for purchases. If you decide to sell your cryptocurrency, you can transfer the money back to your account later.</p>
+      </div>
+    </div>
+  </div>
+  <div itemprop="step" itemscope="" itemtype="https://schema.org/HowToStep">
+    <link itemprop="url" href="https://cryptocurrencynewspro.com/what/bitcoin" />
+    <div itemprop="name"><b><p>bitcoin buy</p></b></div>
+    <img itemprop="image" alt="bitcoin coin buy" img="" src="https://cryptocurrencynewspro.com/assets/img/btc.png" />
+    <div itemprop="itemListElement" itemscope="" itemtype="https://schema.org/HowToDirection">
+      <div itemprop="text"><p>First of all - you don't have to buy a whole Bitcoin. Most exchanges let you buy $10 worth, maybe even less. Just type in how much you want to spend in TL, dollars or your deposited currency and let the exchange calculate the rest.</p>
+      </div>
+    </div>
+  </div>
+</div>
 
 <p>On many services, you can also store cryptocurrency for free and for an unlimited period of time. Here are the best options, in my opinion:</p>
 <p>Briefly about each of them:</p>
