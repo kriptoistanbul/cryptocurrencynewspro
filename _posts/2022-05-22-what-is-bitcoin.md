@@ -12,7 +12,7 @@ categories:
 permalink: "/what/bitcoin/"
 paginate: true
 ---
-<b style="text-align:center; font-size: 150%;">Tavle of Content</b>
+<b style="text-align:center; font-size: 150%;">Table of Content</b>
 <ol style="margin: 0;">
 	<li style="padding: 2px;"><a href="#1">What is Bitcoin BTC?</a></li>
 	<li style="padding: 2px;"><a href="#2">What is Bitcoin in simple words</a></li>
@@ -34,8 +34,7 @@ paginate: true
   <li style="padding: 2px;"><a href="#16">Bitcoin's Fear and Greed Index</a></li>
   <li style="padding: 2px;"><a href="#17">Bitcoin's Popularity in media</a></li>
   <li style="padding: 2px;"><a href="#18">Bitcoin Prospects and Rate Forecast for 2022</a></li>
-  <li style="padding: 2px;"><a href="#19">Frquently Asked Questions</a></li>
-  <li style="padding: 2px;"><a href="#20">How to buy Bitcoin</a></li>
+  <li style="padding: 2px;"><a href="#19">Frequently Asked Questions</a></li>
 </ol>
 
 <h1 id="1"><strong>What is Bitcoin BTC?</strong></h1>
@@ -114,12 +113,15 @@ paginate: true
 <img src="/assets/img/posts-img/btc/bitcoin-future.webp" alt="future of btc" width="612" height="612" loading="lazy">
 <h4 id="8">How to buy and securely store Bitcoin</h4>
 <p>If you want to use bitcoins for online payments, international transfers, or storage with an eye to long-term price increases, you need to buy them somewhere.</p>
+{% include how-to.html coinname="bitcoin" coinlink="https://cryptocurrencynewspro.com/what/bitcoin" step1text="When buying Bitcoin for the first time; You need to choose an exchange that accepts payment in TL, USD or any other currency of your choice." step2text="Enter the cryptocurrency exchange of your choice. Then create an account by verifying your name, email address, phone number and credentials." step3text="The cheapest way to buy Bitcoin is usually to deposit funds from your bank account to an exchange and then use it for purchases. If you decide to sell your cryptocurrency, you can transfer the money back to your account later." step4text="First of all - you don't have to buy a whole Bitcoin. Most exchanges let you buy $10 worth, maybe even less. Just type in how much you want to spend in TL, dollars or your deposited currency and let the exchange calculate the rest." %}
+
 <p>On many services, you can also store cryptocurrency for free and for an unlimited period of time. Here are the best options, in my opinion:</p>
 <p>Briefly about each of them:</p>
+
 <p><strong>Binance</strong> is the largest cryptocurrency exchange. On it you can not only buy and store bitcoin, but also earn with the help of trading and crypto depositories. Cashback is accrued when registering on my affiliate link.</p>
 <p><strong>Trustee Wallet</strong> is one of the best mobile wallets with a Russian-language interface.</p>
 <p><strong>ExchangeSumo</strong> &ndash; monitoring of reliable exchangers through which you can buy bitcoin without identity verification. There is also an opportunity to get a good cashback.</p>
-<p><strong>A</strong><strong>dvCash</strong> is one of the most popular payment systems where you can buy cryptocurrencies.</p>
+<p><strong>AdvCash</strong> is one of the most popular payment systems where you can buy cryptocurrencies.</p>
 <p><strong>Bitzlato</strong> is a p2p platform with a large selection of cryptocurrencies and payment methods.</p>
 <p><strong>BTC_CHANGE_BOT</strong> is a telegram bot from Bitzlato, a convenient thing for active trading.</p>
 <p><strong>Ledger</strong> is a so-called "cold wallet", which is similar to a flash drive and connects to the Internet if necessary. This is the highest level of protection for crypto investments.</p>
@@ -209,6 +211,7 @@ paginate: true
 </ul>
 </li>
 </ul>
+<h6 id="19">Frequently Asked Questions</h6>
 <div class="schema-faq-code" itemscope="" itemtype="https://schema.org/FAQPage">
     <div itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question" class="faq-question">
         <strong><h6 itemprop="name" class="faq-q">Can bitcoin be cashed</h6></strong>
@@ -448,6 +451,5 @@ paginate: true
         </div>
     </div>
 </div>
+<h6 id="20">How to buy Bitcoin</h6>
 {% include youtube.html width="560" height="315" id="ea884j1hf1I" start="0" title="Bitcoin KFC" %}
-<h6>How to Buy Bitcoin Step by Step</h6>
-{% include how-to.html coinname="bitcoin" coinlink="https://cryptocurrencynewspro.com/what/bitcoin" step1text="When buying Bitcoin for the first time; You need to choose an exchange that accepts payment in TL, USD or any other currency of your choice." step2text="Enter the cryptocurrency exchange of your choice. Then create an account by verifying your name, email address, phone number and credentials." step3text="The cheapest way to buy Bitcoin is usually to deposit funds from your bank account to an exchange and then use it for purchases. If you decide to sell your cryptocurrency, you can transfer the money back to your account later." step4text="First of all - you don't have to buy a whole Bitcoin. Most exchanges let you buy $10 worth, maybe even less. Just type in how much you want to spend in TL, dollars or your deposited currency and let the exchange calculate the rest." %}
