@@ -14,6 +14,7 @@ paginate: true
 ---
 <h1><strong>What is Bitcoin BTC?</strong></h1>
 <p>Bitcoin (Bitcoin) is a network cryptocurrency proposed by Satoshi Nakamoto in 2008. It is different from the currency minted and issued by the state in the past. Bitcoin is a network currency that uses blockchain as the core technology. It has the characteristics of decentralization and open source, and the transaction is a peer-to-peer (P2P) network transaction. Bitcoin transactions will not be monitored by banks or relevant state units. The most special feature is the private key feature adopted by Bitcoin, which can not only ensure the ownership of every Bitcoin owner, but also conduct transactions anonymously, and it is not necessary to propose one's name when trading, so Bitcoin is often considered to be used illegally.</p>
+  <blockquote cite="bitcoin.org">Bitcoin is a consensus network that enables a new payment system and a completely digital money. It is the first decentralized peer-to-peer payment network that is powered by its users with no central authority or middlemen. From a user perspective, Bitcoin is pretty much like cash for the Internet. Bitcoin can also be seen as the most prominent triple entry bookkeeping system in existence.</blockquote>
 <img src="/assets/img/posts-img/btc/what-is-bitcoin-at-today.webp" alt="what is btc mean" width="412" height="274" loading="lazy">
 <p>Since Bitcoin is an online virtual currency, how did it come about? The way Bitcoin is generated is related to its core technology "blockchain". The feature of the blockchain is "decentralized computing". Each computer in the blockchain will participate in the operation of the database and record all historical bitcoin transactions. , and because of the anonymous nature of Bitcoin, in the process of split calculation, all information is encrypted, and no computer can read who the user is. Therefore, anyone only needs to run the Bitcoin software and participate in the calculation to get Bitcoin, and this process is called "mining".</p>
 <p>Although Bitcoin's vision is very good, it actually encounters many problems when it runs. In addition to the different attitudes of various governments towards Bitcoin and the lack of consumption channels, the main problems encountered by Bitcoin today are that the exchange rate floating ratio is too large and the transaction time is too long. Because the special blockchain characteristics of Bitcoin distinguish it from other currencies, everyone is scrambling to pay attention and invest, resulting in a high risk of exchange rate floating ratios. In addition, due to the fact that everyone can mine Bitcoin, the system cannot bear the load, and the transaction time sometimes reaches as high as 40 minutes. Although Bitcoin currently has many problems, its core technology, blockchain, has been widely used in all walks of life.</p>
@@ -30,7 +31,6 @@ paginate: true
 <img src="/assets/img/posts-img/btc/is-bitcoin-worth.webp" alt="bitcoin price what is bitcoin" width="612" height="612" loading="lazy">
 <h2>What Bitcoin Looks Like</h2>
 <p>Ordinary users access bitcoin through a variety of applications and sites where they have a wallet with a similar address:</p>
-<p>-btc wallet image add here-</p>
 <p>If necessary, bitcoin can be easily exchanged for fiat currency - dollar, euro, ruble, hryvnia, etc.</p>
 <p>Externally, the process of using cryptocurrency is quite simple and differs little from Internet banking and electronic payment systems. The main difference between bitcoin and the usual currencies is decentralization. Cryptocurrencies are not controlled by any one organization or state, thanks to this, it is impossible at any time to change the rules of the game and "print" the right amount of bitcoins to cover debts - as they do in the United States, overcoming crises with the printing press. True, paper money is at least backed by the gold and currency reserves of the country, and bitcoin appears as if out of thin air and without immersion in details even resembles a financial pyramid. Why is it worth anything at all?</p>
 <h3>What bitcoin is provided with</h3>
@@ -103,6 +103,7 @@ paginate: true
 <h4>Method No1: Trading on crypto exchanges</h4>
 <p>Bitcoin's impressive ups and downs are a paradise for traders who can increase their investments several times in a short time. For successful BTC trading, it is best to work through a cryptocurrency exchange &ndash; they have the highest liquidity and the best buy/sell prices. Thanks to the partnership with some exchanges, I can offer discounts on commissions on exchange transactions to blog readers:</p>
 <p>For successful trading on crypto exchanges, you need a certain theoretical training and a large amount of experience - so this way of earning is not suitable for everyone. Skills and qualifications can only be gained over time, so try not to risk large sums at first.</p>
+{% include youtube.html width="560" height="315" id="s4g1XFU8Gto" start="0" title="What is Bitcoin and how does it work" %}
 <h4>Method #2: Long-Term Investing (HODL)</h4>
 <img src="/assets/img/posts-img/btc/bitcoin-owner.webp" alt="bitcoin owners" width="612" height="344" loading="lazy">
 <p>The easiest and historically more than effective way to make money on Bitcoin. People who bought cryptocurrency a few years ago and still haven't sold it today have hundreds and even thousands of percent of their profits. Of course, history does not always repeat itself, but even not in the most successful 2021, the price of BTC increased almost 2 times.</p>
@@ -110,7 +111,6 @@ paginate: true
 <h4>Method #3: Cryptodeposites</h4>
 <p>Long-term investing in bitcoin has one drawback - the only way to earn money is to increase the price. If there is a collapse in the market, as in 2018, then the investor will be left with a loss. To increase the profitability of bitcoin investments, it is worth using crypto depositories - a way to obtain passive income through interest investments on cryptocurrency exchanges, similar to bank deposits.</p>
 <p>For example, on the Binance crypto exchange, you can invest bitcoins at 7% per annum for 90 days:</p>
-<p>-img add here-</p>
 <p>Even in dollars, it is not easy to get 7% per annum, and with the growth of the price of bitcoin, the projected profit in USD will be even higher:</p>
 <p>BTCUSD rate growth by 50%: profit in USD 7%*1.5 = <strong>10.5%</strong>;</p>
 <p>BTCUSD rate growth by 100%: profit in USD 7%*2 = <strong>14%</strong>;</p>
@@ -409,16 +409,19 @@ paginate: true
     </div>
 
     <div itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question" class="faq-question">
-        <strong><h6 itemprop="name" class="faq-q">can you use bitcoin on ebay</h6></strong>
+        <strong><h6 itemprop="name" class="faq-q">Can you use bitcoin on ebay</h6></strong>
         <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
              <p itemprop="text" class="faq-a">No, you cannot use bitcoin as a valid payment method on ebay.</p>
         </div>
     </div>
 
     <div itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question" class="faq-question">
-        <strong><h6 itemprop="name" class="faq-q">can you use bitcoin to buy things</h6></strong>
+        <strong><h6 itemprop="name" class="faq-q">Can you use bitcoin to buy things</h6></strong>
         <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
              <p itemprop="text" class="faq-a">Yes, you can use bitcoin to buy things on stores which support the bitcoin payments. There ara many places that support bitcoin as a payment system, for example KFC.</p>
         </div>
     </div>
 </div>
+{% include youtube.html width="560" height="315" id="ea884j1hf1I" start="0" title="Bitcoin KFC" %}
+<h6>How to Buy Bitcoin Step by Step</h6>
+{% include how-to.html coinname="bitcoin" coinlink="https://cryptocurrencynewspro.com/what/bitcoin" step1text="When buying Bitcoin for the first time; You need to choose an exchange that accepts payment in TL, USD or any other currency of your choice." step2text="Enter the cryptocurrency exchange of your choice. Then create an account by verifying your name, email address, phone number and credentials." step3text="The cheapest way to buy Bitcoin is usually to deposit funds from your bank account to an exchange and then use it for purchases. If you decide to sell your cryptocurrency, you can transfer the money back to your account later." step4text="First of all - you don't have to buy a whole Bitcoin. Most exchanges let you buy $10 worth, maybe even less. Just type in how much you want to spend in TL, dollars or your deposited currency and let the exchange calculate the rest." %}
