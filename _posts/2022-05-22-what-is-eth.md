@@ -13,28 +13,26 @@ paginate: true
 ---
 <b style="text-align:center; font-size: 150%;">Table of Content</b>
 <ol style="margin: 0;">
-	<li style="padding: 2px;"><a href="#1">What is Bitcoin BTC?</a></li>
-	<li style="padding: 2px;"><a href="#2">What is Bitcoin in simple words</a></li>
-	<li style="padding: 2px;"><a href="#3">What Bitcoin Looks Like</a></li>
-	<li style="padding: 2px;"><a href="#4">What bitcoin is provided with</a></li>
-	<li style="padding: 2px;"><a href="#5">Who created the Bitcoin cryptocurrency</a></li>
-	<li style="padding: 2px;"><a href="#6">What are Bitcoin forks?</a></li>
-	<li style="padding: 2px;"><a href="#7">How Bitcoin Works</a></li>
-	<li style="padding: 2px;"><a href="#8">How to earn Bitcoins: with investments and without investments</a></li>
+	<li style="padding: 2px;"><a href="#1">What is Ethereum ETH</a></li>
+	<li style="padding: 2px;"><a href="#2">What is Ethereum (ETH) in simple terms</a></li>
+	<li style="padding: 2px;"><a href="#3">Who Created Ethereum</a></li>
+	<li style="padding: 2px;"><a href="#4">What is Ethereum Classic ETC</a></li>
+	<li style="padding: 2px;"><a href="#5">How to profitably buy and store Ethereum</a></li>
+	<li style="padding: 2px;"><a href="#6">The Best Ways to Make Money with Ethereum</a></li>
 		<ul style="margin: 0;">
-			<li style="padding: 2px;"><a href="#9">Method No1: Trading on crypto exchanges</a></li>
-			<li style="padding: 2px;"><a href="#10">Method #2: Long-Term Investing (HODL)</a></li>
-			<li style="padding: 2px;"><a href="#11">Method #3: Cryptodeposites</a></li>
-			<li style="padding: 2px;"><a href="#12">Method #4: Bitcoin Mining</a></li>
-			<li style="padding: 2px;"><a href="#13">Method #5: Bitcoin Faucets</a></li>
+			<li style="padding: 2px;"><a href="#7">Method #1: ETH faucets</a></li>
+			<li style="padding: 2px;"><a href="#8">Method #2: Trading and Copy Trading</a></li>
+			<li style="padding: 2px;"><a href="#9">Method #3: Investing</a></li>
+			<li style="padding: 2px;"><a href="#10">Method #4: Staking ETH 2.0</a></li>
+			<li style="padding: 2px;"><a href="#11">Method #5: NFTs</a></li>
 		</ul>
-	<li style="padding: 2px;"><a href="#14">Is it worth buying/selling Bitcoin today</a></li>
-  <li style="padding: 2px;"><a href="#15">Bitcoin Technical Analysis</a></li>
-  <li style="padding: 2px;"><a href="#16">Bitcoin's Fear and Greed Index</a></li>
-  <li style="padding: 2px;"><a href="#17">Bitcoin's Popularity in media</a></li>
-  <li style="padding: 2px;"><a href="#18">Bitcoin Prospects and Rate Forecast for 2022</a></li>
-  <li style="padding: 2px;"><a href="#19">Frequently Asked Questions</a></li>
-  <li style="padding: 2px;"><a href="#20">El Salvador and Bitcoin</a></li>
+	<li style="padding: 2px;"><a href="#12">How Ethereum Works: A Simple Language for Beginners</a></li>
+  <li style="padding: 2px;"><a href="#13">How smart contracts work</a></li>
+  <li style="padding: 2px;"><a href="#14">What is Ethereum 2.0</a></li>
+  <li style="padding: 2px;"><a href="#15">Is it worth buying or selling Ethereum today?</a></li>
+  <li style="padding: 2px;"><a href="#16">Bitcoin Prospects and Rate Forecast for 2022</a></li>
+  <li style="padding: 2px;"><a href="#17">Frequently Asked Questions</a></li>
+  <li style="padding: 2px;"><a href="#19">Where to buy Ethereum</a></li>
 </ol>
 <h1 id="1"><strong>What is Ethereum ETH?</strong></h1>
 <p>Throughout the history of the crypto market, Bitcoin has remained the leader and during this time it has not changed much, this is plus or minus the same decentralized payment system as before. &ldquo;Blockchain technology is capable of more&rdquo; - this is how many community members began to think, one of which was Vitalik Buterin, the creator of the Ethereum platform . It is widely known for its ETH (Ether or ether) cryptocurrency, which confidently holds the 2nd place in terms of capitalization - something like silver in the world of digital assets.</p>
