@@ -14,7 +14,7 @@ paginate: true
 ---
 <b style="text-align:center; font-size: 150%;">Table of Content</b>
 <ol style="margin: 0;">
-	<li style="padding: 2px;"><a href="#1">What is Ethereum ADA</a></li>
+	<li style="padding: 2px;"><a href="#1">What is ADA</a></li>
 	<li style="padding: 2px;"><a href="#2">What is Cardano: an overview of the project and its development</a></li>
 	<li style="padding: 2px;"><a href="#3">How to buy and store ADA cryptocurrency</a></li>
 	<li style="padding: 2px;"><a href="#4">Pros and cons of different wallets</a></li>
