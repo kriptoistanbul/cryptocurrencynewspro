@@ -219,14 +219,14 @@ paginate: true
 <h5 id="14">Frequently Asked Questions</h5>
 <div class="schema-faq-code" itemscope="" itemtype="https://schema.org/FAQPage">
     <div itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question" class="faq-question">
-        <h3 itemprop="name" class="faq-q">Is BNB a token or coin?</h3>
+        <h6 itemprop="name" class="faq-q">Is BNB a token or coin?</h6>
         <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
              <p itemprop="text" class="faq-a">BNB is a token that was created by Binance in 2017.</p>
         </div>
     </div>
 
     <div itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question" class="faq-question">
-        <h3 itemprop="name" class="faq-q">What can I do with BNB coin?</h3>
+        <h6 itemprop="name" class="faq-q">What can I do with BNB coin?</h6>
         <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
              <p itemprop="text" class="faq-a">Make credit card payments.
 Pay for travel arrangements (on select websites)
@@ -239,14 +239,14 @@ Donate to charity.</p>
     </div>
 
     <div itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question" class="faq-question">
-        <h3 itemprop="name" class="faq-q">Can BNB be mined</h3>
+        <h6 itemprop="name" class="faq-q">Can BNB be mined</h6>
         <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
              <p itemprop="text" class="faq-a">Yes, BNB can be mined by using ASICS and Cloud mining methods.</p>
         </div>
     </div>
 
     <div itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question" class="faq-question">
-        <h3 itemprop="name" class="faq-q">Can BNB be staked</h3>
+        <h6 itemprop="name" class="faq-q">Can BNB be staked</h6>
         <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
              <p itemprop="text" class="faq-a">Yes, you can stake BNB by using Binance app.</p>
         </div>
