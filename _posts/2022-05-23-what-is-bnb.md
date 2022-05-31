@@ -25,9 +25,8 @@ paginate: true
   <li style="padding: 2px;"><a href="#10">Principles of BNB cryptocurrency and its features</a></li>
   <li style="padding: 2px;"><a href="#11">Is it worth buying Binance Coin today</a></li>
   <li style="padding: 2px;"><a href="#12">BNBUSD Exchange Rate Forecast for 2022</a></li>
-  <li style="padding: 2px;"><a href="#13">ADA Cryptocurrency Tokenomics</a></li>
-  <li style="padding: 2px;"><a href="#14">Where to buy</a></li>
-  <li style="padding: 2px;"><a href="#15">Frequently Asked Questions</a></li>
+  <li style="padding: 2px;"><a href="#13">Where to buy</a></li>
+  <li style="padding: 2px;"><a href="#14">Frequently Asked Questions</a></li>
 </ol>
 <h1 id="1"><strong>What is Binance Coin BNB?</strong></h1>
 <p>Binance Coin or BNB is a cryptocurrency that provides the work of a large ecosystem of the Binance cryptocurrency exchange. In addition to the exchange itself, it includes dozens of platforms and services: two blockchains, DEX, NFT-marketplace, ICO platform, crypto wallets, DeFi-services - in short, the company provides services in all areas of the crypto market. Every year the ecosystem is growing rapidly, and without BNB its existence is impossible, which gives reason to talk about the great potential of cryptocurrency.<strong><br /></strong></p>
