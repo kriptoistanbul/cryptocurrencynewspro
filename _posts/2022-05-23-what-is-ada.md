@@ -89,7 +89,7 @@ paginate: true
 <table>
 <thead>
   <tr>
-    <th colspan="4">Binance Ada Coin Stake Rates (Data Rate: 31.05.2022) Check <a href="https://www.binance.com/en/earn/ada" target="_blank" rel="noopener noreferrer">Binance</a> for the live rates</th>
+    <th colspan="4">Binance Ada Coin Stake Rates (Data Date: 31.05.2022) Check <a href="https://www.binance.com/en/earn/ada" target="_blank" rel="noopener noreferrer">Binance</a> for the live rates</th>
   </tr>
 </thead>
 <tbody>
