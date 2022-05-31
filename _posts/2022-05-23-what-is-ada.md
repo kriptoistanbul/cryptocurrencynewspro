@@ -14,7 +14,7 @@ paginate: true
 ---
 <b style="text-align:center; font-size: 150%;">Table of Content</b>
 <ol style="margin: 0;">
-	<li style="padding: 2px;"><a href="#1">What is ADA</a></li>
+	<li style="padding: 2px;"><a href="#1">What is Cardano ADA</a></li>
 	<li style="padding: 2px;"><a href="#2">What is Cardano: an overview of the project and its development</a></li>
 	<li style="padding: 2px;"><a href="#3">How to buy and store ADA cryptocurrency</a></li>
 	<li style="padding: 2px;"><a href="#4">Pros and cons of different wallets</a></li>
@@ -69,7 +69,7 @@ paginate: true
 <h3 id="6"><br />Cardano faucets<br /><br /></h3>
 <p>As always, it is possible to receive a small amount of cryptocurrency without investment on special faucet sites. There are several options, the simplest is to enter the site after a certain time and click the special &ldquo;win&rdquo; button. Cryptocurrency ADA in faucets is not common, here are the sites that I know about:</p>
 <p><br />freecardano<br />Coinfaucet<br />Coinpayz<br />coinpot</p>
-<p><span style="text-decoration: underline;">By the way, the blog has a more extensive selection of the best cryptocurrency faucets , I also recommend studying it.</span><br /><br /></p>
+<p><span style="text-decoration: underline;"></span><br /><br /></p>
 <h3 id="7">Trading on crypto exchanges</h3>
 <p>The way to earn money with the highest income potential and the highest risks. By making transactions on the exchange with leverage, you can increase your investments several times - but if you make a gross mistake, there is a chance to lose all your money. However, this is the most popular way to make money with cryptocurrencies, and you can use it with Cardano too. Here are some exchanges where it is profitable to trade ADA:</p>
 <p>Binance<br />FTX<br />Huobi Global<br />Bitfinex<br />OKX<br />Bybit</p>
@@ -78,14 +78,47 @@ paginate: true
 <h4 id="8">Investment</h4>
 <p>Cryptocurrency Cardano has been among the leaders in the capitalization rating of blockchain projects for several years. Despite its shortcomings, it is one of the most promising Ethereum competitors.</p>
 <p>ADA can be considered for a long-term buy-and-hold investment : it has a solid foundation in the form of an experienced development team and Twitter with a rapidly growing number of followers (already over a million). It was also very important to introduce support for smart contracts and decentralized applications - this will allow the project to occupy a niche in various sectors of the crypto market.</p>
-<p>In terms of profitability, Cardano outperforms Bitcoin, although not by much:<br /><br /><span style="text-decoration: underline;"><em>ADA VS BTC Table Add to here</em></span></p>
+<p>In terms of profitability, Cardano outperforms Bitcoin, although not by much:<br /><br /></p>
 <h4 id="9">Staking Cardano<br /><br /></h4>
 <p>Staking Cardano is a passive income option by participating in maintaining the operation of cryptocurrency networks with the Proof-of-Stake consensus algorithm, similar to mining. The difference is that for staking you do not need to buy expensive equipment, you just need to purchase a cryptocurrency and block it in a wallet with the possibility of earning. There are two fundamentally different ways to stake cryptocurrency:</p>
 <ol>
 <li>Create your own node, that is, a node of the cryptocurrency network that checks and approves transactions,</li>
 <li>Delegate cryptocurrency to the staking pool.<br /><br /></li>
 </ol>
-<p>An easier way to make money, obviously, is the second one - you just need to entrust the cryptocurrency to another owner of the node. Of course, he will not be able to appropriate the money, only use it for staking. The profitability potential will be lower than with your own node, but there will be no strain. One of the best Cardano staking options is through the Binance exchange:<br /><br /><span style="text-decoration: underline;"><em><strong>BINANCE ADA STAKE RATES ADD HERE</strong></em></span></p>
+<p>An easier way to make money, obviously, is the second one - you just need to entrust the cryptocurrency to another owner of the node. Of course, he will not be able to appropriate the money, only use it for staking. The profitability potential will be lower than with your own node, but there will be no strain. One of the best Cardano staking options is through the Binance exchange:<br /><br />
+<table>
+<thead>
+  <tr>
+    <th colspan="4">Binance Ada Coin Stake Rates (Data Rate: 31.05.2022) Check <a href="https://www.binance.com/en/earn/ada" target="_blank" rel="noopener noreferrer">Binance</a> for the live rates</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>ADA</td>
+    <td>Locked Staking</td>
+    <td>11.23%</td>
+    <td>90 Days</td>
+  </tr>
+  <tr>
+    <td>ADA</td>
+    <td>Locked Staking</td>
+    <td>8.24%</td>
+    <td>60 Days</td>
+  </tr>
+  <tr>
+    <td>ADA</td>
+    <td>Locked Staking</td>
+    <td>7.75%</td>
+    <td>30 Days</td>
+  </tr>
+  <tr>
+    <td>ADA</td>
+    <td>Flexible Savings</td>
+    <td>1.00%<br></td>
+    <td>Flexible</td>
+  </tr>
+</tbody>
+</table>
 <h5 id="10">Cardano project team</h5>
 <p>Three companies are involved in the development, management and promotion of Cardano:</p>
 <ul>
