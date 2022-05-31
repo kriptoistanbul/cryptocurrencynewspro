@@ -31,6 +31,7 @@ paginate: true
 </ol>
 <h1 id="1"><strong>What is Cardano ADA?</strong></h1>
 <p>Cardano is a Proof-of-Stake blockchain platform built in the Haskell programming language by Ethereum co-founder Charles Hoskinson and his colleague Jeremy Wood. Officially launched on September 29, 2017. It is named after the outstanding 16th-century scientist Geloramo Cardano, and its own cryptocurrency ADA (₳) is named after Ada Lovelace, who created the first computer program in the 19th century. Cardano supports the creation of smart contracts and tokens, making it a direct competitor (&ldquo;killer&rdquo;) of Ethereum.<br /></p>
+<blockquote cite="https://cardano.org/what-is-ada/">Ada is a digital currency. Any user, located anywhere in the world, can use ada as a secure exchange of value – without requiring a third party to mediate the exchange. Every transaction is permanently, securely, and transparently recorded on the Cardano blockchain.</blockquote>
 <img src="/assets/img/posts-img/ada/ada.webp" alt="ada crypto" width="612" height="256" loading="lazy">
 <h2 id="2"><strong>What is Cardano: an overview of the project and its development<br /><br /></strong></h2>
 <p>Development began in 2015, a few months after the founders left Ethereum. The main distinguishing feature of the Cardano project from the very start is a rigorous scientific approach to development: all innovations are reviewed and verified by the scientific community. This allows the blockchain to remain reliable and stable, as well as avoid vulnerabilities and flaws in advance.<br /><br />Also, today Cardano is the largest blockchain with an &ldquo;environmentally friendly&rdquo; Proof-of-Stake algorithm, where the energy costs for staking compared to mining are 99% lower. However, this title will be lost after the transition of Ethereum to PoS. Initially, the project was funded through an ICO; in 2015-2017, several rounds of public cryptocurrency sales took place at once. Japan became the main target country, so far there are two official languages ​​on the project sites - English and Japanese. The sale price of the cryptocurrency was only $0.02, but the developers managed to raise $60 million. Cryptocurrency ADA entered the exchanges in October 2017 and in 3 months has risen in price by 50 times - up to $1. True, after that, the price collapsed by 90% following Bitcoin (its price fell from $20,000 to $3,000), but in 2021, the price of ADA set new records and reached $3. Cardano is developing according to a pre-approved roadmap , calculated until about 2025.</p>
@@ -135,12 +136,11 @@ paginate: true
 </ul>
 <p>In total, the IOHK team has more than 300 people , among which there are many experienced workers in the blockchain industry, as well as doctors of sciences and professors. If you add the people working on the project at Cardano Foundation and Emurgo, you get a large and experienced team that can make a world-class project.</p>
 <h5 id="11">How the Cardano blockchain works</h5>
-<p>Cardano is considered a third-generation blockchain (first and second - Bitcoin and Ethereum), which took the best ideas of its predecessors and tried to solve their main problems.</p>
+<p>Cardano is considered a third-generation blockchain (first and second - <a href="https://cryptocurrencynewspro.com/what/bitcoin/" title="What is btc" target="_blank">Bitcoin</a> and Ethereum), which took the best ideas of its predecessors and tried to solve their main problems.</p>
 <p><strong>Problem #1: Scaling.</strong> The Bitcoin network cannot process more than 10 transactions per second (for comparison, the speed of VISA is several thousand per second). If the transaction flow exceeds this value, a queue arises - some applications wait to be added to the blockchain for hours, and some are completely rejected. To speed up the process, you can increase the fee, but this does not solve the problem, and the average price of sending BTC grows to $50 and above:<br /><br /></p>
-<p>-BTC AVERAGE TRANSACTION FEE RATES ADD HERE-</p>
 <p>Several innovations have been introduced to Cardano to scale, such as the use of the Proof-of-Stake consensus algorithm. If you are unfamiliar with the term PoS, I recommend additionally reading the basic guide to cryptocurrencies . In short, this is a way to maintain the network through staking, where the owners of the network nodes block the ADA cryptocurrency in their wallets and receive a reward for this. The need for mining is eliminated and this saves both energy and computing resources.</p>
 <p>The developers of Cardano were among the first to put into practice a unique PoS algorithm called Ouroboros . Its main goal is to speed up the blockchain in parallel with the growth of the number of users in order to avoid delays and high fees. To do this, in Ouroboros, the blockchain is distributed into epochs (periods of 5 days each):</p>
-<p>-Cardano blockchain explorer lates epochs add here -</p>
+<p><a href="https://explorer.cardano.org/en.html" title="What is cardano epochs" target="_blank">Cardano blockchain explorer lates epochs</a></p>
 <p>Further, the epochs are divided into even smaller time slots of 1 second each (432000 in one epoch). Such a system allows you to flexibly configure the blockchain parameters - time intervals can be changed and thereby speed up or slow down the network.</p>
 <p>Each slot has a leader that is chosen randomly among all ADA cryptocurrency stakers, larger players have a higher chance of creating a block:</p>
 <p>The slot leader is responsible for adding a new transaction block to the blockchain and passing the baton to the next leader. To protect the protocol, &ldquo;approval delay&rdquo; is used - the last few blocks are considered temporary and only after verification by several leaders receive confirmation. Transaction fees are collected during an epoch and distributed at the end of the epoch to leaders who added blocks.</p>
@@ -302,7 +302,7 @@ Cardano itself is the first 3rd generation blockchain. When creating it, the dev
              <p itemprop="text" class="faq-a">No, Cardano is not an erc20 token. Some popular erc20 tokens are Text
 Chainlink (LINK)
 Tether (USDT)
-Shiba Inu (SHIB)
+<a href="https://cryptocurrencynewspro.com/what/shib/" title="What is Shiba Uni" target="_blank">Shiba Inu (SHIB)</a>
 Wrapped Bitcoin (WBTC)
 OmiseGO (OMG)
 0x (ZRX)
