@@ -8,8 +8,8 @@
             <main class="home" id="post" role="main">
                 <strong><p class="title-category">/{{page.title}}</p></strong>
                 <div id="grid" class="row flex-grid">
-                    {% assign airdrop = site.airdrop | where_exp:"post","post.is_generated != true" %}
-                    {% for post in airdrop %}
+                    {% assign posts = site.airdrop | where_exp:"post","post.is_generated != true" %}
+                    {% for post in posts %}
                         {% if post.category == page.slug %}
                             <article class="box-item">
                                 <div class="box-body">
@@ -61,6 +61,8 @@
                         {% endif %}
                     {% endfor %}
                 </div>
+
+
 
 <section style="background-color:white;">
   <article role="article" class="post-content">
