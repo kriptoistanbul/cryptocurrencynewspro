@@ -9,7 +9,7 @@
                 <strong><p class="title-category">/{{page.title}}</p></strong>
                 <div id="grid" class="row flex-grid">
                     {% assign airdrop = site.airdrop | where_exp:"post","post.is_generated != true" %}
-                    {% for post in posts %}
+                    {% for post in airdrop %}
                         {% if post.category == page.slug %}
                             <article class="box-item">
                                 <div class="box-body">
