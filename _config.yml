@@ -13,8 +13,8 @@ show_hero: true
 menu:
   - title: Home
     url: /
-  - title: News
-    url: /
+  - title: Cryptocurrencies
+    url: /what
   - title: Airdrops
     url: /airdrop
   - title: About
