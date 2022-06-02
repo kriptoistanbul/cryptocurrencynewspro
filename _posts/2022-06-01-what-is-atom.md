@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "What is Cosmos ATOM"
-date:   2022-05-20 18:03:19 +0300
+date:   2022-06-02 15:03:19 +0300
 subtitle: What does Atom actually do? Is ATOM a good investment? What is Cosmos crypto used for? Does Cosmos crypto have a future?
 description: Cosmos is a blockchain network that aims to enable independent blockchains to communicate with each other in a seamless manner. This allows them to exchange data and conduct transactions.
 image: /assets/img/posts-img/atom/what-is-cosmos-atom-how-does-it-work.webp
@@ -14,28 +14,24 @@ paginate: true
 ---
 <b style="text-align:center; font-size: 150%;">Table of Content</b>
 <ol style="margin: 0;">
-	<li style="padding: 2px;"><a href="#1">What is Bitcoin BTC?</a></li>
-	<li style="padding: 2px;"><a href="#2">What is Bitcoin in simple words</a></li>
-	<li style="padding: 2px;"><a href="#3">What Bitcoin Looks Like</a></li>
-	<li style="padding: 2px;"><a href="#4">What bitcoin is provided with</a></li>
-	<li style="padding: 2px;"><a href="#5">Who created the Bitcoin cryptocurrency</a></li>
-	<li style="padding: 2px;"><a href="#6">What are Bitcoin forks?</a></li>
-	<li style="padding: 2px;"><a href="#7">How Bitcoin Works</a></li>
-	<li style="padding: 2px;"><a href="#8">How to earn Bitcoins: with investments and without investments</a></li>
-		<ul style="margin: 0;">
-			<li style="padding: 2px;"><a href="#9">Method No1: Trading on crypto exchanges</a></li>
-			<li style="padding: 2px;"><a href="#10">Method #2: Long-Term Investing (HODL)</a></li>
-			<li style="padding: 2px;"><a href="#11">Method #3: Cryptodeposites</a></li>
-			<li style="padding: 2px;"><a href="#12">Method #4: Bitcoin Mining</a></li>
-			<li style="padding: 2px;"><a href="#13">Method #5: Bitcoin Faucets</a></li>
-		</ul>
-	<li style="padding: 2px;"><a href="#14">Is it worth buying/selling Bitcoin today</a></li>
-  <li style="padding: 2px;"><a href="#15">Bitcoin Technical Analysis</a></li>
-  <li style="padding: 2px;"><a href="#16">Bitcoin's Fear and Greed Index</a></li>
-  <li style="padding: 2px;"><a href="#17">Bitcoin's Popularity in media</a></li>
-  <li style="padding: 2px;"><a href="#18">Bitcoin Prospects and Rate Forecast for 2022</a></li>
-  <li style="padding: 2px;"><a href="#19">Frequently Asked Questions</a></li>
-  <li style="padding: 2px;"><a href="#20">El Salvador and Bitcoin</a></li>
+	<li style="padding: 2px;"><a href="#1">What is Cosmos (ATOM)?</a></li>
+	<li style="padding: 2px;"><a href="#2">Buy Cosmos (ATOM) – What you should pay attention to</a></li>
+	<li style="padding: 2px;"><a href="#3">What makes Cosmos (ATOM) special?</a></li>
+	<li style="padding: 2px;"><a href="#4">The most important things in brief about Cosmos (ATOM)</a></li>
+	<li style="padding: 2px;"><a href="#5">Do you need a Cosmos (ATOM) wallet?</a></li>
+	<li style="padding: 2px;"><a href="#6">What is Cosmos (ATOM) Mining?</a></li>
+	<li style="padding: 2px;"><a href="#7">Would you rather buy real Cosmos (ATOM) coins or Cosmos CFDs?</a></li>
+	<li style="padding: 2px;"><a href="#8">Cosmos Coins</a></li>
+  <li style="padding: 2px;"><a href="#9">Cosmos CFD</a></li>
+  <li style="padding: 2px;"><a href="#10">Where can I buy Cosmos (ATOM)?</a></li>
+  <li style="padding: 2px;"><a href="#13">Is it possible to make money by buying Cosmos (ATOM)?</a></li>
+  <li style="padding: 2px;"><a href="#14">Cosmos price development and forecast</a></li>
+  <li style="padding: 2px;"><a href="#15">Cosmos (ATOM) Prediction: Does Cosmos have potential and a future?</a></li>
+  <li style="padding: 2px;"><a href="#16">Better a short-term or long-term Cosmos investment?</a></li>
+  <li style="padding: 2px;"><a href="#17">What is the best time to buy Cosmos (ATOM)?</a></li>
+  <li style="padding: 2px;"><a href="#18">Invest in Cosmos (ATOM) or not?</a></li>
+  <li style="padding: 2px;"><a href="#19">How to buy Cosmos ATOM</a></li>
+  <li style="padding: 2px;"><a href="#20">Frequently Asked Questions</a></li>
 </ol>
 <h1 id="1">What is Cosmos (ATOM)?</h1>
 <blockquote cite="https://v1.cosmos.network/intro">More than anything, Cosmos is not a product but an ecosystem built on a set of modular, adaptable and interchangeable tools. Developers are encouraged to join the effort to improve existing tools and create new ones in order to make the promise of blockchain technology a reality. These tools are the foundation needed to create the decentralized internet and global financial system of tomorrow.</blockquote>
