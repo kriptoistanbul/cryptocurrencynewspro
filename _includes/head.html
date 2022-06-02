@@ -129,12 +129,6 @@
       "item": "{{ site.url }}/{{ page.url }}"
     }{% endif %}]
   }</script>
-  <title>
-    {% if layout.type == "category" %}
-        Posts tagged in #{{ page.title }}
-    {% else %}
-        {{ page.title }}
-    {% endif %} | {{ site.title }}</title>
     {% if page.noindex %}
       <meta name="robots" content="noindex">
     {% endif %}
