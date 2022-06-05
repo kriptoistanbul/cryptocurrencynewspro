@@ -118,50 +118,39 @@
             src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
         </script>
         {% endif %}
-        <script type="application/ld+json">
-        {
-            "@context": "http://schema.org",
-            "@type": "NewsArticle",
-            "name": "{{ page.title }}",
-            "headline": "{{ page.subtitle }}",
-            "description": "{{ page.description }}",
-            "image": "{{ page.image }}",
-            "url": "{{ page.url | prepend: site.baseurl | prepend: site.url }}",
-            "articleBody": "{{ content | strip_html | xml_escape | textilize }}",
-            "wordcount": "{{ content | number_of_words }}",
-            "inLanguage": "{{ site.language }}",
-            "dateCreated": "{{ page.date | date: '%Y-%m-%d/' }}",
-            "datePublished": "{{ page.date | date: '%Y-%m-%d/' }}",
-            "dateModified": "{{ page.date | date: '%Y-%m-%d/' }}",
-            "author": {
-                "@type": "Person",
-                "name": "{{ author.display_name }}",
-                {% if author.photo %}
-                "image": "{{ author.photo }}",
-                {% else %}
-                "image": {{ "/assets/img/user.jpg" | prepend: site.baseurl | prepend: site.url }},
-                {% endif %}
-                "jobTitle": "{{ author.position }}",
-                "url": "{{ author.url | prepend: site.baseurl | prepend: site.url }}",
-                "sameAs": [
-                    {{ author_urls | split: "," | join: "," }}
-                ]
-            },
-            "publisher": {
-                "@type": "Organization",
-                "name": "{{ site.name }}",
-                "url": "{{ site.url }}{{site.baseurl}}/",
-                "logo": {
-                    "@type": "ImageObject",
-                    "url": "{{ site.url }}{{site.baseurl}}/assets/img/ccn-pro-blog.webp",
-                    "width": "600",
-                    "height": "315"
-                }
-            },
-            "mainEntityOfPage": "True",
-            "genre": "{{ page.category }}",
-            "articleSection": "{{ page.category }}",
-            "keywords": [{{ page.tags | join: '","' | append: '"' | prepend: '"' }}]
-        }
-        </script>
+        <div itemscope itemtype="http://schema.org/NewsArticle">
+          <meta itemprop="dateline" content="{{ page.date | date: '%Y-%m-%d/' }} Reporting from Washington">
+          <meta itemprop="keywords" content="{{ page.tags | join: '","' | append: '"' | prepend: '"' }}">
+          <meta itemprop="thumbnailUrl" content="{{ page.image }}">
+          <meta itemprop="wordCount" content="{{ content | number_of_words }}">
+          <meta itemprop="inLanguage" content="{{ site.language }}"
+          <meta itemscope itemprop="mainEntityOfPage"  itemType="https://schema.org/WebPage" itemid="{{ page.url }}"/>
+          <h2 itemprop="headline">{{ page.title }}</h2>
+          <h3 itemprop="author" itemscope itemtype="https://schema.org/Person">
+            By  <span itemprop="name">{{ author.display_name }}></span>
+                <meta itemprop="url" content="https://cryptocurrencynewspro.com/authors/kriptoistanbul/">
+                <meta itemprop="image" content="{{ author.photo }}">
+                <meta itemprop="jobTitle" content="Journalist">
+                <meta itemprop="sameAs" content="https://twitter.com/ccn_pro">
+                <meta itemprop="sameAs" content="https://www.instagram.com/cryptocurrencynewspro">
+          </h3>
+          <span itemprop="description">{{ page.description }}</span>
+          <div itemprop="image" itemscope itemtype="https://schema.org/ImageObject">
+            <img src="{{ page.image }}"/>
+            <meta itemprop="url" content="{{ page.image }}">
+          </div>
+          <div itemprop="articleBody" content="{{ content | strip_html | xml_escape | textilize }}">
+          <div itemprop="publisher" itemscope itemtype="https://schema.org/Organization">
+            <div itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">
+              <img src="{{ site.url }}{{site.baseurl}}/assets/img/ccn-pro-blog.webp"/>
+              <meta itemprop="url" content="{{ site.url }}{{site.baseurl}}/assets/img/ccn-pro-blog.webp">
+              <meta itemprop="width" content="500">
+              <meta itemprop="height" content="500">
+            </div>
+            <meta itemprop="name" content="cryptocurrencynewspro">
+          </div>
+          <meta itemprop="datePublished" content="{{ page.date | date: '%Y-%m-%d/' }}"/>
+          <meta itemprop="dateModified" content="{{ page.date | date: '%Y-%m-%d/' }}"/>
+          <meta itemprop="dateCreated" content="{{ page.date | date: '%Y-%m-%d/' }}"
+        </div>  
 </html>
