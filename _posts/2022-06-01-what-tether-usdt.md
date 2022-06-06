@@ -134,7 +134,7 @@ In addition to facilitating the transfer of cryptocurrencies, Tether also strive
 </ul>
 <p>There are, of course, other methods by which funds can be deposited into trading accounts and used to purchase cryptocurrencies.</p>
 <h4 id="7">Can tether be mined?</h4>
-Yes, cryptocurrency mining is possible.&nbsp;For that, you need hardware that uses enormous computing power.&nbsp;Mining consumes a lot of electricity.&nbsp;In regions with low electricity prices, mining new coins is the most worthwhile due to some low prices.</p>
+<p>Yes, cryptocurrency mining is possible.&nbsp;For that, you need hardware that uses enormous computing power.&nbsp;Mining consumes a lot of electricity.&nbsp;In regions with low electricity prices, mining new coins is the most worthwhile due to some low prices.</p>
 <p>Tether mining is not a viable option for those who wish to mine the coin themselves.&nbsp;Each coin is issued exclusively by the company, which is also responsible for securing it.&nbsp;Tether has issued over 52 billion coins through April 2021.&nbsp;Since $1 must be set aside as collateral for each stablecoin generated, mining the stablecoin does not make sense.&nbsp;Mining would be impossible if reserves were controlled.&nbsp;</p>
 <p>Tether is the sole issuer of the coin, which causes some critics to complain.&nbsp;Not least because of many negative headlines and rumors about the stablecoin's collateralization, the calls for a public audit are growing louder and louder.</p>
 <h4 id="8">What are the available tether wallets?</h4>
