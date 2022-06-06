@@ -39,25 +39,25 @@ paginate: true
 <h2 id="2">What is Yuan Chain Coin?</h2>
 <p>This cryptocurrency was developed in China, and it has a number of advantages over other cryptocurrencies that are primarily used as a means of payment. In contrast to Bitcoin, Yuan Chain Coin comes with a blockchain that is capable of managing contracts and accounting for various companies.</p>
 <p>The result is a cryptocurrency that is designed specifically to serve as an operations foundation for digital businesses that provide SaaS-like services.</p>
-  <blockquote cite="https://www.yuan.org/home?lang=en">Mission of YCC
-YUANCHAIN (YCC), a new generation of basic application public chains. Based on the YUANCHAIN public chain network, it is naturally suitable for building application contracts such as Defi, NFT, Dao, etc. By building an innovative POS33 consensus mechanism, YUANCHAIN is able to achieve fast block verification and generation while ensuring decentralization, balancing credibility and performance. To address the ecosystem expansion of application-based public chain, the YUANCHAIN supports the expansion of a two-layer and multi-chain architecture to create parallel public parachain on the basis of themain chain consensus, to improve performance and ecosystem expansion.
-
-Technical features
-1.Main chain stability is similar to the Bitcoin, without virtual machines and has high concurrency, the TPS can reach 10,000 levels in the future.
-2.The primary hash logs on the parachain are written to the main chain, ensuring it is tamper-proof.
-3.Smart contracts and virtual machines can be used flexibly on parachains, with no impact to the stability and security of the main chain.
-4.The cross-chain interaction between the parachain and the main chain is efficient and stable, balancing the authority of the main chain with the diversity of the parachain.
-5.POS33+BFT, the innovative consensus algorithm, selects some coin-holding nodes as block producers and block validation nodes, which is similar to the jury system, balancing fairness and efficient consensus.
-6.YUANCHAIN supports the cross-chain bridge to achieve cross-chain transaction with Bitcoin and Ether network.
-
-Applications
-Technology supports: DeFi, NFT, social tokens, IOU note, assets on chain and trading, points system, preservation and traceability system, wallets, etc.
-Potential application areas: flowers, gifts, mobile phones, energy saving, pets, catering, environmental protection, automobiles, home appliances, clothing, electricity, health, education, construction, real estate, trade, artwork, chat, public security, courts, government affairs, etc.
-
-Why do you use YUANCHAIN?
-1.Easy to use and accessible.
-2.Strong bottom architecture technical and application teams support and maintain.
-3.Open </blockquote>
+  <blockquote cite="https://www.yuan.org/home?lang=en">Mission of YCC:
+  <p>YUANCHAIN (YCC), a new generation of basic application public chains. Based on the YUANCHAIN public chain network, it is naturally suitable for building application contracts such as Defi, NFT, Dao, etc. By building an innovative POS33 consensus mechanism, YUANCHAIN is able to achieve fast block verification and generation while ensuring decentralization, balancing credibility and performance. To address the ecosystem expansion of application-based public chain, the YUANCHAIN supports the expansion of a two-layer and multi-chain architecture to create parallel public parachain on the basis of themain chain consensus, to improve performance and ecosystem expansion.</p>
+  <p><span style="text-decoration: underline;"><strong>Technical features</strong></span></p>
+  <ol>
+  <li>Main chain stability is similar to the Bitcoin, without virtual machines and has high concurrency, the TPS can reach 10,000 levels in the future.</li>
+  <li>The primary hash logs on the parachain are written to the main chain, ensuring it is tamper-proof.</li>
+  <li>Smart contracts and virtual machines can be used flexibly on parachains, with no impact to the stability and security of the main chain.</li>
+  <li>The cross-chain interaction between the parachain and the main chain is efficient and stable, balancing the authority of the main chain with the diversity of the parachain.</li>
+  <li>POS33+BFT, the innovative consensus algorithm, selects some coin-holding nodes as block producers and block validation nodes, which is similar to the jury system, balancing fairness and efficient consensus.</li>
+  <li>YUANCHAIN supports the cross-chain bridge to achieve cross-chain transaction with Bitcoin and Ether network.</li>
+  </ol>
+  <p><span style="text-decoration: underline;"><strong>Applications</strong></span></p>
+  <p><br />Technology supports: DeFi, NFT, social tokens, IOU note, assets on chain and trading, points system, preservation and traceability system, wallets, etc.<br />Potential application areas: flowers, gifts, mobile phones, energy saving, pets, catering, environmental protection, automobiles, home appliances, clothing, electricity, health, education, construction, real estate, trade, artwork, chat, public security, courts, government affairs, etc.</p>
+  <p><span style="text-decoration: underline;"><strong>Why do you use YUANCHAIN?</strong></span></p>
+  <ol>
+  <li>Easy to use and accessible.</li>
+  <li>Strong bottom architecture technical and application teams support and maintain.</li>
+  <li>Open</li>
+  </ol></blockquote>
 <table>
 <tbody>
 <tr>
