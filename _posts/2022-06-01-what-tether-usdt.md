@@ -14,7 +14,7 @@ paginate: true
 ---
 <b style="text-align:center; font-size: 150%;">Table of Content</b>
 <ol style="margin: 0;">
-	<li style="padding: 2px;"><a href="#1"Buy Tether (USDT) 2022 – Guide, Price & Forecast</a></li>
+	<li style="padding: 2px;"><a href="#1">Buy Tether (USDT) 2022 – Guide, Price & Forecast</a></li>
 	<li style="padding: 2px;"><a href="#2">An overview of the most important USDT information</a></li>
 	<li style="padding: 2px;"><a href="#3">What makes Tether a stable cryptocurrency? Why should you invest in it?</a></li>
 	<li style="padding: 2px;"><a href="#4">What makes Tether unique?</a></li>
