@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "What is Yuan Chain Coin YCC"
-date:   2022-06-02 15:03:19 +0300
+date:   2022-06-06 09:03:19 +0300
 subtitle: What does Atom actually do? Is ATOM a good investment? What is Cosmos crypto used for? Does Cosmos crypto have a future?
 description: China developed this cryptocurrency, which has a number of advantages over other cryptocurrencies. Yuan Chain Coin is a centralized cryptocurrency that comes with a blockchain capable of handling accounting and contracts.
 image: /assets/img/posts-img/ycc/what-is-the-yuan-chain-coin.webp
