@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "What is Cosmos ATOM"
+title:  "What is Yuan Chain Coin YCC"
 date:   2022-06-02 15:03:19 +0300
 subtitle: What does Atom actually do? Is ATOM a good investment? What is Cosmos crypto used for? Does Cosmos crypto have a future?
-description: Cosmos is a blockchain network that aims to enable independent blockchains to communicate with each other in a seamless manner. This allows them to exchange data and conduct transactions.
-image: /assets/img/posts-img/atom/what-is-cosmos-atom-how-does-it-work.webp
+description: China developed this cryptocurrency, which has a number of advantages over other cryptocurrencies. Yuan Chain Coin is a centralized cryptocurrency that comes with a blockchain capable of handling accounting and contracts.
+image: /assets/img/posts-img/ycc/what-is-the-yuan-chain-coin.webp
 categories:   
   - what
   - yuan chain
@@ -33,61 +33,64 @@ paginate: true
   <li style="padding: 2px;"><a href="#19">How to buy Cosmos ATOM</a></li>
   <li style="padding: 2px;"><a href="#20">Frequently Asked Questions</a></li>
 </ol>
-<h1>Buy Yuan Chain Coin (YCC) in 2022 &ndash; Guide, Price &amp; Forecast</h1>
-<p>Many cryptocurrencies see blockchain technology as merely a technology that is suitable for the introduction of a fast, secure and decentralized digital payment method.&nbsp;This was also the original idea of Satoshi Nakamoto when he developed Bitcoin.&nbsp;However, the blockchain can serve many other purposes.&nbsp;One can buy cryptocurrencies such as&nbsp;<strong>Yuan Chain Coin</strong>&nbsp;to exploit their potential for corporate governance at the accounting and contractual level.</p>
-<p>This gives this cryptocurrency a higher value than other cryptocurrencies, which are essentially simple copies of Bitcoin.&nbsp;We looked at what is behind the currency, whether it is worth buying and&nbsp;<strong>where to best trade YCC.</strong></p>
-<h2>What is Yuan Chain Coin?</h2>
-<div>
-<div>
-<div>
-<p>It is a cryptocurrency developed in China that has several advantages over other cryptocurrencies that&nbsp;<strong>only serve as a means of payment</strong>.&nbsp;Unlike&nbsp;Bitcoin, for example, Yuan Chain Coin has a blockchain that&nbsp;<strong>allows the management of contracts and the accounting</strong>&nbsp;of various companies.</p>
-<p>This makes it a cryptocurrency that specifically serves as the<strong>&nbsp;operational foundation for digital businesses</strong>&nbsp;that offer SaaS-like services.</p>
-<div>
-<div>
-<div>
-<div>
+<h1 id="1">Buy Yuan Chain Coin (YCC) in 2022 &ndash; Guide, Price &amp; Forecast</h1>
+<p>Cryptocurrencies consider blockchain technology to be merely a mechanism for facilitating the introduction of a quick, decentralized, and secure method of digital payment. Similarly, Satoshi Nakamoto developed Bitcoin on the basis of this original idea. It is important to note, however, that the blockchain has many other applications. In order to take advantage of their potential for accounting and contractual management, one can purchase cryptocurrencies, such as Yuan Chain Coin.</p>
+<p>The fact that it is a copy of Bitcoin gives it a higher value than that of other cryptocurrencies. The purpose of this article is to analyze what is behind the currency, whether it is worth buying, and where to trade it.</p>
+<h2 id="2">What is Yuan Chain Coin?</h2>
+<p>This cryptocurrency was developed in China, and it has a number of advantages over other cryptocurrencies that are primarily used as a means of payment. In contrast to Bitcoin, Yuan Chain Coin comes with a blockchain that is capable of managing contracts and accounting for various companies.</p>
+<p>The result is a cryptocurrency that is designed specifically to serve as an operations foundation for digital businesses that provide SaaS-like services.</p>
+  <blockquote cite="https://www.yuan.org/home?lang=en">Mission of YCC
+YUANCHAIN (YCC), a new generation of basic application public chains. Based on the YUANCHAIN public chain network, it is naturally suitable for building application contracts such as Defi, NFT, Dao, etc. By building an innovative POS33 consensus mechanism, YUANCHAIN is able to achieve fast block verification and generation while ensuring decentralization, balancing credibility and performance. To address the ecosystem expansion of application-based public chain, the YUANCHAIN supports the expansion of a two-layer and multi-chain architecture to create parallel public parachain on the basis of themain chain consensus, to improve performance and ecosystem expansion.
+
+Technical features
+1.Main chain stability is similar to the Bitcoin, without virtual machines and has high concurrency, the TPS can reach 10,000 levels in the future.
+2.The primary hash logs on the parachain are written to the main chain, ensuring it is tamper-proof.
+3.Smart contracts and virtual machines can be used flexibly on parachains, with no impact to the stability and security of the main chain.
+4.The cross-chain interaction between the parachain and the main chain is efficient and stable, balancing the authority of the main chain with the diversity of the parachain.
+5.POS33+BFT, the innovative consensus algorithm, selects some coin-holding nodes as block producers and block validation nodes, which is similar to the jury system, balancing fairness and efficient consensus.
+6.YUANCHAIN supports the cross-chain bridge to achieve cross-chain transaction with Bitcoin and Ether network.
+
+Applications
+Technology supports: DeFi, NFT, social tokens, IOU note, assets on chain and trading, points system, preservation and traceability system, wallets, etc.
+Potential application areas: flowers, gifts, mobile phones, energy saving, pets, catering, environmental protection, automobiles, home appliances, clothing, electricity, health, education, construction, real estate, trade, artwork, chat, public security, courts, government affairs, etc.
+
+Why do you use YUANCHAIN?
+1.Easy to use and accessible.
+2.Strong bottom architecture technical and application teams support and maintain.
+3.Open </blockquote>
 <table>
 <tbody>
 <tr>
-<td><strong>Founder</strong></td>
+<td>Founder</td>
 <td>Yuan Foundation Ltd.</td>
 </tr>
 <tr>
-<td><strong>Year of introduction</strong></td>
+<td>Year of introduction</td>
 <td>2018</td>
 </tr>
 <tr>
-<td><strong>Token</strong></td>
+<td>Token</td>
 <td>YCC</td>
 </tr>
 <tr>
-<td><strong>Total tokens in circulation</strong></td>
+<td>Total tokens in circulation</td>
 <td>N/A</td>
 </tr>
 <tr>
-<td><strong>Maximum token supply</strong></td>
+<td>Maximum token supply</td>
 <td>10B YCC</td>
 </tr>
 <tr>
-<td><strong>Blockchain</strong></td>
+<td>Blockchain</td>
 <td>Ethereum</td>
 </tr>
 <tr>
-<td><strong>Mining</strong></td>
+<td>Mining</td>
 <td>No</td>
 </tr>
 </tbody>
 </table>
-</div>
-</div>
-</div>
-</div>
-<div>
-<div>
-<h2>Key Features of Yuan Chain Coin</h2>
-<div>
-<div>
-<div>
+<h2 id="3">Key Features of Yuan Chain Coin</h2>
 <ul>
 <li>There is a limited supply of 10B YCC.</li>
 <li>It is particularly focused on corporate governance.</li>
@@ -95,113 +98,97 @@ paginate: true
 <li>It is managed by the Yuan Foundation Ltd, owned by the Chinese government.</li>
 <li>It is not suitable for mining.</li>
 </ul>
-</div>
-</div>
-</div>
-<h2>How does Yuan Chain Coin work?</h2>
-<p>Yuan Chain Coin is a cryptocurrency that works on the&nbsp;Ethereum&nbsp;blockchain but is organized by the Yuan Foundation.&nbsp;Since the Chinese economy is centralized, the Yuan Foundation also needs to introduce some&nbsp;<strong>degree of centralization</strong>&nbsp;for its cryptocurrencies.</p>
-<p>Although many investors of Yuan Chain Coin do not like this, thanks to this system, Yuan Chain Coin can also serve as a&nbsp;<strong>platform for contract management and intelligent accounting</strong>&nbsp;for digital companies.</p>
-<h2>What makes Yuan Chain Coin so special?</h2>
-<p>The most important thing about Yuan Chain Coin is the fact that it is&nbsp;<strong>backed by the Chinese government</strong>.&nbsp;This is in contrast to other&nbsp;cryptocurrencies&nbsp;that have been banned in China, which sometimes led to sharp price losses.&nbsp;For example, this happened last May, when the closure of several Ethereum mining facilities led to a sharp slump in the cryptocurrency market, from which it has not recovered to this day.</p>
-<div>
-<div>
-<h2>Buy Yuan Chain Coin &ndash; What are the most important things to consider?</h2>
-<p>When buying Yuan Chain Coin, you should especially consider the fact that it is a cryptocurrency that is ultimately&nbsp;<strong>managed by the Chinese government</strong>.&nbsp;This brings with it a number of advantages and disadvantages, some of which are listed below:</p>
-<div>
+<p>How does Yuan Chain Coin work?</p>
+<p>It is a cryptocurrency that is based on the Ethereum blockchain, but is organized by the Yuan Foundation. Due to the centralized nature of the Chinese economy, the Yuan Foundation must also introduce a degree of centralization to its cryptocurrency.</p>
+<img src="/assets/img/posts-img/ycc/yuan-project.webp" alt="what is ycc mean in crypto" width="512" height="463" loading="lazy">
+<p>In spite of the dissatisfaction of many investors, Yuan Chain Coin can also serve as a platform for contract management and intelligent accounting for digital businesses.</p>
+<h3 id="4">What makes Yuan Chain Coin so special?</h3>
+<p>It is important to note that the Chinese government is backing Yuan Chain Coin. Contrary to other cryptocurrencies that have been banned in China, which have sometimes resulted in sharp price declines, bitcoin has not been banned in China. Several Ethereum mining farms were shut down last May, for example, resulting in a sharp decline in the cryptocurrency market from which it has not yet recovered.</p>
+<h3 id="5">Yuan Chain Coin - How to buy it? What are the major considerations?</h3>
+<p>The Chinese government oversees Yuan Chain Coin, so you should take this fact into consideration especially if you want to purchase it. Some of these advantages and disadvantages can be summed up thusly:</p>
 <ul>
-<li><strong>It is a centralized cryptocurrency.</strong>&nbsp;Although it uses a blockchain, the Yuan Chain Coin project is essentially centralized, like IOTA.&nbsp;This means that the Yuan Chain Coin has its opponents.</li>
-<li><strong>It has enormous growth potential in China.</strong>&nbsp;Since Yuan Chain Coin is backed by the Chinese government, it has great growth potential, especially considering that other cryptocurrencies such as Bitcoin or Ethereum cannot be legally acquired in China.</li>
-<li><strong>Your project is only at the beginning.</strong>&nbsp;Unlike other cryptocurrencies that have been in operation for years, Yuan Chain Coin has only just begun its journey in the markets, so it has the potential to increase in value much further.</li>
+<li>The cryptocurrency is centralized.&nbsp;The Yuan Chain Coin project, though it uses the blockchain, is essentially centralized, like IOTA. Because of this, there are opponents to it.</li>
+<li>The project has tremendous growth potential in China.&nbsp;As a government-backed cryptocurrency, Yuan Chain Coin has great growth potential, especially since it is illegal to acquire other cryptocurrencies in China, such as Bitcoin or Ethereum.</li>
+<li>We are only at the beginning of your journey.&nbsp;The Yuan Chain Coin has just begun its journey into the markets, so its value is expected to increase much further than that of other cryptocurrencies that have been around for years.</li>
 </ul>
-<h2>Is it a good idea to invest in Yuan Chain Coin?</h2>
-<p>Everything suggests that Yuan Chain Coin could be a very good cryptocurrency for long-term investments, especially considering that it is backed by the Chinese government.&nbsp;It is therefore one of the cryptocurrencies with the<strong>&nbsp;greatest operational potential</strong>, as other cryptocurrencies such as Bitcoin or Ethereum cannot function in this country.&nbsp;In this regard, it should be remembered that 93% of Bitcoin transactions took place in China before the country's veto in 2016.</p>
-<h3>Long-term investing</h3>
-<p>Yuan Chain Coin is a cryptocurrency that is more suitable<strong>&nbsp;for long-term than short-term investments</strong>.&nbsp;The reason for this is that their project has only just begun.&nbsp;Yuan Chain Coin is closely linked to the Chinese government's decision on cryptocurrencies, which is not yet fully consolidated.&nbsp;As Chinese legislation strengthens the position of yuan chain coin, its value is therefore likely to increase significantly.</p>
-<h3>Buy at short notice</h3>
-<p>You can also invest in Yuan Chain Coin and make good profits in the short term by taking advantage&nbsp;<strong>of the natural fluctuations in the cryptocurrency market</strong>.&nbsp;However, this is not the main strategy investors are pursuing with this cryptocurrency, as it seems that holding the currency can provide higher returns in the long run.</p>
-<h2>Price development of the Yuan Chain Coin</h2>
-<div>
+<h3 id="6">Should I invest in Yuan Chain Coin?</h3>
+<p>Yuan Chain Coin is backed by the Chinese government, which suggests it might be a very good investment for the long term. Because it isn't permitted to use other cryptocurrencies such as Bitcoin or Ethereum in this country, it is therefore one of the cryptocurrencies with the greatest operational potential.&nbsp;To illustrate this point, 93% of Bitcoin transactions reportedly occurred in China before the country vetoed the cryptocurrency in 2016.</p>
+<img src="/assets/img/posts-img/ycc/ycc-price.webp" alt="ycc price predictions" width="612" height="612" loading="lazy">
+<h4 id="7">A long-term investment</h4>
+<p>Compared to short-term investments, Yuan Chain Coin is better suited to long-term investments. That's because the project has only just begun. This cryptocurrency is closely linked with the Chinese government's decisions regarding cryptocurrencies, which are still in the early stages. Therefore, the value of the yuan chain coin is likely to increase significantly as Chinese legislation strengthens its position.</p>
+<h4 id="8">Buying on short notice</h4>
+<p>By taking advantage of the natural fluctuations in the cryptocurrency market, you can also invest in Yuan Chain Coin and make good profits in the short term. Although it seems that holding a cryptocurrency can provide higher returns in the long run, this is not the primary strategy investors are pursuing with this cryptocurrency.</p>
+<h4 id="9">The Yuan Chain Coin's price development</h4>
 <ul>
-<li>Yuan Chain Coin started trading in the cryptocurrency market after the bull market of<strong>&nbsp;2017/2018</strong>&nbsp;was over.&nbsp;However, it still managed to surpass $0.02 per token this year.</li>
-<li>Unlike other cryptocurrencies that were in a flat trend until 2020, Yuan Chain Coin peaked at&nbsp;<strong>$0.03 in the summer of 2019.</strong></li>
-<li>Yuan Chain Coin crossed the $0.03 and approached the&nbsp;<strong>$0.04 in March 2021</strong>.</li>
-<li>After the&nbsp;<strong>subsequent correction,</strong>&nbsp;it is currently stabilizing above the $0.01.</li>
+<li>As soon as the bull market of 2017/2018 ended, Yuan Chain Coin began trading in the cryptocurrency market. In spite of this, it reached a value of $0.02 per token in 2018.</li>
+<li>Yuan Chain Coin peaked at $0.03 in the summer of 2019 in contrast to other cryptocurrencies that were flat until 2020.</li>
+<li>Yuan Chain Coin crossed the $0.03 and approached the&nbsp;$0.04 in March 2021.</li>
+<li>After the&nbsp;subsequent correction,&nbsp;it is currently stabilizing above the $0.01.</li>
 </ul>
-<h3>Yuan Chain Coin Forecast &ndash; Does Yuan Chain Coin Have Potential?</h3>
-<p>The Chinese market was the most important market for Bitcoin until 2016, when Bitcoin was banned in China.&nbsp;That's why the market is interested in all the projects that are emerging in China to replace banned cryptocurrencies like Bitcoin.&nbsp;Unlike other cryptocurrencies, Yuan Chain Coin is freely tradable in China, which means it has a&nbsp;<strong>very high potential value</strong>&nbsp;and its price could skyrocket in the next few years.</p>
-<h3>When is the best time to buy Yuan Chain Coin?</h3>
-<p>The value of the Yuan Chain Coin has stabilized slightly above $0.01 after hitting a high of about $0.04 not so long ago.&nbsp;This makes it&nbsp;<strong>an excellent time to</strong>&nbsp;invest in this cryptocurrency, especially given the enormous potential it has to continue growing beyond the $0.04 horizon.&nbsp;<strong>So, the sooner you buy Yuan Chain Coin</strong>, the more likely it is that you will be able to maximize the return on your investment.</p>
-<h2>Buy Yuan Chain Coin &ndash; What should you look out for?</h2>
-<p>If you want to buy Yuan Chain Coin, make sure you choose a platform that takes into account the following points:</p>
-<div>
+<h4 id="10">Forecast for Yuan Chain Coin - Does Yuan Chain Coin feature any potential?</h4>
+<p>Before 2016, when Bitcoin was banned in China, the Chinese market was Bitcoin's most significant market. Because of this, the market is very interested in all the projects that are being developed in China to replace banned cryptocurrencies like Bitcoin. As opposed to other cryptocurrencies, Yuan Chain Coin is freely tradable in China, meaning the coin has a very high potential value and its price may skyrocket in the near future.</p>
+<h4 id="11">Is now the best time to purchase Yuan Chain Coin?</h4>
+<p>After hitting a high of about $0.04 not so long ago, the value of the Yuan Chain Coin has stabilized slightly above $0.01. Given the tremendous growth potential of this cryptocurrency, now is an excellent time to invest in it.&nbsp;<strong>Therefore, the sooner you purchase Yuan Chain Coin, the greater your chances of maximizing the returns on your investment will be.</strong></p>
+<img src="/assets/img/posts-img/ycc/chainese-coin.webp" alt="yuan chain coin buy" width="412" height="274" loading="lazy">
+<h4 id="12">Buying Yuan Chain Coin - What should you be on the lookout for?</h4>
+<p>It is essential that you choose a platform that considers all the following factors before buying Yuan Chain Coin:</p>
 <ul>
-<li><strong>Reasonable prices.</strong>&nbsp;Otherwise, you will have to pay too much and will not be able to withhold as much profit, which would have a very negative impact on your potential profitability.</li>
-<li><strong>Safety.</strong>&nbsp;Not all trading platforms offer the same security features.&nbsp;While some platforms such as Bitfinex or KuCoin have been hacked in the past, others have managed to keep their users' funds intact at all times.</li>
-<li><strong>Variety of cryptocurrencies.</strong>&nbsp;If you have the opportunity to invest with a broker that offers a wide range of cryptocurrencies, you should make use of it.&nbsp;Because the cryptocurrency market is very volatile.&nbsp;It is therefore often necessary to sell one cryptocurrency to buy another.&nbsp;The more cryptocurrencies available to you, the better your chances of maximizing your profits.</li>
+<li>Prices are reasonable.&nbsp;Otherwise, you will have to pay too much and won't be able to withhold as much profit as you would like, which will negatively impact your profits.</li>
+<li>Safety.&nbsp;Every trading platform offers different security features. Some platforms, such as Bitfinex and KuCoin, have been hacked in the past; others have remained unaffected.</li>
+<li>Cryptocurrencies in various forms.&nbsp;Take advantage of the opportunity to invest with a broker that offers a variety of cryptocurrencies. This is due to the volatile nature of the cryptocurrency market. Therefore, it is often needed to purchase another cryptocurrency by selling one. You can maximize your profits by investing in as many cryptocurrencies as possible.</li>
 </ul>
-<h2>Yuan Chain Coin advantages and disadvantages</h2>
-<div>
-<div>
-<div>
-<div>
-<div>
-<div>
-<p><strong>Advantages</strong></p>
+<h4 id="13">A comparison of Yuan Chain Coin's advantages and disadvantages</h4>
+<h5 id="14">Advantages</h5>
 <ul>
-<li>It is a cryptocurrency that uses the potential of blockchain to serve not only as a digital means of payment, but also as a<strong>&nbsp;tool for the decentralized management</strong>&nbsp;of SaaS companies, including their digital contracts and accounting.</li>
-<li>Since Yuan Chain Coin is&nbsp;<strong>backed by the Chinese government</strong>, it is one of the cryptocurrencies with the greatest potential for value appreciation thanks to transactions in China, which once accounted for 93% of all Bitcoin transactions worldwide.</li>
-<li>In addition, Yuan Chain Coin is still in its infancy and therefore has&nbsp;<strong>enormous potential</strong>&nbsp;to continue to grow strongly in the coming years.&nbsp;This makes them one of the most suitable cryptocurrencies for long-term investments.</li>
+<li>Prices are reasonable.&nbsp;Otherwise, you will have to pay too much and won't be able to withhold as much profit as you would like, which will negatively impact your profits.</li>
+<li>Safety.&nbsp;Every trading platform offers different security features. Some platforms, such as Bitfinex and KuCoin, have been hacked in the past; others have remained unaffected.</li>
+<li>Cryptocurrencies in various forms.&nbsp;Take advantage of the opportunity to invest with a broker that offers a variety of cryptocurrencies. This is due to the volatile nature of the cryptocurrency market. Therefore, it is often needed to purchase another cryptocurrency by selling one. You can maximize your profits by investing in as many cryptocurrencies as possible.</li>
 </ul>
-<p><strong>Disadvantages</strong></p>
+<h5 id="15">Disadvantages</h5>
 <ul>
-<li>Yuan Chain Coin is&nbsp;<strong>heavily controlled by the Chinese government</strong>, which many investors in Western countries do not like.&nbsp;The concept of cryptocurrencies themselves is based on the idea of decentralization, but Yuan Chain Coin needs a certain degree of centralization in order to be able to offer its services effectively.</li>
+<li>Many investors in western countries don't like Yuan Chain Coin, as the Chinese government controls it heavily. In spite of the idea of decentralization embedded in cryptocurrencies, Yuan Chain Coin needs a certain degree of centralization to be able to function effectively.</li>
 </ul>
-<h2>Buy Yuan Chain Coin &ndash; Frequently Asked Questions (FAQs)</h2>
-<section>
-<div>
-<h3>What is Yuan Chain Coin?</h3>
-<div>
-<p>It is a cryptocurrency developed in China and supported by the Chinese government.&nbsp;Yuan Chain Coin is the cryptocurrency market project with the greatest potential in China, a country that has banned the use and mining of Bitcoin, Ethereum and other cryptocurrencies popular in the West.</p>
+<img src="/assets/img/posts-img/ycc/ycc.webp" alt="Chinese coin" width="612" height="408" loading="lazy">
+<h5>The Yuan Chain Coin - Frequently Asked Questions (FAQ)</h5>
+<div class="schema-faq-code" itemscope="" itemtype="https://schema.org/FAQPage">
+    <div itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question" class="faq-question">
+        <h6 itemprop="name" class="faq-q">What is Yuan Chain Coin?</h6>
+        <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+             <p itemprop="text" class="faq-a">This cryptocurrency was developed by the Chinese government and is backed by them. Yuan Chain Coin is the cryptocurrency market project with the greatest potential in China, a country that has banned the use and mining of Bitcoin, Ethereum and other cryptocurrencies popular in the West.</p>
+        </div>
+    </div>
+
+    <div itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question" class="faq-question">
+        <h6 itemprop="name" class="faq-q">Why is the Yuan Chain Coin Project important?</h6>
+        <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+             <p itemprop="text" class="faq-a">It is not only a cryptocurrency backed by China, but also a cryptocurrency that allows investors to use their blockchain to manage the accounting and contracts of companies that use it. SaaS companies in particular should find this useful.</p>
+        </div>
+    </div>
+
+    <div itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question" class="faq-question">
+        <h6 itemprop="name" class="faq-q">What are the benefits of investing in Yuan Chain Coin?</h6>
+        <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+             <p itemprop="text" class="faq-a">All indications indicate that Yuan Chain Coin is a very good long-term investment, especially since its growth potential is largely reliant on the attitude of the Chinese government towards it and the rest of the market's cryptocurrencies. When China vetoes Ethereum and Bitcoin but allows Yuan Chain Coin to lead the market, their price is likely to skyrocket.</p>
+        </div>
+    </div>
+
+    <div itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question" class="faq-question">
+        <h6 itemprop="name" class="faq-q">What is the best place to buy Yuan Chain Coin?</h6>
+        <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+             <p itemprop="text" class="faq-a">You can purchase Yuan Chain Coin through platforms such as Yuan Pay Group or Huobi. However, it is expected to be gradually introduced on other western trading platforms as well.</p>
+        </div>
+    </div>
 </div>
-</div>
-</section>
-<section>
-<div>
-<h3>What is the Yuan Chain Coin Project?</h3>
-<div>
-<p>Yuan Chain Coin is not only the cryptocurrency backed by China, but also a cryptocurrency that allows investors to use their blockchain to manage the accounting and contracts of the companies that use it.&nbsp;This is especially aimed at SaaS companies.</p>
-</div>
-</div>
-</section>
-<section>
-<div>
-<h3>Is Yuan Chain Coin a good investment?</h3>
-<div>
-<p>Everything seems to indicate that Yuan Chain Coin is a very good long-term investment, especially when we consider that it is a cryptocurrency whose growth potential depends mainly on the attitude of the Chinese government towards it and the rest of the cryptocurrencies in the market.&nbsp;If China vetoes Ethereum and Bitcoin, but allows Yuan Chain Coin to take the lead, their price in the market is likely to skyrocket.</p>
-</div>
-</div>
-</section>
-<section>
-<div>
-<h3>Where to buy Yuan Chain Coin?</h3>
-<div>
-<p>Yuan Chain Coin is a cryptocurrency that can be purchased on platforms such as Yuan Pay Group or Huobi.&nbsp;However, it is expected that it will gradually be introduced on other Western trading platforms as well.</p>
-</div>
-</div>
-</section>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
+{% include youtube.html width="560" height="315" id="cKIW3FewVVw" start="0" title="What is Yuan Chain Coin and how does it work" %}
+<h6 id="16">How to buy YCC</h6>
+{% include how-to.html coinname="ycc" coinlink="https://cryptocurrencynewspro.com/what/ycc/" step1text="Find an exchange that lists YCC in one or more cryptocurrency pairings. Then sign up with your email address and password. Compare exchanges when buying YCC to find the lowest fees and the latest exchange rates. Note: Many exchanges require your full name, contact information, and ID before allowing you to trade." step2text="To create an account with an exchange, you must verify your email address and identity. Have your photo ID and phone ready." step3text="If your exchange supports Yuan Chain Coin, you can buy YCC directly with dollar, euro, pound or any other currency of your choice. Some exchanges charge commission fees that vary depending on the amount of YCC you buy, so be mindful of the cost of your transaction. Note: Some payment methods have higher fees and credit card payments are usually the most expensive." step4text="Select your chosen exchange to find the YCC match you want. Go to the markets section. Look at the buy YCC section and type in the amount of paired cryptocurrency you want to spend or the amount of YCC you want to buy. Note: Before completing the transaction, carefully review your transaction details, including the amount of Yuan Chain Coin you purchased and the total cost of the purchase.
+" %}
+<h6 id="17">Where to buy Yuan Chain Coin</h6>
+<table>
+<thead>
+  <tr>
+    <td>Huobi Global</td>
+    <td>Hotbit</td>
+  </tr>
+</thead>
+</table>
