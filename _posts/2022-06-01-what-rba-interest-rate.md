@@ -31,7 +31,7 @@ paginate: true
 <h2 id="2"><strong>How austria-based coins were/will be affected by this</strong></h2>
 <p>To temper fast-rising inflation, which stood at 5.1% in the most recent quarter, the Reserve Bank of Australia (RBA) increased its benchmark interest rate by 0.50% today. Exchange Settlement balances were also increased by 0.50% to 0.75% by the central bank. These rate hikes take the central bank's rate hikes to two consecutive months. As of May, Australia's Reserve Bank raised the official interest rate for the first time in a decade. The bank increased its cash rate from 0.10% to 0.35%, an all-time low. In light of the increase today, the cash rate has been increased to 0.85%.</p>
 <p>A slight appreciation of the Australian dollar against the US dollar caused minor fluctuations in australia-based coins</p>
-<img src="/assets/img/news/audusd.webp" alt="aud usd" width="1675" height="756" loading="lazy">
+<img src="/assets/img/news/audusd.webp" alt="aud usd" loading="lazy">
 <h2 id="3">Top 4 Assuie Coins</h2>
 <h3><strong>Immutable X (IMX):</strong>&nbsp;</h3>
 <p>The Immutable X protocol is the first layer 2 implementation of NFTs on Ethereum. It is a carbon-neutral platform for marketplaces, games, and applications, because there are no gas costs. It is stated on their website that you can create your own NFT website within a few hours by utilizing their APIs. It also has excellent scalability with 9000 transactions per second. Instead of competing against other blockchains, Immutable X leverages the security and power of the Ethereum blockchain.</p>
