@@ -28,7 +28,7 @@ paginate: true
   <li style="padding: 2px;"><a href="#12">When is the best time to purchase Tether?</a></li>
   <li style="padding: 2px;"><a href="#13">How to Buy Tether (USDT)</a></li>
   <li style="padding: 2px;"><a href="#14">Tether advantages and disadvantages</a></li>
-  <li style="padding: 2px;"><a href="#15"Tether FAQs</a></li>
+  <li style="padding: 2px;"><a href="#15">Tether FAQs</a></li>
 </ol>
 <h1>Buy Tether (USDT) 2022 &ndash; Guide, Price &amp; Forecast</h1>
 <p>The majority of cryptocurrency prices are highly volatile, which means that they are not able to be stable over the long term.&nbsp;<strong>The use of stablecoins provides investors with a way to absorb the sometimes extreme fluctuations in the crypto market, to take a breath so to speak.</strong></p>
