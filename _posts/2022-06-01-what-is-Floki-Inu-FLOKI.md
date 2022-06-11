@@ -29,9 +29,9 @@ paginate: true
   <li style="padding: 2px;"><a href="#14">Blackout Tuesday</a></li>
   <li style="padding: 2px;"><a href="#15">Previous Floki Inu Price History & Tokenomics</a></li>
   <li style="padding: 2px;"><a href="#16">The Floki Inu coin has been predicted to be a safe investment.</a></li>
-  <li style="padding: 2px;"><a href="#17">The best time to purchase Floki Inu</li>
+  <li style="padding: 2px;"><a href="#17">The best time to purchase Floki Inu</a></li>
   <li style="padding: 2px;"><a href="#18">Buy Floki Inu – investment or speculative object?</a></li>
-  <li style="padding: 2px;"><a href="#19">Floki Inu advantages and disadvantages</li>
+  <li style="padding: 2px;"><a href="#19">Floki Inu advantages and disadvantages</a></li>
   <li style="padding: 2px;"><a href="#20">FAQs</a></li>  
 </ol>
 <div>
