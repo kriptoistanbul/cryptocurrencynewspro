@@ -210,14 +210,6 @@ paginate: true
 <h5>How to buy Floki</h5>
 {% include how-to.html coinname="floki" coinlink="https://cryptocurrencynewspro.com/what/floki/" step1text="Sıgn up an exchange that offers Bitcoin in your preferred pairing. Compare exchanges when buying Bitcoin to find the lowest fees and the latest exchange rates. Note: Some exchanges require your full name, ID, and contact info before you can trade." step2text="Be sure to have your ID and phone ready before you set up an account with an exchange." step3text="In order to purchase bitcoins, you can use dollars, euros, pounds, or any other currencies you prefer, provided your exchange supports bitcoin. Some exchanges charge commission fees based on the amount of floki you purchase, so be aware of fees before making a purchase. Credit card payments are usually the most expensive method of payment." step4text="Go to your chosen exchange's market section, then click the buy floki button and enter the amount of the paired cryptocurrency you wish to spend, or the amount of floki you wish to purchase. Note: Before completing the transaction, carefully review the transaction details, including the amount of floki you purchased and the total cost of your trade." %}
 <h5>Where to buy Floki</h5>
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-7zrl{text-align:left;vertical-align:bottom}
-</style>
 <table class="tg">
 <thead>
   <tr>
