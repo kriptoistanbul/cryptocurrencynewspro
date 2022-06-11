@@ -84,7 +84,7 @@ paginate: true
 <p>The fees should also be taken into account. Depending on the provider, these can differ more or less drastically. It is therefore best to look for a location with the lowest fees. It is also important to account for any commissions that brokers may charge for purchases and account top-ups.</p>
 <h3 id="7">Safety</h3>
 <p>Finding a provider who has a secure platform and secures capital is essential and extremely important. Some of the most popular and effective ones are regulated and inspected by the European Union and business organizations.&nbsp;The users are therefore protected from fraud and bankruptcy of the company, among other things, as a result of this.</p>
-<h4 id="8">Is IOTA worth an investment?</h3>
+<h4 id="8">Is IOTA worth an investment?</h4>
 <p>The IOTA digital currency is very interesting. It is a German development and differs from other cryptocurrencies in that it approaches blockchains in a completely different way.&nbsp;Cryptocurrency projects have already attracted several public institutions and several interested parties. As a result, the coin has good prospects and added value that makes it worth investing in.</p>
 <h4 id="9">What makes IOTA special?</h4>
 <p>A number of factors make IOTA a great cryptocurrency to invest in, but the following are particularly noteworthy:</p>
