@@ -17,7 +17,7 @@ paginate: true
 	<li style="padding: 2px;"><a href="#1">What is Gravitoken?</a></li>
 	<li style="padding: 2px;"><a href="#2">Why you should buy Gravitoken</a></li>
 	<li style="padding: 2px;"><a href="#3">What makes gravitoken special?</a></li>
-	<li style="padding: 2px;"><a href="#4">How many gravitoks are in circulation?</a></li>
+	<li style="padding: 2px;"><a href="#4">How many gravitokens are in circulation?</a></li>
 	<li style="padding: 2px;"><a href="#5">Can gravitoken be mined?</a></li>
 	<li style="padding: 2px;"><a href="#6">Gravitoken Wallet – How to store Gravitoken?</a></li>
 	<li style="padding: 2px;"><a href="#7">Software Wallet for Gravitoken</a></li>
@@ -57,7 +57,7 @@ paginate: true
 <p>Each transaction type charges a fee of 9.81% through the use of Gravitoken's automatic liquidity pool algorithm, which is then broken down into gravitoken antimatter, merger, and marketing.</p>
 <p>Hence, the price will continue to increase due to the Gravitoken Antimatter. Many investors question whether this is really a token that can increase in value despite volatility.&nbsp;<strong>The gravitoken antimatter strategically engulfs the tokens, which are ultimately re-gathered and destroyed.</strong>&nbsp;<strong>About 3.27% of each transaction is converted into gravitoken antimatter, which allows the price to increase and protects holders from the hard vacuum of the market.</strong></p>
 <img src="/assets/img/posts-img/grv/defi-tokens.webp" alt="who is behind grv" width="620" height="620" loading="lazy">
-<p><strong>Mergers are arbitrage-resistant mechanisms for distributing gravitoks to holders as a reward for their ownership.</strong>&nbsp;Therefore, investors should be aware of the complicated and questionable mechanisms of gravitoken.</p>
+<p><strong>Mergers are arbitrage-resistant mechanisms for distributing gravitokens to holders as a reward for their ownership.</strong>&nbsp;Therefore, investors should be aware of the complicated and questionable mechanisms of gravitoken.</p>
 <h2 id="2">Why you should buy Gravitoken</h2>
 <ul>
 <li><strong>Prior to investing, you should consider how much capital you have available and whether the investment is consistent with your own investment strategy and current portfolio.</strong></li>
@@ -78,7 +78,7 @@ paginate: true
 <p>This company aims to make cryptocurrency more accessible and affordable by lowering entry barriers. They aim to eliminate price fluctuations.</p>
 <p>The price of the Gravitoken is increased with a minimum rate of 9.81 percent every eight hours by means of rebasing. Despite the fact that rebasing has no effect on the exchange rate, it has psychological impact on investors, and reduction of the number of zeroes has a positive effect on gravitoken's image.</p>
 <p><strong>The mechanism of the project makes it unique.</strong>&nbsp;With Gravitoken, the price is guaranteed to increase at a minimum rate until the price reaches the target.&nbsp;A fully automated process is implemented, as well as a lock-in of initial liquidity.&nbsp;The rebasing mechanism can be employed hourly to ensure a continuous and smooth increase in prices. The gravitoken (GRV) becomes a stablecoin when its price reaches the cap of $1,337,000.</p>
-<h3 id="4">How many gravitoks are in circulation?</h3>
+<h3 id="4">How many gravitokens are in circulation?</h3>
 <p>The GraviToken is a rebased, autonomous community token built on top of the Binance Smart Chain with one quadrillion GRV. It rewards holders of GRV in three ways.&nbsp;A transaction tax of 9.81 percent is levied on all transactions (purchases or sales) and is allocated to LP acquisition, token redemption and marketing.</p>
 <p>Gravitoken uses a negative rebasing method that continuously decreases the overall token supply, however for holders of GRV, the market capitalization percentage remains unchanged.</p>
 <p>Consequently, a transaction tax of 9.81% is divided as follows:</p>
@@ -89,7 +89,7 @@ paginate: true
 </ul>
 <p>As a result of the functions listed above, a deep liquidity pool is created, the GRV price is stabilized, and a reliable pricing floor is established. Holders of GRV tokens are rewarded through a reduction in circulation supply and a steady increase in value.&nbsp;In the end, a strong marketing budget can contribute to the growth and development of the gravitoken community.</p>
 <h3 id="5">Can gravitoken be mined?</h3>
-<p><strong>Gravitoken Coin cannot be mined.</strong>&nbsp;To begin with, 1 billion tokens were created, but over time this number will decrease. Mining gravitoks will not be possible in the future as no new gravitoks will be created.</p>
+<p><strong>Gravitoken Coin cannot be mined.</strong>&nbsp;To begin with, 1 billion tokens were created, but over time this number will decrease. Mining gravitokens will not be possible in the future as no new gravitokens will be created.</p>
 {% include youtube.html width="560" height="315" id="lsBNG2-C4z0" start="0" title="What is GraviToken and how does it work" %}
 <h3 id="6">Gravitoken Wallet &ndash; How to store Gravitoken?</h3>
 <p>It is possible to store Gravitoken in both hardware and software wallets. It is important to note that both of these wallet types have advantages and disadvantages, and they are suitable for different purposes.</p>
@@ -116,22 +116,22 @@ paginate: true
 <li>Some believe that the platform has the potential to perform a "rug pull" and is not trustworthy</li>
 </ul>
 <img src="/assets/img/posts-img/grv/gravi-defi.webp" alt="gravi defi" width="620" height="620" loading="lazy">
-<h4>Buy gravitoks &ndash; what you have to pay attention to:</h4>
+<h4>Buy gravitokens &ndash; what you have to pay attention to:</h4>
 <p>Therefore, if you have decided to purchase gravitoken, you should consider the following aspects to ensure that the purchase proceeds smoothly:</p>
 <ul>
 <li>Make an honest assessment of your own financial situation</li>
 <li>Determine investment duration and strategy before investing</li>
 <li>Balancing the purchase of the real gravitoken against investing in a CFD</li>
-<li>Buy gravitoks only through a trusted provider</li>
+<li>Buy gravitokens only through a trusted provider</li>
 <li>Compare providers' fees</li>
 </ul>
 <h4 id="10">FAQs</h4>
 <div class="schema-faq-code" itemscope="" itemtype="https://schema.org/FAQPage">
     <div itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question" class="faq-question">
-        <h5 itemprop="name" class="faq-q">When is the best time to buy gravitoks?</h5>
+        <h5 itemprop="name" class="faq-q">When is the best time to buy gravitokens?</h5>
         <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
              <p itemprop="text" class="faq-a">Investments in gravitoken are also influenced by the right time to buy them. The best time to purchase a security will vary depending on the individual investor's circumstances.</p>
-<p>Nevertheless, there are several strategies for identifying good entry points for gravitoks. Trades conducted by active traders several times a day often resort to technical analysis to gain insight into the price movements of the cryptocurrency. In this way, trends, support and resistance levels can be identified.&nbsp;In spite of this, it is imperative that each investor develop his own investment strategy and methodology to suit his individual needs.</p>
+<p>Nevertheless, there are several strategies for identifying good entry points for gravitokens. Trades conducted by active traders several times a day often resort to technical analysis to gain insight into the price movements of the cryptocurrency. In this way, trends, support and resistance levels can be identified.&nbsp;In spite of this, it is imperative that each investor develop his own investment strategy and methodology to suit his individual needs.</p>
 <p>In actuality, timing is a relatively unimportant factor for long-term investors. It is often advisable to invest in smaller amounts and frequently for investors with a long investment horizon. The price risk associated with this strategy is reduced as compared to an initial investment. Dollar-cost averaging is a method of reducing price risk.</p><p></p>
         </div>
     </div>
@@ -146,7 +146,7 @@ paginate: true
     <div itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question" class="faq-question">
         <h5 itemprop="name" class="faq-q">What makes Gravitoken unique?</h5>
         <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-             <p itemprop="text" class="faq-a">Gravitoken uses rebasing to raise its price by at least 9.81 percent every eight hours. A currency's rebasing, however, does not influence its exchange rate. It is merely psychological in nature, as reducing the number of zeros has a positive impact on the image of gravitoks. Mechanism is the most distinctive feature of the project. The Gravitoken guarantees an increase of $1,337,000 per year until the price reaches $1,337,000.</p>
+             <p itemprop="text" class="faq-a">Gravitoken uses rebasing to raise its price by at least 9.81 percent every eight hours. A currency's rebasing, however, does not influence its exchange rate. It is merely psychological in nature, as reducing the number of zeros has a positive impact on the image of gravitokens. Mechanism is the most distinctive feature of the project. The Gravitoken guarantees an increase of $1,337,000 per year until the price reaches $1,337,000.</p>
         </div>
     </div>
 
