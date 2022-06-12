@@ -14,24 +14,16 @@ paginate: true
 ---
 <b style="text-align:center; font-size: 150%;">Table of Content</b>
 <ol style="margin: 0;">
-	<li style="padding: 2px;"><a href="#1">What is Cosmos (ATOM)?</a></li>
-	<li style="padding: 2px;"><a href="#2">Buy Cosmos (ATOM) – What you should pay attention to</a></li>
-	<li style="padding: 2px;"><a href="#3">What makes Cosmos (ATOM) special?</a></li>
-	<li style="padding: 2px;"><a href="#4">The most important things in brief about Cosmos (ATOM)</a></li>
-	<li style="padding: 2px;"><a href="#5">Do you need a Cosmos (ATOM) wallet?</a></li>
-	<li style="padding: 2px;"><a href="#6">What is Cosmos (ATOM) Mining?</a></li>
-	<li style="padding: 2px;"><a href="#7">Would you rather buy real Cosmos (ATOM) coins or Cosmos CFDs?</a></li>
-	<li style="padding: 2px;"><a href="#8">Cosmos Coins</a></li>
-  <li style="padding: 2px;"><a href="#9">Cosmos CFD</a></li>
-  <li style="padding: 2px;"><a href="#10">Where can I buy Cosmos (ATOM)?</a></li>
-  <li style="padding: 2px;"><a href="#13">Is it possible to make money by buying Cosmos (ATOM)?</a></li>
-  <li style="padding: 2px;"><a href="#14">Cosmos price development and forecast</a></li>
-  <li style="padding: 2px;"><a href="#15">Cosmos (ATOM) Prediction: Does Cosmos have potential and a future?</a></li>
-  <li style="padding: 2px;"><a href="#16">Better a short-term or long-term Cosmos investment?</a></li>
-  <li style="padding: 2px;"><a href="#17">What is the best time to buy Cosmos (ATOM)?</a></li>
-  <li style="padding: 2px;"><a href="#18">Invest in Cosmos (ATOM) or not?</a></li>
-  <li style="padding: 2px;"><a href="#19">How to buy Cosmos ATOM</a></li>
-  <li style="padding: 2px;"><a href="#20">Frequently Asked Questions</a></li>
+	<li style="padding: 2px;"><a href="#1">What is Gravitoken?</a></li>
+	<li style="padding: 2px;"><a href="#2">Why you should buy Gravitoken</a></li>
+	<li style="padding: 2px;"><a href="#3">What makes gravitoken special?</a></li>
+	<li style="padding: 2px;"><a href="#4">How many gravitoks are in circulation?</a></li>
+	<li style="padding: 2px;"><a href="#5">Can gravitoken be mined?</a></li>
+	<li style="padding: 2px;"><a href="#6">Gravitoken Wallet – How to store Gravitoken?</a></li>
+	<li style="padding: 2px;"><a href="#7">Software Wallet for Gravitoken</a></li>
+	<li style="padding: 2px;"><a href="#8">Hardware Wallet for Gravitoken</a></li>
+  <li style="padding: 2px;"><a href="#9">Should you invest in gravitoken or not? Advantages and disadvantages of gravitokene</a></li>
+  <li style="padding: 2px;"><a href="#10">FAQs</a></li>
 </ol>
 <h1 id="1">What is Gravitoken?</h1>
 <p>The Gravitoken (GRV) is a community-regulated DeFi token with elastic supply. Launched in 2021, Gravitoken is based on Binance Smart Chain and is mathematically designed to protect investors by providing growing pools of liquidity.&nbsp;Due to its mathematical development, it adjusts the liquidity pool accordingly to create a stable minimum price level.</p>
@@ -124,7 +116,7 @@ paginate: true
 <li>Some believe that the platform has the potential to perform a "rug pull" and is not trustworthy</li>
 </ul>
 <img src="/assets/img/posts-img/grv/gravi-defi.webp" alt="gravi defi" width="620" height="620" loading="lazy">
-<h2>Buy gravitoks &ndash; what you have to pay attention to:</h2>
+<h4>Buy gravitoks &ndash; what you have to pay attention to:</h4>
 <p>Therefore, if you have decided to purchase gravitoken, you should consider the following aspects to ensure that the purchase proceeds smoothly:</p>
 <ul>
 <li>Make an honest assessment of your own financial situation</li>
@@ -133,7 +125,7 @@ paginate: true
 <li>Buy gravitoks only through a trusted provider</li>
 <li>Compare providers' fees</li>
 </ul>
-<h4 id="10>FAQs</h4>
+<h4 id="10">FAQs</h4>
 <div class="schema-faq-code" itemscope="" itemtype="https://schema.org/FAQPage">
     <div itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question" class="faq-question">
         <h5 itemprop="name" class="faq-q">When is the best time to buy gravitoks?</h5>
