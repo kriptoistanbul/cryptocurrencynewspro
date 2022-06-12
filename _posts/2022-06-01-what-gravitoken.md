@@ -2,7 +2,7 @@
 layout: post
 title:  "Buy Gravitoken 2022 Buying Instructions, Important Notes and Forecasts"
 date:   2022-06-12 23:19:19 +0300
-subtitle: What does GraviToken actually do? Is Gravi a good investment? What is GRV crypto used for? Does Gravitoken crypto have a future?
+subtitle: What does GraviToken actually do? Is Gravi a good investment? What is GRV crypto used for?
 description: Gravitoken (GRV) is a community-regulated DeFi token with elastic supply. Launched in 2021, Gravitoken is based on Binance Smart Chain and is mathematically designed to protect investors by providing growing pools of liquidity.
 image: /assets/img/posts-img/grv/what-is-gravi-token-grv.webp
 categories:   
@@ -22,7 +22,7 @@ paginate: true
 	<li style="padding: 2px;"><a href="#6">Gravitoken Wallet – How to store Gravitoken?</a></li>
 	<li style="padding: 2px;"><a href="#7">Software Wallet for Gravitoken</a></li>
 	<li style="padding: 2px;"><a href="#8">Hardware Wallet for Gravitoken</a></li>
-  <li style="padding: 2px;"><a href="#9">Should you invest in gravitoken or not? Advantages and disadvantages of gravitokene</a></li>
+  <li style="padding: 2px;"><a href="#9">Should you invest in gravitoken or not? Advantages and disadvantages of gravitoken</a></li>
   <li style="padding: 2px;"><a href="#10">FAQs</a></li>
 </ol>
 <h1 id="1">What is Gravitoken?</h1>
