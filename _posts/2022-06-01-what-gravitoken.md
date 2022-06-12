@@ -130,7 +130,7 @@ paginate: true
     <div itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question" class="faq-question">
         <h5 itemprop="name" class="faq-q">When is the best time to buy gravitoks?</h5>
         <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-             <p itemprop="text" class="faq-a"></p><p>Investments in gravitoken are also influenced by the right time to buy them. The best time to purchase a security will vary depending on the individual investor's circumstances.</p>
+             <p itemprop="text" class="faq-a">Investments in gravitoken are also influenced by the right time to buy them. The best time to purchase a security will vary depending on the individual investor's circumstances.</p>
 <p>Nevertheless, there are several strategies for identifying good entry points for gravitoks. Trades conducted by active traders several times a day often resort to technical analysis to gain insight into the price movements of the cryptocurrency. In this way, trends, support and resistance levels can be identified.&nbsp;In spite of this, it is imperative that each investor develop his own investment strategy and methodology to suit his individual needs.</p>
 <p>In actuality, timing is a relatively unimportant factor for long-term investors. It is often advisable to invest in smaller amounts and frequently for investors with a long investment horizon. The price risk associated with this strategy is reduced as compared to an initial investment. Dollar-cost averaging is a method of reducing price risk.</p><p></p>
         </div>
