@@ -24,11 +24,6 @@ paginate: true
   <li style="padding: 2px;"><a href="#9">Should you invest in governance tokens or not?</a></li>
   <li style="padding: 2px;"><a href="#10">Pros and cons of governance tokens</a></li>
   <li style="padding: 2px;"><a href="#11">Frequently asked questions (FAQ) about governance tokens</a></li>
-  <li style="padding: 2px;"><a href="#16">Better a short-term or long-term Cosmos investment?</a></li>
-  <li style="padding: 2px;"><a href="#17">What is the best time to buy Cosmos (ATOM)?</a></li>
-  <li style="padding: 2px;"><a href="#18">Invest in Cosmos (ATOM) or not?</a></li>
-  <li style="padding: 2px;"><a href="#19">How to buy Cosmos ATOM</a></li>
-  <li style="padding: 2px;"><a href="#20">Frequently Asked Questions</a></li>
 </ol>
 <h1>Buy Governance Token 2022 &ndash; Instructions, Forecasts &amp; Exciting Projects</h1>
 <p>Anyone who says DeFi must also say Governance Token. Decentralized applications have become increasingly reliant on tokens over the past few years.&nbsp;Should these cryptocurrencies also be considered for investment?</p>
