@@ -124,12 +124,21 @@ paginate: true
 <p>Here, too, there are good prospects: in December 2021, a $150 million fund was established to invest in GameFi projects based on Solana. Examples of popular games that are now: Star Atlas, Aurory, Naga Kingdom.</p>
 <p>It is also worth noting interesting projects that work using Web 3.0 technologies (decentralized Internet):</p>
 <ul>
-<li><strong>Audius</strong> is an audio and music listening platform where content creators can work directly with listeners and profit without intermediaries.</li>
+<li><strong><a href="https://cryptocurrencynewspro.com/what/audius/" title="What is audius" target="_blank">Audius</a></strong> is an audio and music listening platform where content creators can work directly with listeners and profit without intermediaries.</li>
 <li><strong>Grape</strong> is a decentralized social network protocol for building token-based online communities on the Solana blockchain.</li>
 <li><strong>Squads</strong> is an application for deploying DAOs (decentralized organizations) on the Solana blockchain.</li>
 </ul>
 <p>Well, from the latter, in February 2022, Solana Pay was launched - a payment protocol that will allow transactions between buyers and sellers at high speed, with low commissions and without intermediaries. Moreover, the focus is not on paying for goods with cryptocurrencies, but on USDT and USDC stablecoins. The idea is to create a competitor to existing payment systems, but avoid the risks of the volatile price of Bitcoin and other cryptocurrencies.</p>
 <p>To sum up, the developers of Solana managed to attract a lot of developers and interesting projects to their ecosystem, which allowed it to grow significantly. This did not happen in a vacuum: the company regularly holds hackathons, where the best project ideas receive support and part of the prize fund of several million dollars. Good technical characteristics and features of the blockchain are also important, which we will talk about now.</p>
+<h4>What is Solanart.io - Solanaart NFT</h4>
+<p>Solanart is the pioneering NFT marketplace on the Solana blockchain (SOL). As well as offering a large selection of NFTs, Solanart also offers an extensive selection of NFT collections and work by up-and-coming artists, all of which can be bought and sold in an easy and intuitive manner. If a beginner has any questions, a comprehensive help function is available to them. Furthermore, you can benefit from all the features of the Solana blockchain by using Solanart.io. Consequently, the transaction fees are extremely low and the transaction times are considerably faster than the average.</p>
+<h4>What is Solsea.io - Solsea NFT</h4>
+<p>Solsea competes against Solanart! Solsea is also based on the Solana blockchain, however, unlike Solanart, it has an important feature: it is the first NFT marketplace where authors can choose and integrate licenses for their NFTs. This is intended to curb the widespread infringement of intellectual property rights in the NFT industry. Due to the fact that: With the appropriate license, NFT artists can prove what they are selling. On the other hand, buyers can rest assured that they are not dealing with a fake product. In addition, Solsea has a built-in NFT calendar. As soon as you visit the page, you will be able to see which NFT drops will be happening in the near future.</p>
+<h4>What is Magic Eden - Solana NFT Marketplace</h4>
+<p>Magic Eden is a marketplace for NFTs based on the Solana blockchain. Zhuoxuo Yin, a former Coinbase executive, founded the company, which is now considered the largest NFT exchange on the Solana (SOL) blockchain.&nbsp;Magic Eden also allows users to create, buy, and manage NFTs.</p>
+<p>Magic Eden provides users with a variety of attractive features that add value.&nbsp;The launchpad is one such feature.&nbsp;In a matter of minutes, you can create NFTs - no prior experience is required.&nbsp;As a result of the flood of new NFTs, the platform is currently only accepting a limited number of projects, but this will change in the near future.</p>
+<p>An NFT drop calendar is also useful.&nbsp;You will no longer be required to look for new projects from your favorite artists like you are searching for a needle in a haystack.&nbsp;In addition, Magic Eden provides you with a list of upcoming releases of your favorite titles - so you will always be on top of the latest news.</p>
+<p>A similar service is provided by the "Popular Collections" feature, which allows users to view the latest NFT projects on the Solana blockchain, learn more about them and invest if they wish.&nbsp;<strong>Magic Eden's growth continues to be positive: The platform continues to expand!</strong>&nbsp;NFT, for instance, has just exceeded the $1 billion mark in trading volume on the secondary market!</p>
 <h4 id="11">How Solana works: Proof-of-History and other features</h4>
 <p>Solana is one of the fastest and cheapest (in terms of fees) blockchains in the industry. This has been achieved through many technical innovations. In this section, I will not go back to the basic concepts, so if you are not very versed in the technical side of blockchain and cryptocurrencies, I recommend that you first read the guide for beginner crypto investors - there you can learn the basics in an accessible language.</p>
 <p>So, let's compare Solana's performance with the main competitors:</p>
@@ -319,6 +328,29 @@ Solana claims that its blockchain is capable of supporting over 50,000 transacti
         <h6 itemprop="name" class="faq-q">What was the lowest price for Solana?</h6>
         <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
              <p itemprop="text" class="faq-a">The lowest price for Solana was $0.500801 on May 11, 2020 for now. P.S. This article written on May 31,2022.  </p>
+        </div>
+    </div>
+    <div itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question" class="faq-question">
+        <h6 itemprop="name" class="faq-q">How to calculate Solana staking rewards</h6>
+        <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+             <p itemprop="text" class="faq-a">A staking reward is computed and issued once every epoch. A period of approximately two days constitutes an epoch. In the first block of the next epoch, rewards accrued in a given epoch are distributed to all validators and delegators. The staking yield is presented as an annualized number, but this number may change every epoch since inflation and the number of active stakes constantly vary. Here is a summary of <a href="https://docs.solana.com/inflation/terminology" title="solana staking reward calculate" target="_blank">solana official documents</a>, including the staking yield and inflation design. &nbsp;
+             <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>S</mi><mi>t</mi><mi>a</mi><mi>k</mi><mi>i</mi><mi>n</mi><mi>g</mi><mi>Y</mi><mi>i</mi><mi>e</mi><mi>l</mi><mi>d</mi><mo>&#xA0;</mo><mo>=</mo><mo>&#xA0;</mo><mi>I</mi><mi>n</mi><mi>f</mi><mi>l</mi><mi>a</mi><mi>t</mi><mi>i</mi><mi>o</mi><mi>n</mi><mi>R</mi><mi>a</mi><mi>t</mi><mi>e</mi><mo>&#xD7;</mo><mi>V</mi><mi>a</mi><mi>l</mi><mi>i</mi><mi>d</mi><mi>a</mi><mi>t</mi><mi>o</mi><mi>r</mi><mi>U</mi><mi>p</mi><mi>t</mi><mi>i</mi><mi>m</mi><mi>e</mi><mo>&#xD7;</mo><mo>(</mo><mfenced><mrow><mn>1</mn><mo>-</mo><mi>V</mi><mi>a</mi><mi>l</mi><mi>i</mi><mi>d</mi><mi>a</mi><mi>t</mi><mi>o</mi><mi>r</mi><mi>F</mi><mi>e</mi><mi>e</mi></mrow></mfenced><mo>)</mo><mo>&#xD7;</mo><mo>(</mo><mn>1</mn><mo>/</mo><mo>(</mo><mi>S</mi><mi>O</mi><mi>L</mi><mi>S</mi><mi>t</mi><mi>a</mi><mi>k</mi><mi>e</mi><mi>d</mi><mo>/</mo><mn>100</mn><mo>)</mo><mo>)</mo></math>
+             &nbsp;
+             where, <math xmlns="http://www.w3.org/1998/Math/MathML"><mi>S</mi><mi>O</mi><mi>L</mi><mi>S</mi><mi>t</mi><mi>a</mi><mi>k</mi><mi>e</mi><mi>d</mi><mo>/</mo><mn>100</mn><mo>=</mo><mi>T</mi><mi>o</mi><mi>t</mi><mi>a</mi><mi>l</mi><mi>S</mi><mi>o</mi><mi>l</mi><mi>S</mi><mi>t</mi><mi>a</mi><mi>k</mi><mi>e</mi><mo>/</mo><mi>T</mi><mi>o</mi><mi>t</mi><mi>a</mi><mi>l</mi><mi>C</mi><mi>u</mi><mi>r</mi><mi>r</mi><mi>e</mi><mi>n</mi><mi>t</mi><mi>S</mi><mi>u</mi><mi>p</mi><mi>p</mi><mi>l</mi><mi>y</mi></math></p>
+        </div>
+    </div>
+    <div itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question" class="faq-question">
+        <h6 itemprop="name" class="faq-q">Solana staking rewards frequency</h6>
+        <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+             <p itemprop="text" class="faq-a">The rewards will be issued once per epoch and will be deposited into the stake account in which the reward was earned. Earned stake rewards will automatically be redelegated as active stakes.
+
+In the event that a validator or one of their stakes does not receive at least one lamport for an epoch, rewards are deferred until the next epoch in which both would receive at least one lamport.</p>
+        </div>
+    </div>
+    <div itemscope="" itemprop="mainEntity" itemtype="https://schema.org/Question" class="faq-question">
+        <h6 itemprop="name" class="faq-q">What is Solana Beach?</h6>
+        <div itemscope="" itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+             <p itemprop="text" class="faq-a">The Solanabeach is a comprehensive block explorer that demonstrates key Solana statistics. Solana blockchain stakeholders have seamless access to the network's statistics, validators, and token metrics.</p>
         </div>
     </div>
 </div>
