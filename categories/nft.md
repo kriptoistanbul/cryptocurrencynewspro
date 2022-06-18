@@ -1,0 +1,7 @@
+---
+layout: nft
+menu: false
+date: '2022-06-18 16:46:59'
+title: NFTs
+permalink: /nft/
+description: As the buzz surrounds NFTs, museums, auctioneers, sports clubs, and celebrities are selling their first NFTs and making millions.&nbsp;The hype around NFTs has only just begun.
