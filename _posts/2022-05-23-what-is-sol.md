@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "What is Solana SOL"
-date:   2022-06-14 12:30:19 +0300
-subtitle: What is Solana used for? Is Solana better than Ethereum? What is special about Solana?
+date:   2022-06-22 15:14:19 +0300
+subtitle: What is Solana used for? Is Solana better than Ethereum? Is solana a good investment? Solana vs Cardano
 description: Solana is a popular blockchain platform for smart contracts and decentralized applications. The idea of ​​​​creation appeared in 2017 amid problems with scaling in Bitcoin and Ethereum.
 image: /assets/img/posts-img/sol/what-is-solana.webp
 categories:   
@@ -16,7 +16,7 @@ paginate: true
 <ol style="margin: 0;">
 	<li style="padding: 2px;"><a href="#1">What is Solana SOL: Is it faster than VISA</a></li>
 	<li style="padding: 2px;"><a href="#2">How to buy Solana cryptocurrency and where to store it</a></li>
-	<li style="padding: 2px;"><a href="#3">The best ways to make money with Solana</a></li>
+	<li style="padding: 2px;"><a href="#3">Is solana a good investment</a></li>
 	<li style="padding: 2px;"><a href="#4">Solana taps</a></li>
 	<li style="padding: 2px;"><a href="#5">HODL ("buy and hold")</a></li>
 	<li style="padding: 2px;"><a href="#6">Staking</a></li>
@@ -35,25 +35,30 @@ paginate: true
 <p>Solana is a popular blockchain platform for smart contracts and decentralized applications. The idea of ​​​​creation appeared in 2017 amid problems with scaling in <a href="https://cryptocurrencynewspro.com/what/bitcoin/" title="What is bitcoin" target="_blank">Bitcoin</a>  and <a href="https://cryptocurrencynewspro.com/what/eth/" title="What is Ethereum" target="_blank">Ethereum</a>. The project entered the crypto-exchanges in 2020, attracted multi-million dollar funding from venture funds, and the SOL cryptocurrency showed a yield of more than 5000% in 2021. The Solana blockchain is very fast (thanks to the innovative Proof-of-History algorithm): 50,000 operations per second, which is 2500 times faster than Ethereum and 20 times faster than VISA. The project is named after the popular beach in California Solana Beach - apparently the rest there is really great.</p>
 <img src="/assets/img/posts-img/sol/sol-coin.webp" alt="what is solana" width="612" height="301" loading="lazy">
 <h2 id="2">How to buy Solana cryptocurrency and where to store it</h2>
-<p>I think I will not be much mistaken if I say that you are at least thinking about buying the Solana cryptocurrency, since you are reading this article. Well, let's immediately figure out how to do it conveniently and profitably. First of all, you need to think about choosing a wallet for storing SOL. There you will receive a digital address for sending cryptocurrency:</p>
-<p>In order not to make a mistake when copying an address, it is best to use a special button (to the right of the address) - this way it will completely go to the clipboard. Also, in most cryptocurrency applications, you can scan the address via a QR code - this is even safer.</p>
+<p>It is likely that you are considering purchasing Solana cryptocurrency, since you are reading this article. Now, let's examine how we can do it conveniently and profitably. Initially, it is important to select a wallet in which to store SOL. A digital address will be provided to assist in sending the cryptocurrency:</p>
+<p>If you want to avoid making a mistake when copying an address, it is best to use a special button (to the right of the address) - this will guarantee that the address will be copied completely to the clipboard. Moreover, most cryptocurrency applications allow you to scan the address via a QR code, which is even safer.</p>
 <p>Today there are a huge number of cryptocurrency wallets, many of them have already added support for the Solana network. Here is a list of good options among different types of wallets:</p>
 <p>Binance</p>
 <p>Trutee Wallet</p>
-<p>Ledger</p>
+<p>Solana Ledger</p>
 <p>Phantom</p>
 <p>A few words about each option:</p>
 <img src="/assets/img/posts-img/sol/sol-ledger-wallet.webp" alt="solana wallet" width="512" height="256" loading="lazy">
 <ul>
 <li><strong>Binance</strong> is the largest cryptocurrency exchange. It is most profitable to buy and exchange digital assets on exchanges, and you don&rsquo;t have to bother with passwords and private keys of wallets. A great place to store small sums of SOL: the security on Binance is quite good, and the passive profit from staking is the highest - up to 11% per annum. It is better for large investors to withdraw money to external wallets in order to have 100% control over their money and passwords.</li>
 <li><strong>Trustee Wallet</strong> is a popular open source mobile wallet with a good level of security. Supports storage and exchange of more than a hundred cryptocurrencies. It differs from analogues in the presence of a convenient Russian interface and high percentages of SOL staking.</li>
-<li><strong>Ledger</strong> is the most famous cold wallet. The most secure place to store cryptocurrencies: the wallet connects to the network only when necessary, making it virtually unhackable. Outwardly similar to a flash drive, it costs $100-200 depending on the model.</li>
-<li><strong>Phantom</strong> is currently the best option for using and staking Solana on PC (through a browser). Supports dozens of other blockchains as well as NFTs.</li>
+<li><strong>Solana Ledger</strong> is the most famous cold wallet. The most secure place to store cryptocurrencies: the wallet connects to the network only when necessary, making it virtually unhackable. Outwardly similar to a flash drive, it costs $100-200 depending on the model.For more information you can visit solana ledger websites.</li>
+<li><strong>How to stake solana on Phantom?</strong>Phantom is currently the best option for using and staking Solana on PC (through a browser). Supports dozens of other blockchains as well as NFTs.</li>
 </ul>
 {% include youtube.html width="560" height="315" id="s8M73S6Dde8" start="0" title="What is Solana and how does it work" %}
 <p>Once you have decided on the choice of wallet, it remains to choose a way to buy Solana. I wrote in detail about all the ways to buy cryptocurrencies in this article and there are at least ten of them, but thanks to the low commissions in the Solana network, two are quite enough:</p>
 <p>The Binance crypto exchange always has the best buy price due to high liquidity - millions of traders participate in trading. Of the minuses - mandatory verification and a small number of replenishment methods (bank card and several payment systems).</p>
-<h2 id="3">The best ways to make money with Solana</h2>
+<h2 id="3">is solana a good investment</h2>
+<p>As is common with crypto currencies, Solana's price fluctuates. The price of Sol has fallen in the last two days, but does that mean it's a bad investment? Of course not. Solana is still one of the fastest growing blockchains in the world, and it has a number of possible applications. DeFi, crypto credit web 3, and NFTs are all areas where Solana could excel.</p>
+<p>Solana has now been used in hundreds of applications. Brave Browser, Audius, MetaPlex, and Grape Protocol are the most prominent examples. Solana is one of the fastest developing blockchains in the world. According to reports, it can help developers build high-quality applications for DeFi, crypto-lending web 3 and NFTs that are both faster and cheaper.</p>
+<p>A key advantage of Solana is that transactions with comparable blockchain apps are slower and more expensive. Solana, for example, is capable of processing more than 2,000 transactions per second. That is much more than Ethereum, which processes fewer than 20 transactions per second.</p>
+<p>So, is solana a good investment or not? The answer is depends on what you are expecting from sol. Investing in Solana involves lots of risk, just as it would with any smaller altcoin. Experts recommend considering the potential of Solana and its relatively stable (albeit short) historical performance among the top crypto assets by market cap before purchasing it.</p>
+<p><strong>The best ways to make good investment in Solana</strong></p>
 <h3 id="4">Solana taps</h3>
 <p>Let's start with the simplest way. Most cryptocurrencies can be obtained without investments on special faucet sites - Solana is no exception. The easiest way to earn money is to visit such sites every 10-60 minutes and make a click, for which a certain amount of cryptocurrency will be credited to the account. By repeating the operation daily, you can save up a good amount, especially if the price of the crypt goes up. Here are the best sites of this kind:</p>
 <img src="/assets/img/posts-img/sol/brave-solana-partner.webp" alt="brave" width="512" height="256" loading="lazy">
@@ -67,15 +72,15 @@ paginate: true
 <p>In addition, you need to have enough cryptocurrency in your wallet so that staking covers the costs of the server - but there are no conditions for the minimum amount of SOL in staking (for example, in Ethereum - 32 ETH). In general, for most of us, creating our own node is difficult and stressful, so staking through an intermediary is more suitable for us. The best interest rates are offered by the Binance crypto exchange:</p>
 <p>Due to the high popularity, the offer is not always available, especially in a bullish trend - they are sold out instantly. The only disadvantage of staking on Binance is that you need to lock up the cryptocurrency for a certain amount of time. It is possible to close staking ahead of schedule, but all accumulated income will be lost.</p>
 <h3 id="7">Exchange trading</h3>
-<p>Theoretically, the biggest income from Solana can be obtained by trading on a crypto exchange. Especially if you take into account the higher volatility of the cryptocurrency compared to Bitcoin - it can grow and fall by tens of percent per month. For maximum trading income, it is recommended to connect cashback from trading commissions:</p>
-<p>It is better for beginners in exchange trading not to risk large amounts, with a high probability they will remain in the red due to inexperience. As a result, the profitability of trading should be at least higher than the profitability of investing in Bitcoin, otherwise there will be no point in such a risk.</p>
+<p>Solana can be traded on crypto exchanges in order to obtain the highest income possible. Especially when you consider the higher volatility of the cryptocurrency compared to Bitcoin - it can fluctuate by tens of percent per month. Ideally, you should link cashback from trading commissions to maximize your trading income:</p>
+<p>Beginners in exchange trading should avoid risking large amounts as, due to inexperience, they are likely to remain in the red. As a result, the profitability of trading in Bitcoin must be at least as high as the profitability of investing in the currency, otherwise such a risk is not worthwhile.</p>
 <h3 id="8">NFTs</h3>
-<p>NFT (non-fungible tokens) is a digital signature that guarantees the uniqueness of any digital object. This works in much the same way as confirming the authenticity of paintings: they may have thousands of copies, but the original is always the same and is in the gallery. In 2021, this area experienced explosive growth.</p>
+<p>An NFT (non-fungible token) is a digital signature that ensures the uniqueness of any digital object. The system works in much the same way as confirming the authenticity of a painting: they may have thousands of copies, but the original is always the same, and it is in the gallery. This area experienced explosive growth in 2021.</p>
 <img src="/assets/img/posts-img/sol/solana-pay.webp" alt="solana future" width="512" height="288" loading="lazy">
-<p>Solana is one of the three most popular NFT blockchains and the project has several NFT marketplaces where thousands of works of "digital art" are traded:</p>
-<p>As you can see, each picture costs a lot of money and their price may rise even more in the future. NFT trading can be profitable, but you need to be well versed in this topic and what will really be of value in the future. Well, or just try to resell more expensive to the next "investor".</p>
+<p>Solana is one of the three most popular NFT blockchains, and the platform has a number of NFT marketplaces where thousands of works of "digital art" are traded:</p>
+<p>As you can understand, each picture costs a lot of money and their price may rise even more in the future. NFT trading may be profitable, but it is important that you understand the topic well and know what will be of real value in the future. It is possible to resell the property more expensively to the next "investor".</p>
 <h4 id="9">Project history and development team</h4>
-<p>The idea to create a new blockchain came to Qualcomm engineer Anatoly Yakovenko in 2017. At that time, there was a lot of hype in the crypto market, which clearly showed the problem of scaling Bitcoin and Ethereum. Anatoly had extensive experience with data compression algorithms and came up with an innovative timestamped algorithm called Proof-of-History. As a result, this made it possible to create one of the fastest blockchains in the industry with the ability to process tens of thousands of transactions per second (for comparison, Bitcoin is only 3-5 per second).</p>
+<p>In 2017, Anatoly Yakovenko, an engineer at Qualcomm, had the idea to create a new blockchain. At that time, there was a great deal of hype in the crypto industry, which clearly illustrated the problem of scaling Bitcoin and Ethereum. Anatoly is experienced with data compression algorithms and developed a timestamped algorithm referred to as Proof-of-History. Due to this, it became possible to create one of the fastest blockchains in the industry, able to process tens of thousands of transactions per second (compare this with Bitcoin, which processes 3-5 transactions per second)..</p>
 <p>The creators of the project characterize it as an operating system using the blockchain. As I understand it: the focus is not on the distribution and marketing of cryptocurrency, as in Bitcoin, but on the development of blockchain technologies and tools for creating Dapps (decentralized applications), as in Ethereum. In my opinion, the second approach has more prospects in the future.</p>
 <p>The first test blockchain was launched in 2018, and the release of the SOL cryptocurrency to the exchanges in 2020. The project quickly gathered a large community around itself: the number of subscribers on the official Twitter has exceeded one million and is growing faster than Ethereum:</p>
 <p>At current growth rates, Solana will overtake Ethereum in this indicator as early as early 2023. And this is despite the fact that the Solana network is still running in beta:</p>
@@ -94,7 +99,7 @@ paginate: true
 <li><strong>The Solana Foundation</strong> is a non-profit organization headquartered in Zug, Switzerland. He is engaged in popularization, decentralization and network security. Attracts investments and sponsors community projects.</li>
 <li><strong>Solana Labs</strong> is a technology company based in San Francisco, California. Works on the development of the Solana ecosystem. Responsible directly for the development and improvement of the blockchain.</li>
 </ul>
-<p>The scheme is already familiar from Ethereum and Cardano: the blockchain platform is officially registered in Switzerland (a country friendly to crypto companies), and the main development team works through a partner company. Solana Labs employs several dozen people, many of whom previously worked at Qualcomm. Main people in the project:</p>
+<p>The scheme is already familiar from Ethereum and <a href="https://cryptocurrencynewspro.com/what/ada/" title="cardano vs solana" target="_blank">Cardano</a>: the blockchain platform is officially registered in Switzerland (a country friendly to crypto companies), and the main development team works through a partner company. Solana Labs employs several dozen people, many of whom previously worked at Qualcomm. Main people in the project:</p>
 <p><strong>Anatoly Yakovenko</strong> is the co-founder and CEO of Solana Labs, President of the Solana Foundation. In 2003, he graduated from the University of Illinois at Urbana-Champaign with a degree in Computer Science. Prior to Solana, he spent 12 years at Qualcomm (developing operating systems), half a year at Dropbox (studied data compression), and a year at Mesosphere (developing distributed systems). Has several technological patents. In 2017, he published a White Paper mentioning the Proof-of-History protocol, which has become a hallmark of the Solana blockchain.</p>
 <p>I think, for a better understanding of the Solana project, it is useful to listen to the opinion of the founder (which is rarely possible, in Russian!), Here is one of the interviews of Anatoly Yakovenko:</p>
 <p>Anatoly was not the only founder of Solana, here are some other important members of the team:</p>
@@ -188,6 +193,32 @@ paginate: true
 <p>It shows how often the query "solana" is mentioned in the Google search engine. This value correlates with the frequency of mentioning the Solana cryptocurrency in the media space. If it is high, the demand for SOL increases and prices rise. If the frequency of mentions is relatively low, there are fewer buyers and prices fall, which makes it possible to purchase cryptocurrency at a lower price.</p>
 <p>Summing up, Solana in my understanding looks like a very promising crypto project. The developers have already solved the scaling problem that Bitcoin and Ethereum suffer from. Great efforts are also being made to attract new projects in the areas of DeFi, NFT and GameFi - the most "hot" ones to date. The Solana Pay project also seems interesting to me - an attempt to enter the e-commerce market and get closer to real business.</p>
 <p>Unfortunately, there are several negative points, such as a periodic network drop - this happens much less frequently with competitors. However, this can be attributed to the youth of the project and work in beta mode. If the developers manage to fix the problems, this will definitely lead to an even greater increase in interest in Solana.</p>
+<h5>Solana vs Cardano</h5>
+<p>A comparison of Cardano and Solana: Does ADA lose to SOL in the smart contract arena? Who is the winner of Cardano vs Solana competition?</p>
+<div>As smart contract platforms, Cardano and Solana are Ethereum's leading competitors.&nbsp;Both of these firms are bringing much-needed diversification to the space with their entry into the sector.&nbsp;Work has already begun on the Solana blockchain.&nbsp;Since the introduction of smart contracts, Cardano has seen little activity on its blockchain.</div>
+<div>
+<div>This is primarily due to the fact that smart contracts were introduced to the network less than two months ago, and it has taken time for developers to test and deploy their applications to the blockchain.</div>
+<div>
+<div>Cardano is currently lagging behind its peers, but it remains a major player in the industry.&nbsp;As the second most popular platform for smart contracts, the blockchain was able to retain its position.&nbsp;However, now Solana is the heir apparent and appears to be winning.</div>
+</div>
+<div>
+<p><strong>Solana overtakes Cardano in the top 10 cryptocurrencies</strong></p>
+<p>For months, Cardano held the position of #3 crypto top 10 projects by market cap, but was supplanted last month by Binance Chain.</p>
+<p>Cardano's fortunes have not improved in the recent months.&nbsp;After dropping back into the low $2 range, the coin did not see any significant movement.&nbsp;The broader market recovered, but ADA remained stagnant -- providing Solana with an opportunity to catch up.</p>
+<p>As a result of the launch of its decentralized finance (DeFi) marketplace, Solana (SOL) has had a successful couple of months, which has contributed to the asset's high market value.</p>
+<p>With its new market cap, Solana ranks fourth in the top 10 cryptocurrencies, while Cardano is now sixth behind Tether.&nbsp;The circulation of SOL is much lower than that of ADA, and therefore, in terms of value, it is significantly more valuable.</p>
+<p><strong>Leading through DeFi</strong></p>
+<p>There is no comparison between Solana and Cardano in terms of decentralized finance.&nbsp;Cardano developers are still having difficulty integrating DApps and DEXes into the Cardano ecosystem.</p>
+<p>Meanwhile, on Solana, the DeFi space has been in full bloom for several months.&nbsp;Solana users may borrow, borrow, earn returns, and more, while protocols offering the same services are yet to appear on Cardano.</p>
+<p>Solana currently has over $14 billion in TVL (Total Value Locked) on its network, and over 37 billion total transactions.&nbsp;As the DeFi space on Cardano has not yet been launched, the TVL on the network is zero.</p>
+<p>We remain optimistic about Cardano's future.&nbsp;For the moment, however, Solana has proven to be the best option for DeFi.&nbsp;Therefore, SOL is Ethereum's main competitor in this regard.&nbsp;</p>
+<p>It should be noted that Solana vs Cardano competition will never leave the cryptocurrency market and everything is possible in the future.</p>
+</div>
+</div>
+<h5>Yield Farming on Solana</h5>
+<p>It is important to remember, however, that the topic of decentralized finance is at the foundation of this trend. This is because yield farming would not be possible without decentralized finance. Even though DeFi drew attention as early as 2019, many investors have only become familiar with yield farming since 2020. This, in fact, was the driving force behind the DeFi boom that followed.
+When it comes to loans, people tend to turn to banks. A bank acts as an intermediary in financial transactions, i.e. it is a third party.
+This pool may be accessed by other participants and certain sums may be borrowed. Liquidity providers generate revenue by distributing fees incurred by crypto transactions. Thus, a liquidity pool is a fund that collects funds for the purpose of lending them out</p>
 <h5 id="14">How to Buy Solana</h5>
 {% include how-to.html coinname="solana" coinlink="https://cryptocurrencynewspro.com/what/sol/" step1text="Find an exchange that lists SOL in one or more cryptocurrency pairings. Then sign up with your email address and password. Compare exchanges when buying SOL to find the lowest fees and the latest exchange rates. Note: Many exchanges require your full name, contact information, and ID before allowing you to trade." step2text="To create an account with an exchange, you must verify your email address and identity. Have your photo ID and phone ready." step3text="If your exchange supports Solana, you can buy SOL directly with dollar, euro, pound or any other currency of your choice. Some exchanges charge commission fees that vary depending on the amount of SOL you buy, so be mindful of the cost of your transaction. Note: Some payment methods have higher fees and credit card payments are usually the most expensive." step4text="Select your chosen exchange to find the SOL match you want. Go to the markets section. Look at the buy SOL section and type in the amount of paired cryptocurrency you want to spend or the amount of SOL you want to buy. Note: Before completing the transaction, carefully review your transaction details, including the amount of Solana you purchased and the total cost of the purchase.
 " %}
