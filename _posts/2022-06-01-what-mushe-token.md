@@ -304,6 +304,7 @@ The purchases made during stage three are available immediately upon launch.</p>
 <h6 id="14">Popularity of Mushe Token</h6>
 <p>When we look at at the Google Trends for "Mushe Token" and "Mushe token price" queries we can easly see that there is significant increase on it.</p>
 <script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/3011_RC01/embed_loader.js"></script> <script type="text/javascript"> trends.embed.renderExploreWidget("TIMESERIES", {"comparisonItem":[{"keyword":"mushe","geo":"","time":"today 12-m"}],"category":0,"property":""}, {"exploreQuery":"q=mushe&date=today 12-m","guestPath":"https://trends.google.com:443/trends/embed/"}); </script>
+<br>
 <script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/3011_RC01/embed_loader.js"></script> <script type="text/javascript"> trends.embed.renderExploreWidget("TIMESERIES", {"comparisonItem":[{"keyword":"mushe token price","geo":"","time":"today 12-m"}],"category":0,"property":""}, {"exploreQuery":"q=mushe%20token%20price&date=today 12-m","guestPath":"https://trends.google.com:443/trends/embed/"}); </script>
 <p>Social media accounts of Mushe</p>
 <ul>
