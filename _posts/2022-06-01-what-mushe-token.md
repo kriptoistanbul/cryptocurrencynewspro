@@ -193,7 +193,7 @@ paginate: true
   </tr>
 </tbody>
 </table>
-<img src="/assets/img/posts-img/xmu/mushe-xmu-logoe.webp" alt="xmu mushe logo" width="155" height="155" loading="lazy">
+<img src="/assets/img/posts-img/xmu/mushe-xmu-logo.webp" alt="xmu mushe logo" width="155" height="155" loading="lazy">
 <h5 id="12">Future of XMU</h5>
 <dl>
 <dt>Presale Launch - April 18th</dt>
