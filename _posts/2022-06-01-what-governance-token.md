@@ -5,9 +5,16 @@ date:   2022-06-13 14:25:19 +0300
 subtitle: What does Governance Tokens actually do? Which coins are governance tokens? Governace tokens list
 description: As part of a blockchain project, governance tokens grant token holders voting rights. Token holders can use the tokens to either participate in polls or launch their own polls.
 image: /assets/img/posts-img/gvr/governance-uniswap.webp
-categories:   
-  - what
-  - governance
+tags:   
+- governance token vs utility token
+- governance token list
+- governance token examples
+- governance tokens explained
+- governance token value
+- governance tokens securities
+- governance token price
+- governance token airdrop
+- governance tokens vs security tokens
 permalink: "/what/governance-token/"
 paginate: true
 ---

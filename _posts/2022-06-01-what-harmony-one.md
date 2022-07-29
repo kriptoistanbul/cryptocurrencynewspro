@@ -5,9 +5,14 @@ date:   2022-06-12 02:12:19 +0300
 subtitle: What does Harmony actually do? Is ONE a good investment? What is ONE crypto used for?
 description: The Harmony blockchain is a Proof-of-Stake blockchain that combines security, scalability, and decentralization.By virtue of these properties, different blockchains can be interconnected via Harmony in order to develop new applications.
 image: /assets/img/posts-img/one/what-is-one-harmony.webp
-categories:   
-  - what
-  - harmony
+tags:   
+  - harmony one price
+  - harmony one price prediction
+  - harmony one remote
+  - harmony one coin
+  - harmony one news
+  - harmony one twitter
+  - harmony one wallet
   - one
 permalink: "/what/harmony-one/"
 paginate: true

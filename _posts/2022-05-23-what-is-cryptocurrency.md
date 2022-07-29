@@ -5,9 +5,14 @@ date:   2022-05-27 12:03:19 +0300
 subtitle: What is cryptocurrency and how does it work? Is crypto real money? How does cryptocurrency make money?
 description: Cryptocurrency is a type of electronic money, which is characterized by the absence of a single center. The work of the cryptocurrency payment system is supported in parallel by thousands of computers around the world, and money transfers are processed completely automatically.
 image: /assets/img/posts-img/cryptocurrency/what-is-cryptocurrency.webp
-categories:   
-  - what
-  - cryptocurrency
+tags:   
+- cryptocurrency
+- cryptocurrency prices
+- cryptocurrency crash
+- cryptocurrency market
+- cryptocurrency mining
+- cryptocurrency list
+- cryptocurrency definition
 permalink: "/what/cryptocurrency/"
 paginate: true
 ---

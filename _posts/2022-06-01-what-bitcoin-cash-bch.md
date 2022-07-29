@@ -5,9 +5,17 @@ date:   2022-06-17 18:43:19 +0300
 subtitle: What does BCH actually do? Is Bitcoin Cash a good investment? What is BCH crypto used for? Does Bitcoin Cash crypto have a future?
 description: BCH (Bitcoin Cash) was created on August 1st, 2017 and only differs slightly from Bitcoin. The Bitcoin network has launched its own alternative coin to deal with its well-known problems (poor scalability, problems with SegWit).
 image: /assets/img/posts-img/bch/what-is-bch-bitcoin-cash.webp
-categories:   
-  - what
+tags:   
   - bitcoin cash
+  - bitcoin cash price
+  - bitcoin cash price prediction
+  - bitcoin cash news
+  - bitcoin cash app
+  - bitcoin cash prediction
+  - bitcoin cash price prediction 2025
+  - bitcoin cash wallet
+  - bitcoin cash price prediction 2030
+  - bitcoin cash to usd
   - bch
 permalink: "/what/bitcoin-cash-bch/"
 paginate: true

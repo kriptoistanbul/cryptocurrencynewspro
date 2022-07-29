@@ -5,8 +5,14 @@ date:   2022-06-11 01:33:19 +0300
 subtitle: What does AMP actually do? Is AMP a good investment? What is AMP crypto used for? Does AMP crypto have a future?
 description: The Amp token is a so-called collateral token which facilitates fast and efficient transactions across a variety of fields. Collateral is translated into German as security.
 image: /assets/img/posts-img/amp/what-is-amp-coin.webp
-categories:   
-  - what
+tags:   
+  - amp coin
+  - amp coinbase quiz answers
+  - amp coin news
+  - amp coinbase
+  - amp coingecko
+  - amp coin prediction
+  - amp coin twitter
   - amp
 permalink: "/what/amp-coin/"
 paginate: true

@@ -5,10 +5,14 @@ date:   2022-06-21 11:03:19 +0300
 subtitle: What is Solana used for? Is Solana better than Ethereum? Is solana a good investment? Solana vs Cardano
 description: Solana is a popular blockchain platform for smart contracts and decentralized applications. The idea of ​​​​creation appeared in 2017 amid problems with scaling in Bitcoin and Ethereum.
 image: /assets/img/posts-img/sol/what-is-solana.webp
-categories:   
-  - what
-  - solana
-  - sol
+tags:   
+- solana price
+- solana price prediction
+- solana crypto
+- solana nft
+- solana news
+- solana price prediction 2030
+- solana blockchain
 permalink: "/what/sol/"
 paginate: true
 ---

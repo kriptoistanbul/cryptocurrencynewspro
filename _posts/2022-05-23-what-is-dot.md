@@ -5,10 +5,14 @@ date:   2022-05-20 18:03:19 +0300
 subtitle: Is Polkadot a good investment? What does Polkadot crypto do? How is Polkadot different from Ethereum?
 description: Polkadot is a platform aimed at creating a blockchain-based decentralized Internet, Web3. The project offers tools to simplify the interaction between blockchains, platforms, oracles and other networks.
 image: /assets/img/posts-img/dot/what-is-polkadot-dot.webp
-categories:   
-  - what
-  - dot
-  - polkadot
+tags:   
+- polkadot
+- polkadot price
+- polkadot crypto
+- polkadot price prediction
+- polkadot news
+- dot
+- polkadot price prediction 2030
 permalink: "/what/dot/"
 paginate: true
 ---
@@ -87,7 +91,7 @@ paginate: true
 <p>To successfully trade on crypto-exchanges, you need to get training in trading and gain some experience on small amounts. In fact, this is a separate profession that also needs to be mastered.</p>
 <h4>Polkadot Parachain Auctions</h4>
 <p>The Polkadot project was originally conceived to simplify the interaction between crypto projects with different rules of work and data protection. To do this, developers must create parachains - blockchains based on Polkadot standards, which will be able to exchange data with other blockchains in a single system. There will be about a hundred such parachains in the future, and you can compete for a slot in the system only through an auction.</p>
-<p>Projects are chosen by DOT owners by voting. You can participate, for example, through the Slot Auction section on Binance :</p>
+<p>Projects are chosen by DOT owners by voting. You can partagsample, through the Slot Auction section on Binance :</p>
 <p>For investors, it is similar to staking, with two differences:</p>
 <ul>
 <li>Blocking period of funds - up to 2 years;</li>

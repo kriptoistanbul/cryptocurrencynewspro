@@ -5,10 +5,18 @@ date:   2022-06-02 15:03:19 +0300
 subtitle: What does Atom actually do? Is ATOM a good investment? What is Cosmos crypto used for? Does Cosmos crypto have a future?
 description: Cosmos is a blockchain network that aims to enable independent blockchains to communicate with each other in a seamless manner. This allows them to exchange data and conduct transactions.
 image: /assets/img/posts-img/atom/what-is-cosmos-atom-how-does-it-work.webp
-categories:   
-  - what
-  - xrp
-  - ripple
+tags:   
+  - atom coin
+  - atom coin price
+  - atom coingecko
+  - atom coin price prediction
+  - atom coin news
+  - atom coinbase
+  - atom coin price prediction 2030
+  - atom coin price prediction today
+  - atom coin prediction
+  - atom coin twitter
+  - atom
 permalink: "/what/atom/"
 paginate: true
 ---

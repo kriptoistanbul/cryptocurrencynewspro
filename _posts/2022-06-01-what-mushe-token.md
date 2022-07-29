@@ -5,8 +5,17 @@ date:   2022-07-07 12:11:19 +0300
 subtitle: What does Mushe World actually do? Is XMU a good investment? What is Mushe token used for?
 description: XMU is the flagship token for Mushe World.Peer-to-peer interactions, rewards, and governance are enabled by this decentralized token. Here is important informations about xmu price etc.
 image: /assets/img/posts-img/xmu/what-is-xmu-mushe-token-price.webp
-categories:   
-  - what
+tags:   
+  - mushe token price
+  - mushe token price prediction
+  - mushe token news
+  - mushe token (xmu)
+  - mushe token review
+  - mushe token coinmarketcap
+  - mushe token twitter
+  - mushe token team
+  - mushe token news today
+  - mushe token coingecko
   - mushe
   - xmu
 permalink: "/what/mushe-token-xmu/"

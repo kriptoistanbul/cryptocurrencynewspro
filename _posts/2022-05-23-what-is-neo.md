@@ -5,9 +5,18 @@ date:   2022-05-20 18:03:19 +0300
 subtitle: Is NEO a good investment? What does NEO do? Is NEO a reliable source?
 description: Neo is a distributed network using blockchain technology.&nbsp;It allows you to digitize and manage different types of assets using smart contracts.
 image: /assets/img/posts-img/neo/what-is-neo-currency.webp
-categories:   
-  - what
+tags:   
   - neo
+  - neo coin
+  - neo coin price prediction
+  - neo coin news
+  - neo coingecko
+  - neo coin price prediction 2030
+  - neo coinbase
+  - neo coin price today
+  - neo coin price prediction 2025
+  - neo coin wallet
+  - neo coin launch date
 permalink: "/what/neo/"
 paginate: true
 ---

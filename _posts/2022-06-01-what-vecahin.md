@@ -5,9 +5,17 @@ date:   2022-06-06 15:03:19 +0300
 subtitle: What does VeChain VET actually do? Is VET a good investment? What is VeChain crypto used for? Does VET crypto have a future?
 description: VeChain employs blockchain technology to ensure a transparent flow of information and authenticity of goods across supply chains and logistics.
 image: /assets/img/posts-img/vet/what-is-vet-vechain-coin.webp
-categories:   
-  - what
+tags:   
   - vechain
+  - vechain price
+  - vechain price prediction
+  - vechain crypto
+  - vechain news
+  - vechain coin
+  - vechain price prediction 2030
+  - vechain price prediction 2025
+  - vechain twitter
+  - vechain wallet
   - vet
 permalink: "/what/vet/"
 paginate: true

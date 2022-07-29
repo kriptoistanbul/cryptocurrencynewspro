@@ -5,8 +5,16 @@ date:   2022-06-06 20:03:19 +0300
 subtitle: What does Tether actually do? Is USDT a good investment? What is Tether crypto used for? Is tether realiable?
 description: Tether's founders launched the stablecoin to facilitate trading among different exchanges. A stable cryptocurrency can be used as a currency in the real economy, with an exchange rate set up so that it relates to the value of the US dollar 1:1.
 image: /assets/img/posts-img/usdt/what-is-tether-usdt-how-does-it-work.webp
-categories:   
-  - what
+tags:   
+  - tether coin
+  - tether price prediction
+  - tetherball
+  - tether price
+  - tether usdt
+  - tethered cord syndrome
+  - tethered
+  - tethered spinal cord
+  - tether crypto
   - usdt
   - tether
 permalink: "/what/tether-usdt/"

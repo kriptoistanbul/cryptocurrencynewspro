@@ -5,9 +5,17 @@ date:   2022-06-17 19:05:19 +0300
 subtitle: What does Chia actually do? Is XCH a good investment? What is XCH crypto used for? Does Chia crypto have a future?
 description: The Chia Coin is the cryptocurrency of the Chia Network, an opera source blockchain that consumes significantly less energy than other cryptographic coins. By using a new consensus algorithm, the blockchain promises improved decentralization and security.
 image: /assets/img/posts-img/chia/buy-chia.webp
-categories:   
-  - what
+tags:   
   - chia
+  - chia coin price
+  - chia coin price prediction
+  - chia coin value
+  - chia coin news
+  - chia coin mining
+  - chia coinbase
+  - chia coin calculator
+  - chia coin price usd
+  - chia coingecko
 permalink: "/what/chia/"
 paginate: true
 ---

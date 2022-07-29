@@ -5,9 +5,12 @@ date:   2022-05-20 18:03:19 +0300
 subtitle: What is DeFi and how does it work? How do you make money with DeFi? What is DeFi example?
 description: DeFi is the English abbreviation of Decentralized Finance, which is a concept opposite to Centralized Finance or CeFi, which mainly refers to a blockchain application project built on a programmable public blockchain network
 image: /assets/img/posts-img/defi/defi-cryptocurrency.webp
-categories:   
-  - what
+tags:   
   - defi
+  - defi crypto
+  - defi meaning
+  - defi wallet
+  - defi liquidity mining
 permalink: "/what/defi/"
 paginate: true
 ---
@@ -20,7 +23,7 @@ paginate: true
 <img src="/assets/img/posts-img/defi/what-is-defi.webp" alt="what is defi" width="768" height="768" loading="lazy">
 <p>Not relying on the management ability and credit level of any subject, relying solely on speculative arbitrage, risk hedging and other game models to build the transaction structure and financial logic of the product, this is the most fundamental difference between DeFi and traditional financial services, and it is also its core value.</p>
 <h2><strong>Several classes of typical DeFi applications</strong></h2>
-<p>From the functional point of view, the most popular DeFi applications can be roughly divided into stablecoins, swaps, lending and other derivatives categories.</p>
+<p>From the functional point of view, the most popular DeFi applications can be roughly divided into stablecoins, swaps, lending and other derivatives tags.</p>
 <h3><strong>Stablecoins</strong></h3>
 <p>The so-called stablecoin refers to a cryptocurrency whose value is anchored to a certain (or basket) of fiat currencies. Strictly speaking, many cryptocurrencies are barely "assets" and are difficult to classify as "currencies." In addition to the lack of legal attributes such as legal compensation and mandatory, they also have a very serious flaw, that is, the value of the currency is unstable.&nbsp;Like traditional financial activities, DeFi also needs a general equivalent of stable value to act as a medium of exchange and a scale of value, which is the direct reason for the emergence of "stablecoins".</p>
 <p>In the cryptocurrency space, there are many stablecoins with prices anchored to the US dollar, but they have not shed their dependence on centralized subjects and therefore cannot be classified as DeFi.&nbsp;For example, USDT and USDC, both claim that the value of the currency is anchored to the dollar, and both claim to set up a "1:1" dollar deposit reserve to support the demand for redemption, but whether these dollars are stored in an undisclosed corporate account or in a tracked and audited escrow account, objectively speaking, a centralized entity with a fiat reserve account as the core will be formed, which is in direct conflict with DeFi's "decentralized" concept.</p>

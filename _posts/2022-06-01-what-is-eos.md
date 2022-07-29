@@ -5,8 +5,17 @@ date:   2022-06-08 21:42:19 +0300
 subtitle: What does EOS actually do? Is EOS a good investment? What is EOS crypto used for? Does EOS crypto have a future?
 description: EOS is the native cryptocurrency of the leading open source platform.It is currently ranked 28th in terms of the market capitalization of cryptocurrencies.
 image: /assets/img/posts-img/eos/what-is-eos-how-does-it-work.webp
-categories:   
-  - what
+tags:   
+  - eos coin
+  - eos coin price
+  - eos coin price prediction
+  - eos coinbase
+  - eos coingecko
+  - eos coin news
+  - eos coin price prediction 2030
+  - eos coin twitter
+  - eos coin prediction
+  - eos coin max supply
   - eos
 permalink: "/what/eos/"
 paginate: true
