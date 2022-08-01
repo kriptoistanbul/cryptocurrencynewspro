@@ -9,7 +9,6 @@ tags:
   - gravitoken
   - grv
   - cryptocurrency
-
 permalink: "/what/gravitoken-grv/"
 paginate: true
 ---
