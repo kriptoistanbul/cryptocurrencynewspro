@@ -6,18 +6,9 @@ subtitle: What does Yuan Chain actually do? Is YCC a good investment? What is YC
 description: China developed this cryptocurrency, which has a number of advantages over other cryptocurrencies. Yuan Chain Coin is a centralized cryptocurrency that comes with a blockchain capable of handling accounting and contracts.
 image: /assets/img/posts-img/ycc/what-is-the-yuan-chain-coin.webp
 tags:   
-  - yuan coin
-  - yuan coin value
-  - yuan coin price prediction
-  - yuan coins images
-  - yuan coin binance
-  - yuan coin buy
-  - yuan coin price prediction 2030
-  - yuan coin china
-  - yuan coin cryptocurrency
-  - yuan coin to usd
   - yuan chain
   - ycc
+  - cryptocurrency
 permalink: "/what/yuan-chain-coin-ycc/"
 paginate: true
 ---

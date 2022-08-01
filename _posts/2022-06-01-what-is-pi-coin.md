@@ -6,15 +6,8 @@ subtitle: What does Pi coin actually do? Is Pi coin a good investment? What is P
 description: The Pi Coin is a new cryptocurrency on the crypto market. Stanford-trained developers have launched the Pi to make mining via apps fast and user-friendly.
 image: /assets/img/posts-img/pi/what-is-pi-coin-how-does-it-work.webp
 tags:   
-  - pi coin
-  - pi coin value
-  - pi coin worth
-  - pi coin price prediction
-  - pi coin news
-  - pi coin price prediction 2025
-  - pi coin prediction
-  - pi coin release date
-  - pi coin price prediction 2030
+  - pi
+  - cryptocurrency
 permalink: "/what/pi-coin/"
 paginate: true
 ---

@@ -7,15 +7,8 @@ description: Binance Coin or BNB is a cryptocurrency that provides the work of a
 image: /assets/img/posts-img/bnb/what-is-bnb.webp
 tags:   
 - binance coin
-- binance coin price
-- binance coin price prediction
-- binance coin price prediction 2030
-- binance coin price usd
-- binance coin (bnb)
-- binance coinbase
-- binance coin market cap
-- binance coin price history
-- binance coin chart
+- bnb
+- cryptocurrency
 permalink: "/what/bnb/"
 paginate: true
 ---

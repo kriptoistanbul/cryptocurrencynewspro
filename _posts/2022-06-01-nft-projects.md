@@ -6,17 +6,8 @@ subtitle: Upcoming NFT Projects - Solana NFT Projects - How to start an NFT Proj
 description: Exclusive NFT Art Collections can provide investors with high returns, a 10x-100x is not uncommon with projects such as Bored Apes, Meka Verse, Doodle and VeeFriends.
 image: /assets/img/posts-img/nftprojects/upcoming-nft-projects.webp
 tags:   
-  - NFT
+  - nft
   - nft projects
-  - nft projects on solana
-  - nft projects to watch
-  - nft projects upcoming
-  - nft projects list
-  - nft projects with utility
-  - nft projects 2022
-  - nft projects to invest in
-  - nft projects meaning
-  - nft projects minting
 permalink: "/nft/nft-projects/"
 paginate: true
 ---

@@ -7,12 +7,8 @@ description: Polkadot is a platform aimed at creating a blockchain-based decentr
 image: /assets/img/posts-img/dot/what-is-polkadot-dot.webp
 tags:   
 - polkadot
-- polkadot price
-- polkadot crypto
-- polkadot price prediction
-- polkadot news
 - dot
-- polkadot price prediction 2030
+- cryptocurrency
 permalink: "/what/dot/"
 paginate: true
 ---

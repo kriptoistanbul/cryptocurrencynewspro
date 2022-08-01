@@ -7,15 +7,7 @@ description: The Chia Coin is the cryptocurrency of the Chia Network, an opera s
 image: /assets/img/posts-img/chia/buy-chia.webp
 tags:   
   - chia
-  - chia coin price
-  - chia coin price prediction
-  - chia coin value
-  - chia coin news
-  - chia coin mining
-  - chia coinbase
-  - chia coin calculator
-  - chia coin price usd
-  - chia coingecko
+  - cryptocurrency
 permalink: "/what/chia/"
 paginate: true
 ---

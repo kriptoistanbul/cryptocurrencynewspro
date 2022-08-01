@@ -7,12 +7,6 @@ description: Cryptocurrency is a type of electronic money, which is characterize
 image: /assets/img/posts-img/cryptocurrency/what-is-cryptocurrency.webp
 tags:   
 - cryptocurrency
-- cryptocurrency prices
-- cryptocurrency crash
-- cryptocurrency market
-- cryptocurrency mining
-- cryptocurrency list
-- cryptocurrency definition
 permalink: "/what/cryptocurrency/"
 paginate: true
 ---

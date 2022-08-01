@@ -7,16 +7,8 @@ description: BCH (Bitcoin Cash) was created on August 1st, 2017 and only differs
 image: /assets/img/posts-img/bch/what-is-bch-bitcoin-cash.webp
 tags:   
   - bitcoin cash
-  - bitcoin cash price
-  - bitcoin cash price prediction
-  - bitcoin cash news
-  - bitcoin cash app
-  - bitcoin cash prediction
-  - bitcoin cash price prediction 2025
-  - bitcoin cash wallet
-  - bitcoin cash price prediction 2030
-  - bitcoin cash to usd
   - bch
+  - cryptocurrency
 permalink: "/what/bitcoin-cash-bch/"
 paginate: true
 ---

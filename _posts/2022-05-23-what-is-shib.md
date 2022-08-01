@@ -7,16 +7,8 @@ description: Shiba is the central place is occupied by the DeFi decentralized fi
 image: /assets/img/posts-img/shib/what-is-shib-shiba.webp
 tags:   
   - shiba inu
-  - shiba inu coin
-  - shiba inu price
-  - shiba inu news
-  - shiba inu coin price
-  - shiba inu coin news
-  - shiba inu crypto
-  - shiba coin
-  - shiba inu stock
-  - shiba inu price prediction
   - shib
+  - cryptocurrency
 permalink: "/what/shib/"
 paginate: true
 ---

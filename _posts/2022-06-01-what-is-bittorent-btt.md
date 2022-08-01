@@ -7,10 +7,8 @@ description: Cosmos is a blockchain network that aims to enable independent bloc
 image: /assets/img/posts-img/btt/what-is-btt-bittorent.webp
 tags:   
   - bittorent
-  - btt price
-  - btt price prediction 2025
-  - btt crypto
-  - btt price prediction
+  - btt
+  - cryptocurrency
 permalink: "/what/bittorent-btt/"
 paginate: true
 ---

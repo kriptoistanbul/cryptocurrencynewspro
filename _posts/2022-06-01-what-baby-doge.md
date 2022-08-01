@@ -6,16 +6,9 @@ subtitle: What does Atom actually do? Is ATOM a good investment? What is Cosmos 
 description: Shortly put, Baby Doge Coin is a cryptocurrency based upon another cryptocurrency created as a result of a meme.&nbsp;This cryptocurrency was created by fans and members of the Dogecoin community.
 image: /assets/img/posts-img/babydoge/what-is-baby-doge.webp
 tags:   
-- baby doge coin
 - baby doge
-- baby doge price
-- baby doge news
-- baby doge price prediction
-- baby doge price prediction 2025
-- baby dogecoin news
-- baby doge coin price prediction
-- baby doge binance
-- baby doge twitter
+- doge
+- cryptocurrency
 permalink: "/what/baby-doge/"
 paginate: true
 ---

@@ -7,12 +7,8 @@ description: Cardano is a Proof-of-Stake blockchain platform built in the Haskel
 image: /assets/img/posts-img/ada/what-is-cardano-ada.webp
 tags:   
 - cardano
-- cardano price
-- cardano news
-- cardano ada
-- cardano price prediction
-- cardano crypto
-- cardano price prediction 2030
+- ada
+- cryptocurrency
 permalink: "/what/ada/"
 paginate: true
 ---

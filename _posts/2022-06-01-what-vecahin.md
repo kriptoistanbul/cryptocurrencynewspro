@@ -7,16 +7,8 @@ description: VeChain employs blockchain technology to ensure a transparent flow 
 image: /assets/img/posts-img/vet/what-is-vet-vechain-coin.webp
 tags:   
   - vechain
-  - vechain price
-  - vechain price prediction
-  - vechain crypto
-  - vechain news
-  - vechain coin
-  - vechain price prediction 2030
-  - vechain price prediction 2025
-  - vechain twitter
-  - vechain wallet
   - vet
+  - cryptocurrency
 permalink: "/what/vet/"
 paginate: true
 ---

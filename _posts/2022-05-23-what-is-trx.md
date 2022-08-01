@@ -6,13 +6,9 @@ subtitle: What does TRX crypto do? Is TRX a good investment? What are the benefi
 description: Tron is a blockchain-based decentralized platform that provides services related to entertainment and finance.The purpose of the network is to give content creators full control over their data and the ability to earn a profit for their efforts.
 image: /assets/img/posts-img/trx/what-is-tron-trx.webp
 tags:   
+  - tron
   - trx
-  - trx coin
-  - trx price
-  - trx tron
-  - trx tron price
-  - trx to usd
-  - trx tron news
+  - cryptocurrency
 permalink: "/what/trx/"
 paginate: true
 ---

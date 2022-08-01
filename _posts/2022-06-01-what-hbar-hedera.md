@@ -6,16 +6,9 @@ subtitle: What does HBAR actually do? Is HBAR a good investment? What is Hedera 
 description: Hedera Hashgraph (HBAR) is a cryptocurrency network that serves as a platform for businesses and individuals to develop powerful decentralized applications. Hedera Hashgraph has been funded through an Initial Coin Offering (ICO).
 image: /assets/img/posts-img/hbar/what-is-hbar-hedera-how-does-it-work.webp
 tags:   
-  - hbar price prediction
-  - hbar price
-  - hbar crypto
-  - hbar news
-  - hbar price prediction 2030
-  - hbar staking
-  - hbar crypto price prediction
-  - hbar wallet
-  - hbar foundation
+  - hbar
   - hedera
+  - cryptocurrency
 permalink: "/what/hbar-hedera/"
 paginate: true
 ---

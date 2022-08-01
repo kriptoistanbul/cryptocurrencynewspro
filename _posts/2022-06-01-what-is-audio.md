@@ -7,14 +7,8 @@ description: Audio is the leading decentralized music streaming platform with ov
 image: /assets/img/posts-img/audius/what-audius-coin-how-does-it-work.webp
 tags:   
   - audius
-  - audius solana
-  - audius crypto
-  - audiusa
-  - audius coin
-  - audius token
-  - audius hack
-  - audius price prediction
-  - audius nft
+  - audio
+  - cryptocurrency
 permalink: "/what/audius/"
 paginate: true
 ---

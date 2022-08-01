@@ -6,16 +6,9 @@ subtitle: Is IOTA the same as MIOTA? What is IOTA in simple terms? Is MIOTA a go
 description: In the world of cryptocurrencies, IOTA is known for its innovative creation methods as a result of its decentralization. This is the most popular German cryptocurrency, created in Berlin.
 image: /assets/img/posts-img/iota/what-is-iota-how-does-it-work.webp
 tags:   
-  - iota price
-  - iota crypto
-  - iota meaning
-  - iota phi theta
-  - iota coin
-  - iota price prediction
-  - iota cryptocurrency
-  - iota staking
-  - iota value
+  - iota
   - miota
+  - cryptocurrency
 permalink: "/what/iota/"
 paginate: true
 ---

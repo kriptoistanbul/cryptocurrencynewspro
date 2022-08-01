@@ -6,13 +6,9 @@ subtitle: What is ETH? Is a Ethereum a good investment? Which is better to inves
 description: Ethereum ETH is a blockchain platform on which, using smart contracts, you can create tokens (including NFTs), decentralized online services and applications.
 image: /assets/img/posts-img/eth/what-is-eth-ethereum.webp
 tags:   
-- ethereum price
-- ethereum price usd
-- ethereum value
-- ethereum classic price
-- ethereum news
-- ethereum price prediction
-- ethereum classic
+- ethereum
+- ethe
+- cryptocurrency
 permalink: "what/eth/"
 paginate: true
 ---

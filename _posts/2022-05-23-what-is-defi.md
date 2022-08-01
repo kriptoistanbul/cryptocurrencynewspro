@@ -7,10 +7,6 @@ description: DeFi is the English abbreviation of Decentralized Finance, which is
 image: /assets/img/posts-img/defi/defi-cryptocurrency.webp
 tags:   
   - defi
-  - defi crypto
-  - defi meaning
-  - defi wallet
-  - defi liquidity mining
 permalink: "/what/defi/"
 paginate: true
 ---

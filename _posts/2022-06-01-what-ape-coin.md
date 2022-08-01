@@ -6,13 +6,8 @@ subtitle: What does APE actually do? Is APE a good investment? What is APE crypt
 description: There is a new 2022 cryptocurrency called ApeCoin that has its origins in the Bored Ape Yacht Club, one of the most popular and valuable collections of non-fungible tokens in the world.
 image: /assets/img/posts-img/ape/what-is-ape-coin.webp
 tags:   
-- ape coin price
-- ape coin price prediction
-- ape coin news
-- ape coin price prediction 2025
-- ape coin crypto
-- ape coin news today
-- ape coinmarketcap
+- ape
+- cryptocurrency
 permalink: "/what/ape/"
 paginate: true
 ---

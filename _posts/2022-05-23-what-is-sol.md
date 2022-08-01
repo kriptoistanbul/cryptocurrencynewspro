@@ -6,13 +6,9 @@ subtitle: What is Solana used for? Is Solana better than Ethereum? Is solana a g
 description: Solana is a popular blockchain platform for smart contracts and decentralized applications. The idea of ​​​​creation appeared in 2017 amid problems with scaling in Bitcoin and Ethereum.
 image: /assets/img/posts-img/sol/what-is-solana.webp
 tags:   
-- solana price
-- solana price prediction
-- solana crypto
-- solana nft
-- solana news
-- solana price prediction 2030
-- solana blockchain
+- solana
+- sol
+- cryptocurrency
 permalink: "/what/sol/"
 paginate: true
 ---

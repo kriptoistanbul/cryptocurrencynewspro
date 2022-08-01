@@ -6,17 +6,8 @@ subtitle: What does EOS actually do? Is EOS a good investment? What is EOS crypt
 description: EOS is the native cryptocurrency of the leading open source platform.It is currently ranked 28th in terms of the market capitalization of cryptocurrencies.
 image: /assets/img/posts-img/eos/what-is-eos-how-does-it-work.webp
 tags:   
-  - eos coin
-  - eos coin price
-  - eos coin price prediction
-  - eos coinbase
-  - eos coingecko
-  - eos coin news
-  - eos coin price prediction 2030
-  - eos coin twitter
-  - eos coin prediction
-  - eos coin max supply
   - eos
+  - cryptocurrency
 permalink: "/what/eos/"
 paginate: true
 ---

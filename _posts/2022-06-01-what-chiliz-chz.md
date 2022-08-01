@@ -6,16 +6,10 @@ subtitle: What does Chiliz actually do? Is Chiliz a good investment? What is CHZ
 description: As part of Socios.com, Chiliz is used as a utility token. Sports fans have the opportunity to take part in sports related decision-making on Socios.com by taking part in surveys that are conducted on behalf of their favorite clubs.
 image: /assets/img/posts-img/chz/what-is-chz-chiliz.webp
 tags:   
-  - chiliz socios
-  - chiliz token
-  - chiliz coin
-  - chiliz crypto
-  - chiliz price prediction
-  - chiliz price
-  - chiliz price prediction 2030
-  - chiliz price prediction 2025
-  - chiliz coin news
+  - chiliz
   - chz
+  - socios
+  - cryptocurrency
 permalink: "/what/chiliz-chz/"
 paginate: true
 ---

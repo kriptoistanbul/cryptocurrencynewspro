@@ -8,6 +8,7 @@ image: /assets/img/news/launch-of-the-bitcoin-bond-project.webp
 categories:   
   - el salvador
   - bitcoin
+  - news
 permalink: "/news/bitcoin/launch-of-the-Bitcoin-bond-project-in-El-Salvador-still-on-track"
 paginate: true
 ---

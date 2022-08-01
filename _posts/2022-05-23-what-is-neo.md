@@ -7,16 +7,7 @@ description: Neo is a distributed network using blockchain technology.&nbsp;It a
 image: /assets/img/posts-img/neo/what-is-neo-currency.webp
 tags:   
   - neo
-  - neo coin
-  - neo coin price prediction
-  - neo coin news
-  - neo coingecko
-  - neo coin price prediction 2030
-  - neo coinbase
-  - neo coin price today
-  - neo coin price prediction 2025
-  - neo coin wallet
-  - neo coin launch date
+  - cryptocurrency
 permalink: "/what/neo/"
 paginate: true
 ---
