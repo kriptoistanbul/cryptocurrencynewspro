@@ -5,7 +5,7 @@ date:   2022-06-10 14:00:19 +0300
 subtitle: MasterCard now accepts NFTs and Web3 as payment methods
 description: NFTs can be purchased through MasterCard's payment system, now. Several companies have partnered with MasterCard in order to accomplish this, including Immutable X, Candy Digital, The Sandbox, Mintable, Spring, Nifty Gateway, and MoonPay.
 image: /assets/img/news/coinbase-mastercard-nft-web3.webp
-categories:   
+tags:   
   - news
   - mastercard
   - nft
