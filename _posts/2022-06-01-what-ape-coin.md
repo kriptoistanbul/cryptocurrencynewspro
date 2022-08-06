@@ -120,20 +120,94 @@ paginate: true
 <li>There are a number of established cryptocurrencies outside of the NFT market that are showing strong growth potential. These include Solana, Luna, and Avalanche.</li>
 </ol>
 <h4 id="14">Pros and cons of ApeCoin</h4>
-<p>advantages</p>
-<ul>
-<li>New cryptocurrency with potential</li>
-<li>Large community and fan base</li>
-<li>Large ApeCoin ecosystem in planning</li>
-<li>Low free float, resulting in high demand</li>
-</ul>
-<p>Disadvantages</p>
-<ul>
-<li>Currently big hype and potential overvaluation</li>
-<li>Concrete use cases are missing</li>
-<li>A decentralized cryptocurrency only on paper</li>
-<li>Few functionalities implemented so far</li>
-</ul>
+<html>
+  <head>
+    <title>Pros and cons of ApeCoin</title>
+    <script type="application/ld+json">
+      {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "name": "Apecoin",
+        "review": {
+          "@type": "Review",
+          "name": "Pros and cons of ApeCoin",
+          "author": {
+            "@type": "Person",
+            "name": "Mustafa Aybek"
+          },
+          "positiveNotes": {
+            "@type": "ItemList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "New cryptocurrency with potential"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Large community and fan base"
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "Large ApeCoin ecosystem in planning"
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "name": "Low free float, resulting in high demand"
+              }
+            ]
+          },
+          "negativeNotes": {
+            "@type": "ItemList",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "position": 1,
+                "name": "Currently big hype and potential overvaluation"
+              },
+              {
+                "@type": "ListItem",
+                "position": 2,
+                "name": "Concrete use cases are missing"
+              },
+              {
+                "@type": "ListItem",
+                "position": 3,
+                "name": "A decentralized cryptocurrency only on paper"
+              },
+              {
+                "@type": "ListItem",
+                "position": 4,
+                "name": "Few functionalities implemented so far"
+              }
+            ]
+          }
+        }
+      }
+    </script>
+  </head>
+  <body>
+    . . .
+    <p>Pros:</p>
+    <ul>
+      <li>New cryptocurrency with potential</li>
+      <li>Large community and fan base</li>
+      <li>Large ApeCoin ecosystem in planning</li>
+      <li>Low free float, resulting in high demand</li>
+    </ul>
+    <p>Cons:</p>
+    <ul>
+      <li>Currently big hype and potential overvaluation</li>
+      <li>Concrete use cases are missing</li>
+      <li>A decentralized cryptocurrency only on paper</li>
+      <li>Few functionalities implemented so far</li>
+    </ul>
+    . . .
+  </body>
+</html>
 <h4>Is Apecoin a good investment</h4>
 <p>Is Apecoin a good investment, Despite their extreme pain, bear markets often provide investors with meaningful investment opportunities. There is perhaps no better example of a sensible investment opportunity than the ApeCoin (APE), the token of the Bored Ape Yacht Club (BAYC).&nbsp;A token based on the NFT model was launched by Yuga Labs in March, quickly becoming one of the largest cryptocurrencies related to NFTs in the world.</p>
 <p>Over the last two months, ApeCoin has suffered a shocking 90 percent decline (from its all-time high).&nbsp;Otherside, Yuga Labs' largest project to date, has greatly influenced the development of the token.&nbsp;Users can use their NFTs as avatars in this extensive metaverse role-playing game.&nbsp;The APE token provides the backbone of Otherside and serves as both a currency and a governance token.</p>
