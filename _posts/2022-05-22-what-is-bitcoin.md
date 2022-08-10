@@ -11,6 +11,12 @@ tags:
 - cryptocurrency
 permalink: "/what/bitcoin/"
 paginate: true
+hreflang: "true"
+language: "lt-LT"
+langname1: "en"
+lang1: "what/bitcoin/"
+langname2: "lt-LT"
+lang2: "lt/what/bitcoin/"
 ---
 <b style="text-align:center; font-size: 150%;">Table of Content</b>
 <ol style="margin: 0;">
