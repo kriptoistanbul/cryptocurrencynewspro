@@ -13,7 +13,7 @@ lang1: "what/bitcoin/"
 langname2: "lt-LT"
 lang2: "lt/what/bitcoin/"
 ---
-<b style="text-align:center; font-size: 150%;">Turinio table</b>
+<b style="text-align:center; font-size: 150%;">Turinys</b>
 <ol style="margin: 0;">
 <li style="padding: 2px;"><a href="#1">Kas yra Bitcoin BTC?</a></li>
 <li style="padding: 2px;"><a href="#2">Kas yra Bitcoin paprastais žodžiais</a></li>
