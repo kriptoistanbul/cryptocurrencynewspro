@@ -7,7 +7,7 @@ description: Bitcoin yra pirmasis decentralizuotas tarpusavio mokėjimų tinklas
 image: /assets/img/posts-img/btc/what-is-bitcoin.webp
 permalink: "/lt/what/bitcoin/"
 paginate: true
-language: "lt-LT"
+language: "lt"
 langname1: "en"
 lang1: "what/bitcoin/"
 langname2: "lt-LT"
