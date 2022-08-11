@@ -30,4 +30,28 @@ layout: null
         <priority>1</priority>
         <lastmod>2022-05-27</lastmod>
     </url>
+    <url>
+        <loc>https://cryptocurrencynewspro.com/airdrop/</loc>
+        <changefreq>daily</changefreq>
+        <priority>1</priority>
+        <lastmod>2022-08-11</lastmod>
+    </url>
+    <url>
+        <loc>https://cryptocurrencynewspro.com/nft/</loc>
+        <changefreq>daily</changefreq>
+        <priority>1</priority>
+        <lastmod>2022-08-11</lastmod>
+    </url>
+    <url>
+        <loc>https://cryptocurrencynewspro.com/what/</loc>
+        <changefreq>daily</changefreq>
+        <priority>1</priority>
+        <lastmod>2022-08-11</lastmod>
+    </url>
+    <url>
+        <loc>https://cryptocurrencynewspro.com/nft/nft-coins/</loc>
+        <changefreq>daily</changefreq>
+        <priority>1</priority>
+        <lastmod>2022-08-11</lastmod>
+    </url>
 </urlset>
