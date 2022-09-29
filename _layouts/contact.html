@@ -57,14 +57,14 @@ const dictionary = {
   {{ site.translations.contact.errors.locale | default: 'tr' }}: {
     custom: {
       name: {
-        required: "{{ site.translations.contact.errors.empty_name | default: 'İsim gereklidir' }}"
+        required: "{{ site.translations.contact.errors.empty_name | default: 'Write your name' }}"
       },
       email: {
-        required: "{{ site.translations.contact.errors.empty_email | default: 'E-mail gereklidir' }}",
-        email: "{{ site.translations.contact.errors.invalid_email | default: 'Geçersiz mail adresi' }}"
+        required: "{{ site.translations.contact.errors.empty_email | default: 'Write your e-mail' }}",
+        email: "{{ site.translations.contact.errors.invalid_email | default: 'Wrong e-mail' }}"
       },
       message: {
-        required: "{{ site.translations.contact.errors.empty_message | default: 'Mesaj gereklidir' }}"
+        required: "{{ site.translations.contact.errors.empty_message | default: 'Write your message' }}"
       }
     }
   }
