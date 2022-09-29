@@ -8,7 +8,7 @@ image: /assets/img/posts-img/btc/what-is-bitcoin.webp
 permalink: "/lt/what/bitcoin/"
 paginate: true
 language: "lt"
-langname1: "en"
+langname1: "x-default"
 lang1: "what/bitcoin/"
 langname2: "lt-LT"
 lang2: "lt/what/bitcoin/"
