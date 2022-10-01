@@ -12,23 +12,25 @@ tags:
 permalink: "/what/dot/"
 paginate: true
 ---
-
+<b style="text-align:center; font-size: 150%;">Table of Content</b>
+<ol style="margin: 0;">
 <li style="padding: 2px;"><a href="#1">What is Polkadot DOT: Web3 Decentralized Internet Platform</a></li>
 <li style="padding: 2px;"><a href="#2">What is Polkadot: project goals and history</a></li>
 <li style="padding: 2px;"><a href="#3">How to buy DOT cryptocurrency and where is the best place to store it</a></li>
-<li style="padding: 2px;"><a href="#4">The best ways to make money on Polkadot</a></li>
-<li style="padding: 2px;"><a href="#5">Polkadot cranes</a></li>
-<li style="padding: 2px;"><a href="#6">Investment (HODL)</a></li>
-<li style="padding: 2px;"><a href="#7">Staking</a></li>
-<li style="padding: 2px;"><a href="#8">Trading on crypto bridges</a></li>
-<li style="padding: 2px;"><a href="#9">Polkadot Parachain Auctions</a></li>
-<li style="padding: 2px;"><a href="#10">Fundamental analysis of Polkadot</a></li>
-<li style="padding: 2px;"><a href="#11">Development team</a></li>
-<li style="padding: 2px;"><a href="#12">How Polkadot works: technical features and innovations</a></li>
-<li style="padding: 2px;"><a href="#13">Polkadot Ecosystem</a></li>
-<li style="padding: 2px;"><a href="#14">DOT Cryptocurrency Tokenomics</a></li>
-<li style="padding: 2px;"><a href="#15">DOTUSD Technical Analysis and Price Prediction for 2022</a></li>
-<li style="padding: 2px;"><a href="#16">where to buy polkadot coin</a></li>
+<li style="padding: 2px;"><a href="#4">Where to buy polkadot coin</a></li>
+<li style="padding: 2px;"><a href="#5">The best ways to make money on Polkadot & Earn Polkadot</a></li>
+<li style="padding: 2px;"><a href="#6">Polkadot cranes</a></li>
+<li style="padding: 2px;"><a href="#7">Investment (HODL) DOT</a></li>
+<li style="padding: 2px;"><a href="#8">Staking Polkadot & Best Place to Stake Polkadot</a></li>
+<li style="padding: 2px;"><a href="#9">Trading on crypto bridges</a></li>
+<li style="padding: 2px;"><a href="#10">Polkadot Parachain Auctions</a></li>
+<li style="padding: 2px;"><a href="#11">Fundamental analysis of Polkadot</a></li>
+<li style="padding: 2px;"><a href="#12">Development team</a></li>
+<li style="padding: 2px;"><a href="#13">How Polkadot works: technical features and innovations</a></li>
+<li style="padding: 2px;"><a href="#14">Polkadot Ecosystem</a></li>
+<li style="padding: 2px;"><a href="#15">DOT Cryptocurrency Tokenomics</a></li>
+<li style="padding: 2px;"><a href="#16">DOTUSD Technical Analysis and Polkadot Price Prediction for 2025</a></li>
+</ol>
 
 <h1 id="1">What is Polkadot DOT: Web3 Decentralized Internet Platform</h1>
 <p>
