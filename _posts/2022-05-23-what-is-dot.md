@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "What is Polkadot? Polkadot Price Prediction"
-date:   2022-10-01 18:03:19 +0300
+date:   2022-05-01 18:03:19 +0300
 subtitle: Is Polkadot a good investment? What does Polkadot crypto do? How is Polkadot different from Ethereum?
 description: Polkadot is a platform aimed at creating a blockchain-based decentralized Internet, Web3. The project offers tools to simplify the interaction between blockchains, platforms, oracles and other networks.
 image: /assets/img/posts-img/dot/what-is-polkadot-dot.webp
