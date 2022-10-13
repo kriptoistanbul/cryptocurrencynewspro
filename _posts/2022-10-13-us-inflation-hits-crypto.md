@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: news2
 title:  "Cryptocurrency market hit by US inflation! Cardano leads crypto fall ahead of US inflation data "
 date:   2022-10-13 17:00:19 +0300
 subtitle: A record 8.2% inflation rate in the US brings massive volatility to Bitcoin
