@@ -21,7 +21,7 @@ paginate: true
 	<li style="padding: 2px;"><a href="#4">The cost of housing</a></li>
 </ol>
 <h1 id="1"><strong>Cryptocurrency market hit by US inflation</strong></h1>
-<p>A record 8.2% inflation rate in the US brings massive volatility to <a href="https://cryptocurrencynewspro.com/what/bitcoin/" title="What is bitcoin" target="_blank">Bitcoin</a></p>
+<p>A record 8.2% inflation rate in the US brings massive volatility to <a href="https://cryptocurrencynewspro.com/what/bitcoin/" title="What is bitcoin" target="_blank">Bitcoin<a></p>
 <p><strong><em>As the US inflation numbers are released, the cryptocurrency market is experiencing an increase in volatility.</em></strong></p>
 <p>In an event-driven market, volatility has returned to the cryptocurrency market, as might be expected. U.S. Labor Statistics released the CPI numbers, causing the ongoing turbulence.</p>
 <p>It is the most commonly used gauge of inflation in the United States, and it stands for Consumer Price Index.</p>
