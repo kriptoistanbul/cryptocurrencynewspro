@@ -529,7 +529,6 @@ lang2: "lt/what/bitcoin/"
         </div>
     </div>
 </div>
-{% include youtube.html width="560" height="315" id="ea884j1hf1I" start="0" title="Bitcoin KFC" %}
 <h6 id="20">El Salvador and Bitcoin</h6>
 <p>In early September, a law came into force in El Salvador giving the first cryptocurrency the status of legal tender on a par with the US dollar. On the same day, the country's authorities purchased 550 bitcoins, after which its president, Nayib Bukele, announced the purchase of another 150 bitcoins. El Salvador now holds more than $35 million worth of cryptocurrencies (at the current asset price of about $50,000).</p>
 <p>In the country, prices can be set in bitcoins, taxes can be paid in them. Cryptocurrency exchanges are not subject to capital gains tax. The acceptance of bitcoins for payment became mandatory, and the government also created an official Chivo crypto wallet.</p>
