@@ -43,7 +43,58 @@ lang2: "lt/what/bitcoin/"
   <li style="padding: 2px;"><a href="#19">Frequently Asked Questions</a></li>
   <li style="padding: 2px;"><a href="#20">El Salvador and Bitcoin</a></li>
 </ol>
-
+<script type="application/ld+json">
+{
+    "@context": "http://schema.org",
+    "about": [
+        {
+            "@type": "Thing",
+            "name": "Bitcoin",
+            "description": "Bitcoin (abbreviation: BTC; sign: BTC) is a protocol which implements a highly available public and decentralized ledger. In order to update the ledger a user must prove they control an entry in the ledger",
+            "SameAs": [
+                "https://www.wikidata.org/wiki/Q131723",
+                "http://en.wikipedia.org/wiki/Bitcoin",            ]
+        },
+        {
+            "@type": "Thing",
+            "name": "Cryptocurrency",
+            "description": "A cryptocurrency crypto-currency or crypto is a digital currency designed to work as a medium of exchange through a computer network that is not reliant on any central authority such as a government or bank to uphold or maintain it. It is a decentralized system for verifying that the parties to a transaction have the money they claim to have eliminating the need for traditional intermediaries such as banks when funds are being transferred between two entities",
+            "SameAs": [
+                "https://www.wikidata.org/wiki/Q13479982",
+                "http://en.wikipedia.org/wiki/Cryptocurrency",            ]
+        }
+    ],
+    "mentions": [
+        {
+            "@type": "Thing",
+            "name": "Blockchain",
+            "description": "A blockchain is a type of distributed ledger technology (DLT) that consists of growing lists of records called blocks that are securely linked together using cryptography. Each block contains a cryptographic hash of the previous block a timestamp and transaction data (generally represented as a Merkle tree where data nodes are represented by leaves)",
+            "SameAs": [
+                "https://www.wikidata.org/wiki/Q20514253",
+                "http://en.wikipedia.org/wiki/Blockchain",
+            ]
+        },
+        {
+            "@type": "Thing",
+            "name": "Cryptocurrency wallet",
+            "description": "A cryptocurrency wallet is a device physical medium program or a service which stores the public and/or private keys for cryptocurrency transactions. In addition to this basic function of storing the keys a cryptocurrency wallet more often also offers the functionality of encrypting and/or signing information",
+            "SameAs": [
+                "https://www.wikidata.org/wiki/Q40186999",
+                "http://en.wikipedia.org/wiki/Cryptocurrency_wallet",
+            ]
+        },
+        {
+            "@type": "Thing",
+            "name": "Cryptography",
+            "description": "Cryptography or cryptology (from Ancient Greek: kruptos romanized: kryptos \"hidden secret\"; and graphein graphein \"to write\" or -logia -logia \"study\" respectively) is the practice and study of techniques for secure communication in the presence of adversarial behavior. More generally cryptography is about constructing and analyzing protocols that prevent third parties or the public from reading private messages",
+            "SameAs": [
+                "https://www.wikidata.org/wiki/Q8789",
+                "http://en.wikipedia.org/wiki/Cryptography",
+            ]
+        }
+    ]
+}
+</script>
 <h1 id="1"><strong>What is Bitcoin BTC?</strong></h1>
 <p>Bitcoin (Bitcoin) is a network cryptocurrency proposed by Satoshi Nakamoto in 2008. It is different from the currency minted and issued by the state in the past. Bitcoin is a network currency that uses blockchain as the core technology. It has the characteristics of decentralization and open source, and the transaction is a peer-to-peer (P2P) network transaction. Bitcoin transactions will not be monitored by banks or relevant state units. The most special feature is the private key feature adopted by Bitcoin, which can not only ensure the ownership of every Bitcoin owner, but also conduct transactions anonymously, and it is not necessary to propose one's name when trading, so Bitcoin is often considered to be used illegally.</p>
   <blockquote cite="bitcoin.org">Bitcoin is a consensus network that enables a new payment system and a completely digital money. It is the first decentralized peer-to-peer payment network that is powered by its users with no central authority or middlemen. From a user perspective, Bitcoin is pretty much like cash for the Internet. Bitcoin can also be seen as the most prominent triple entry bookkeeping system in existence.</blockquote>
