@@ -85,7 +85,25 @@ lang2: "lt/what/bitcoin/"
     </div>
 </div>
 <h1 id="1"><strong>What is Bitcoin BTC?</strong></h1>
-<p>Bitcoin (Bitcoin) is a network cryptocurrency proposed by Satoshi Nakamoto in 2008. It is different from the currency minted and issued by the state in the past. Bitcoin is a network currency that uses blockchain as the core technology. It has the characteristics of decentralization and open source, and the transaction is a peer-to-peer (P2P) network transaction. Bitcoin transactions will not be monitored by banks or relevant state units. The most special feature is the private key feature adopted by Bitcoin, which can not only ensure the ownership of every Bitcoin owner, but also conduct transactions anonymously, and it is not necessary to propose one's name when trading, so Bitcoin is often considered to be used illegally.</p>
+<div itemscope itemtype="http://schema.org/currency">
+  <p><strong>Bitcoin</strong> (<span itemprop="name">Bitcoin</span>) is a network cryptocurrency proposed by Satoshi Nakamoto in 2008. It is different from the currency minted and issued by the state in the past. </p>
+  <div itemprop="definition" itemscope itemtype="http://schema.org/DefinedTerm">
+    <p>Bitcoin is a <span itemprop="description">network currency that uses blockchain as the core technology. It has the characteristics of decentralization and open source, and the transaction is a peer-to-peer (P2P) network transaction.</span></p>
+  </div>
+  <div itemprop="comparison" itemscope itemtype="http://schema.org/DefinedTerm">
+    <p>Unlike traditional currencies, <span itemprop="description">Bitcoin transactions will not be monitored by banks or relevant state units.</span></p>
+  </div>
+  <div itemprop="process" itemscope itemtype="http://schema.org/DefinedTerm">
+    <p>To conduct a Bitcoin transaction, a user can send Bitcoin to another user through the <span itemprop="description">peer-to-peer (P2P) network</span>. </p>
+  </div>
+  <div itemprop="feature" itemscope itemtype="http://schema.org/DefinedTerm">
+    <p>One of the most special features of Bitcoin is the <span itemprop="description">private key</span>, which can not only ensure the ownership of every Bitcoin owner, but also allow for anonymous transactions. It is not necessary to provide one's name when trading with Bitcoin.</p>
+  </div>
+  <div itemprop="evaluation" itemscope itemtype="http://schema.org/DefinedTerm">
+    <p>Due to its anonymous transaction feature, Bitcoin is often <span itemprop="description">considered to be used illegally</span>.</p>
+  </div>
+</div>
+</p>
   <blockquote cite="bitcoin.org">Bitcoin is a consensus network that enables a new payment system and a completely digital money. It is the first decentralized peer-to-peer payment network that is powered by its users with no central authority or middlemen. From a user perspective, Bitcoin is pretty much like cash for the Internet. Bitcoin can also be seen as the most prominent triple entry bookkeeping system in existence.</blockquote>
 <img src="/assets/img/posts-img/btc/what-is-bitcoin-at-today.webp" alt="what is btc mean" width="412" height="274" loading="lazy">
 <p>Since Bitcoin is an online virtual currency, how did it come about? The way Bitcoin is generated is related to its core technology "blockchain". The feature of the blockchain is "decentralized computing". Each computer in the blockchain will participate in the operation of the database and record all historical bitcoin transactions. , and because of the anonymous nature of Bitcoin, in the process of split calculation, all information is encrypted, and no computer can read who the user is. Therefore, anyone only needs to run the Bitcoin software and participate in the calculation to get Bitcoin, and this process is called "mining".</p>
