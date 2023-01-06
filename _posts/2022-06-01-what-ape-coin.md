@@ -122,7 +122,6 @@ paginate: true
 <h4 id="14">Pros and cons of ApeCoin</h4>
 <html>
   <head>
-    <title>Pros and cons of ApeCoin</title>
     <script type="application/ld+json">
       {
         "@context": "http://schema.org",
