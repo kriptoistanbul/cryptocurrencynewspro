@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "What is ETH Ethereum"
-date:   2022-05-20 18:03:19 +0300
+date:   2023-02-04 18:03:19 +0300
 subtitle: What is ETH? Is a Ethereum a good investment? Which is better to invest Bitcoin or Ethereum? How does Ethereum make money?
 description: Ethereum ETH is a blockchain platform on which, using smart contracts, you can create tokens (including NFTs), decentralized online services and applications.
 image: /assets/img/posts-img/eth/what-is-eth-ethereum.webp
@@ -70,6 +70,7 @@ paginate: true
 <li><strong>Jeffrey Wilk</strong> - helped with programming at the initial stage, worked at Mastercoin before Ethereum. Today he works on the creation of games in Grid Games.</li>
 </ul>
 <p>As you can see, all of the original founders left the project before the platform launched in 2015 or a year or two later. Gavin Wood and Charles Hoskinson eventually created the Polkadot and Cardano blockchains that are popular today, but they failed to catch up with Ethereum in popularity.</p>
+<p><strong>What is the difference between Bitcoin and Ethereum</strong>: Bitcoin and Ethereum are both cryptocurrencies, but they serve different purposes. Bitcoin was created as a decentralized digital currency to allow for peer-to-peer transactions without the need for intermediaries. It is often seen as a store of value, like digital gold. On the other hand, Ethereum was created to be a decentralized platform that allows developers to build and deploy decentralized applications (dApps). It also has its own cryptocurrency called Ether (ETH), which is used to pay for transactions and computational services on the network. In short, Bitcoin is primarily used as a currency, while Ethereum is used as a platform for decentralized applications and smart contracts.</p>
 <h3 id="4">What is Ethereum Classic ETC</h3>
 <p>At the start, the Ethereum project did well, during the ICO (initial sale of cryptocurrency) in 2014, it managed to raise about $18 million. The full-fledged work of the blockchain began in 2016 after the Homestead update, where developers began to give security guarantees. Unfortunately, due to a bug in the code of one of the blockchain projects, hackers managed to steal $50 million, which seriously damaged the reputation of Ethereum. The community, by voting, came to the decision to return the stolen funds to the owners through the rollback of operations, which contradicted one of the basic principles of cryptocurrencies - the irreversibility of money transfers.</p>
 <p>Because of the dangerous precedent, the Ethereum community is divided into two camps. Those who were against the changes stayed on the original version of the blockchain, now called Ethereum Classic (ETC). The development of the ETC cryptocurrency over the years has become increasingly different from Ethereum. For example, ETC will not abandon mining, following its philosophy of preserving the original idea of ​​​​cryptocurrency. Developers are looking for other ways to improve the speed and scaling of classic Ethereum, but in the end it remains in the shadows, and the prices of ETH and ETC began to differ dozens of times:</p>
