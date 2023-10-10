@@ -14,33 +14,49 @@ paginate: true
 ---
 <b style="text-align:center; font-size: 150%;">Table of Content</b>
 <ol style="margin: 0;">
-<li style="padding: 2px;"><a href="#1">NFT Stocks: Top 10 NFT Share</a></li>
-<li style="padding: 2px;"><a href="#2">What are NFT shares?</a></li>
-<li style="padding: 2px;"><a href="#3">The top 10 NFT stocks</a></li>
-<li style="padding: 2px;"><a href="#4">Coinbase</a></li>
-<li style="padding: 2px;"><a href="#5">Ebay</a></li>
-<li style="padding: 2px;"><a href="#6">Draft Kings</a></li>
-<li style="padding: 2px;"><a href="#7">Funko</a></li>
-<li style="padding: 2px;"><a href="#8">Mattel</a></li>
-<li style="padding: 2px;"><a href="#9">Cloudflare</a></li>
-<li style="padding: 2px;"><a href="#10">PLBY Group (Playboy)</a></li>
-<li style="padding: 2px;"><a href="#11">WiseKey</a></li>
-<li style="padding: 2px;"><a href="#12">Liquid Media</a></li>
-<li style="padding: 2px;"><a href="#13">Hall of Fame Resorts & Entertainment</a></li>
-<li style="padding: 2px;"><a href="#14">Tips for investing in NFT stocks</a></li>
-<li style="padding: 2px;"><a href="#15">1. Broker for NFT stocks</a></li>
-<li style="padding: 2px;"><a href="#16">2. Take profits</a></li>
-<li style="padding: 2px;"><a href="#17">3. Sufficient diversification</a></li>
-<li style="padding: 2px;"><a href="#18">4. Investment Fees</a></li>
-<li style="padding: 2px;"><a href="#19">5. Right investment strategy</a></li>
-<li style="padding: 2px;"><a href="#20">Is an investment in NFT shares worthwhile?</a></li>
-<li style="padding: 2px;"><a href="#21">Advantages and disadvantages of an NFT share investment</a></li>
-<li style="padding: 2px;"><a href="#22">Opportunities of an NFT share investment</a></li>
-<li style="padding: 2px;"><a href="#23">Risks of an NFT share investment</a></li>
-<li style="padding: 2px;"><a href="#24">Alternatives to NFT stocks</a></li>
-<li style="padding: 2px;"><a href="#25">Buy NFT with Crypto.com</a></li>
-<li style="padding: 2px;"><a href="#26">NFT Stock Forecast</a></li>
-<li style="padding: 2px;"><a href="#27">Buy NFT Shares - FAQs</a></li>
+<ul>
+  <li><a href="#1">I. What is Panini and How it works?</a></li>
+  <li><a href="#2">II. History of Panini America</a></li>
+  <li><a href="#3">III. Panini's Entrance into NFT</a>
+    <ul>
+      <li><a href="#4">Rationale Behind the Move</a></li>
+      <li><a href="#5">Initial Offerings: Panini America NFT</a></li>
+    </ul>
+  </li>
+  <li><a href="#6">IV. Panini NFT Collections</a>
+    <ul>
+      <li><a href="#7">Panini World Cup NFT</a></li>
+      <li><a href="#8">Panini UFC NFT</a></li>
+      <li><a href="#9">Panini NBA NFT</a></li>
+      <li><a href="#10">Panini Prizm NFT Party</a></li>
+      <li><a href="#11">Panini NFL NFT</a></li>
+      <li><a href="#12">Starter Pack: Panini Free NFT Pack</a></li>
+    </ul>
+  </li>
+  <li><a href="#13">V. How Panini NFTs Work</a>
+    <ul>
+      <li><a href="#14">Acquiring Panini NFTs: Step into Digital Collecting</a></li>
+      <li><a href="#15">Understanding Panini NFT Value</a></li>
+      <li><a href="#16">Trading and Collecting Panini NFTs</a></li>
+      <li><a href="#17">Engage in the Panini NFT Experience</a></li>
+    </ul>
+  </li>
+  <li><a href="#18">VI. Market Response</a>
+    <ul>
+      <li><a href="#19">Reception by Collectors</a></li>
+      <li><a href="#20">Market Trends and Panini NFTs</a></li>
+      <li><a href="#21">A Positive Market Echo</a></li>
+    </ul>
+  </li>
+  <li><a href="#22">VII. Future of Panini NFTs</a>
+    <ul>
+      <li><a href="#23">Upcoming Collections</a></li>
+      <li><a href="#24">Market Predictions and Trends</a></li>
+    </ul>
+  </li>
+  <li><a href="#25">VIII. Frequently Asked Questions (FAQs)</a></li>
+</ul>
+
 </ol>
 <h1 id="1">I. What ıs Panini and How it works?</h1>
 <p>In the burgeoning world of digital collectibles, <strong>Panini NFTs</strong> emerge as a paragon of innovation and authenticity, revolutionizing the way enthusiasts collect and interact with their favorite sports memorabilia. With a legacy steeped in quality and tradition, Panini America ingeniously bridges the tangible allure of physical cards with the seamless, secure experience offered by blockchain technology, presenting a compelling narrative for both seasoned collectors and novices in the digital space.</p>
