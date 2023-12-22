@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "What is Cardano"
-date:   2022-05-31 08:03:19 +0300
-subtitle: What is Cardano used for? Is Cardano a good investment? What makes Cardano so special?
+date:   2023-12-22 08:03:19 +0300
+subtitle: What is Cardano used for? Is Cardano a good investment in 2024?
 description: Cardano is a Proof-of-Stake blockchain platform built in the Haskell programming language by Ethereum co-founder Charles Hoskinson and his colleague Jeremy Wood.
 image: /assets/img/posts-img/ada/what-is-cardano-ada.webp
 tags:   
