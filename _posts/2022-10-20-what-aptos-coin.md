@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "What is Aptos APT C0in? When is the Aptos Airdrop"
-date:   2022-10-20 16:11:19 +0300
+date:   2022-10-20 16:11:19 -0500
 subtitle: What does Aptos coin actually do? Is Aptos a good investment? When is the Aptos Airdrop?
 description: Aptos coin is a Layer 1 blockchain that uses the Move programming language. It's supposed to be scalable, reliable, secure, and easy to use.
 image: /assets/img/posts-img/apt/what-is-aptos-coin-how-to-buy-aptos.webp

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "What is Audius AUDIO"
-date:   2022-06-10 13:03:19 +0300
+date:   2022-06-10 13:03:19 -0500
 subtitle: What does Audius actually do? Is Audius a good investment? What is AUDIO crypto used for? Does AUDIO crypto have a future?
 description: Audio is the leading decentralized music streaming platform with over 5 million monthly users. By providing artists with full access to their works, and almost 100% of profits from sales and marketing, it aims to mitigate the shortcomings of the current music industry.
 image: /assets/img/posts-img/audius/what-audius-coin-how-does-it-work.webp

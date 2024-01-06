@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "What is BNB"
-date:   2022-05-20 18:03:19 +0300
+date:   2022-05-20 18:03:19 -0500
 subtitle: What is BNB and how does it work? Is BNB a good investment? What is the full meaning of BNB?
 description: Binance Coin or BNB is a cryptocurrency that provides the work of a large ecosystem of the Binance cryptocurrency exchange.
 image: /assets/img/posts-img/bnb/what-is-bnb.webp

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "What is Pi Coin"
-date:   2022-06-08 19:17:19 +0300
+date:   2022-06-08 19:17:19 -0500
 subtitle: What does Pi coin actually do? Is Pi coin a good investment? What is Pi crypto used for? Does Pi crypto have a future?
 description: The Pi Coin is a new cryptocurrency on the crypto market. Stanford-trained developers have launched the Pi to make mining via apps fast and user-friendly.
 image: /assets/img/posts-img/pi/what-is-pi-coin-how-does-it-work.webp

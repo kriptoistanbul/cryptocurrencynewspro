@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Buy Chia Coin (XCH) 2022: Guide, price and forecast"
-date:   2022-06-17 19:05:19 +0300
+date:   2022-06-17 19:05:19 -0500
 subtitle: What does Chia actually do? Is XCH a good investment? What is XCH crypto used for? Does Chia crypto have a future?
 description: The Chia Coin is the cryptocurrency of the Chia Network, an opera source blockchain that consumes significantly less energy than other cryptographic coins. By using a new consensus algorithm, the blockchain promises improved decentralization and security.
 image: /assets/img/posts-img/chia/buy-chia.webp

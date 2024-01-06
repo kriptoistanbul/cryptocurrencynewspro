@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "What is Moonbeam Network? How to Buy Moonbeam GLMR Coin"
-date:   2022-10-16 18:39:19 +0300
+date:   2022-10-16 18:39:19 -0500
 subtitle: How to buy GLMR Moonbeam Network? What is Moonbeam Foundation? Polkadot vs Moonbeam
 description: Moonbeam is an open-source smart contract platform that allows developers to build cross-chain applications that are capable of accessing users, assets, and services across multiple blockchains.
 image: /assets/img/posts-img/moonbeam/what-is-moonbeam-network-how-to-buy-moonbeam-coin.webp

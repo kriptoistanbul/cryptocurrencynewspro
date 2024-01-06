@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "What ıs Panini and How it works?"
-date:   2023-10-10 20:03:19 +0300
+date:   2023-10-10 20:03:19 -0500
 subtitle: Exploring Panini NFTs What Are They and How Do They Work
 description: Discover the allure of Panini NFTs unique digital collectibles blending tradition and tech. Learn their history, value, and how to start your collection.
 image: /assets/img/posts-img/panini/what-is-panini-america-nft.webp

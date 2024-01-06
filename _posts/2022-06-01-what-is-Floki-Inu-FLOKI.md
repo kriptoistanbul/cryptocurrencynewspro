@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "What is Floki Inu"
-date:   2022-06-11 13:00:00 +0300
+date:   2022-06-11 13:00:00 -0500
 subtitle: What does Floki Inu actually do? Is Floki a good investment? What is Floki crypto used for? Shiba vs Floki
 description: Floki Inu is a community-owned cryptocurrency inspired by Elon Musk! The Floki Inu (FLOKI) is a new cryptocurrency created by fans and members of the Shiba Inu community and inspired by DogeFather Elon Musk's own Shiba Inu.
 image: /assets/img/posts-img/floki/doge-floki.webp

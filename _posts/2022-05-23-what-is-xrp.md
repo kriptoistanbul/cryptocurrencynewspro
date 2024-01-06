@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "What is Ripple XRP"
-date:   2022-05-20 18:03:19 +0300
+date:   2022-05-20 18:03:19 -0500
 subtitle: What does Ripple actually do? Is XRP a good investment? How is Ripple different than Bitcoin?
 description: XRP is a coin that runs on the XRP Ledger and the blockchain created by Jed McCaleb, Arthur Britto and David Schwartz.
 image: /assets/img/posts-img/xrp/what-is-ripple-xrp.webp

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Buy Bitcoin Cash (BCH) or not?&nbsp;Instructions 2022"
-date:   2022-06-17 18:43:19 +0300
+date:   2022-06-17 18:43:19 -0500
 subtitle: What does BCH actually do? Is Bitcoin Cash a good investment? What is BCH crypto used for? Does Bitcoin Cash crypto have a future?
 description: BCH (Bitcoin Cash) was created on August 1st, 2017 and only differs slightly from Bitcoin. The Bitcoin network has launched its own alternative coin to deal with its well-known problems (poor scalability, problems with SegWit).
 image: /assets/img/posts-img/bch/what-is-bch-bitcoin-cash.webp

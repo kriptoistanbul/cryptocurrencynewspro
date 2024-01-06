@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "What is Diem"
-date:   2022-02-09 23:55:19 +0300
+date:   2022-02-09 23:55:19 -0500
 subtitle: What does Diem actually do? Is Diem a good investment? Is Diem scam? Libra or Diem?
 description: Cosmos is a blockchain network that aims to enable independent blockchains to communicate with each other in a seamless manner. This allows them to exchange data and conduct transactions.
 image: /assets/img/posts-img/diem/what-is-diem-how-does-it-work.webp

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "What is Best NFT Projects and Upcoming NFT Projects"
-date:   2022-07-16 16:43:19 +0300
+date:   2022-07-16 16:43:19 -0500
 subtitle: Upcoming NFT Projects - Solana NFT Projects - How to start an NFT Project? How to find new NFT Projects?
 description: Exclusive NFT Art Collections can provide investors with high returns, a 10x-100x is not uncommon with projects such as Bored Apes, Meka Verse, Doodle and VeeFriends.
 image: /assets/img/posts-img/nftprojects/upcoming-nft-projects.webp

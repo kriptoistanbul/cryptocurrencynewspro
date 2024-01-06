@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "What is BitTorrent BTT"
-date:   2022-06-10 01:07:19 +0300
+date:   2022-06-10 01:07:19 -0500
 subtitle: What does Atom actually do? Is ATOM a good investment? What is Cosmos crypto used for? Does Cosmos crypto have a future?
 description: Cosmos is a blockchain network that aims to enable independent blockchains to communicate with each other in a seamless manner. This allows them to exchange data and conduct transactions.
 image: /assets/img/posts-img/btt/what-is-btt-bittorent.webp

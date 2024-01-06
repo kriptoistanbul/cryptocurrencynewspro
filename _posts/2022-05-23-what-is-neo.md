@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "What is NEO"
-date:   2022-05-20 18:03:19 +0300
+date:   2022-05-20 18:03:19 -0500
 subtitle: Is NEO a good investment? What does NEO do? Is NEO a reliable source?
 description: Neo is a distributed network using blockchain technology.&nbsp;It allows you to digitize and manage different types of assets using smart contracts.
 image: /assets/img/posts-img/neo/what-is-neo-currency.webp

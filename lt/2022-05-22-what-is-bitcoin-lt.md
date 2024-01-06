@@ -1,7 +1,7 @@
 ---
 layout: post-lt
 title:  "Kas yra Bitcoin BTC?"
-date:   2022-08-10 23:54:19 +0300
+date:   2022-08-10 23:54:19 -0500
 subtitle: Kas yra Bitcoin? Kaip veikia btc? Ar Bitcoin yra tikri pinigai? Kas yra Satoshi Nakamoto?
 description: Bitcoin yra pirmasis decentralizuotas tarpusavio mokėjimų tinklas, kurį maitina vartotojai be centrinės institucijos ar tarpininko.
 image: /assets/img/posts-img/btc/what-is-bitcoin.webp

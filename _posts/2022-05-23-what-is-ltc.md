@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "What is LTC"
-date:   2022-05-20 18:03:19 +0300
+date:   2022-05-20 18:03:19 -0500
 subtitle: What is LTC used for? Is Litecoin good investment? What is LTC Network?
 description: After Bitcoin was developed in 2008 and saw the light of day in 2009, another two years passed before Litecoin was invented.LTC was also one of the first altcoins.
 image: /assets/img/posts-img/ltc/what-is-litecoin-ltc.webp

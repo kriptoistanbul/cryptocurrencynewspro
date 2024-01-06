@@ -1,7 +1,7 @@
 ---
 layout: news
 title:  "Launch of the Bitcoin bond project in El Salvador still on track."
-date:   2022-06-03 00:00:19 +0300
+date:   2022-06-03 00:00:19 -0500
 subtitle: Is El Salvador ready for bitcoin bond? How many bitcoins El Salvador have right now?
 description: Finance minister Alejandro Zelaya said June 1 on a national television news show that El Salvador still does not believe the right time is right for launching its highly anticipated bitcoin bond due to the current market conditions.
 image: /assets/img/news/launch-of-the-bitcoin-bond-project.webp

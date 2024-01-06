@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Buy Chiliz (CHZ) 2022: fees and price history"
-date:   2022-06-17 20:47:19 +0300
+date:   2022-06-17 20:47:19 -0500
 subtitle: What does Chiliz actually do? Is Chiliz a good investment? What is CHZ crypto used for? Does Socios have a future?
 description: As part of Socios.com, Chiliz is used as a utility token. Sports fans have the opportunity to take part in sports related decision-making on Socios.com by taking part in surveys that are conducted on behalf of their favorite clubs.
 image: /assets/img/posts-img/chz/what-is-chz-chiliz.webp

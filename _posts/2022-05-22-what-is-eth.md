@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "What is ETH Ethereum"
-date:   2023-02-04 17:03:19 +0300
+date:   2023-02-04 17:03:19 -0500
 subtitle: What is ETH? Is a Ethereum a good investment? Which is better to invest Bitcoin or Ethereum? How does Ethereum make money?
 description: Ethereum ETH is a blockchain platform on which, using smart contracts, you can create tokens (including NFTs), decentralized online services and applications.
 image: /assets/img/posts-img/eth/what-is-eth-ethereum.webp

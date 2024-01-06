@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "What is Yuan Chain Coin YCC"
-date:   2022-06-06 09:03:19 +0300
+date:   2022-06-06 09:03:19 -0500
 subtitle: What does Yuan Chain actually do? Is YCC a good investment? What is YCC crypto used for? Does Chinese cryptocurrencies have a future?
 description: China developed this cryptocurrency, which has a number of advantages over other cryptocurrencies. Yuan Chain Coin is a centralized cryptocurrency that comes with a blockchain capable of handling accounting and contracts.
 image: /assets/img/posts-img/ycc/what-is-the-yuan-chain-coin.webp

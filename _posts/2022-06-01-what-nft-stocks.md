@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "What are nft stocks"
-date:   2022-08-01 09:03:19 +0300
+date:   2022-08-01 09:03:19 -0500
 subtitle: How to invest in nft stocks? What is the best NFT share?
 description: A NFT stock has similar buying and selling features to a share of stock. In contrast to traditional stockbrokers and exchanges, NFT stocks are decentralized.
 image: /assets/img/posts-img/nftstocks/what-is-nft-stocks.webp

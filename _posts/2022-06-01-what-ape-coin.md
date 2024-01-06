@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Is Apecoin a good investment in 2022? What is the future of Apecoin?"
-date:   2022-07-08 20:56:19 +0300
+date:   2022-07-08 20:56:19 -0500
 subtitle: What does APE actually do? Is APE a good investment? What is APE crypto used for? Does APE crypto have a future?
 description: There is a new 2022 cryptocurrency called ApeCoin that has its origins in the Bored Ape Yacht Club, one of the most popular and valuable collections of non-fungible tokens in the world.
 image: /assets/img/posts-img/ape/what-is-ape-coin.webp

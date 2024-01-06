@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Buy Hedera Hashgraph (HBAR) 2022: Future, Forecast, Price Buying Guide"
-date:   2022-06-12 00:45:19 +0300
+date:   2022-06-12 00:45:19 -0500
 subtitle: What does HBAR actually do? Is HBAR a good investment? What is Hedera crypto used for? Does HBAR crypto have a future?
 description: Hedera Hashgraph (HBAR) is a cryptocurrency network that serves as a platform for businesses and individuals to develop powerful decentralized applications. Hedera Hashgraph has been funded through an Initial Coin Offering (ICO).
 image: /assets/img/posts-img/hbar/what-is-hbar-hedera-how-does-it-work.webp

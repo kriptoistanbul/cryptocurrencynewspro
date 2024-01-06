@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "What is DeFi"
-date:   2022-05-20 18:03:19 +0300
+date:   2022-05-20 18:03:19 -0500
 subtitle: What is DeFi and how does it work? How do you make money with DeFi? What is DeFi example?
 description: DeFi is the English abbreviation of Decentralized Finance, which is a concept opposite to Centralized Finance or CeFi, which mainly refers to a blockchain application project built on a programmable public blockchain network
 image: /assets/img/posts-img/defi/defi-cryptocurrency.webp
