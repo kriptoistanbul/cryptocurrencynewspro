@@ -1,0 +1,11 @@
+---
+layout: post-lt
+title: "Exploring the World of STO (Security Token Offering)"
+date: 2024-01-31 03:44:19 -0500  # Date in the required format
+subtitle: "Insights into STO (Security Token Offering): What Makes It Tick"
+description: "Embark on an exploratory dive into STO (Security Token Offering), gaining insights into its operational mechanisms and its significance in the broader context of digital currencies."
+image: /assets/img/posts-img/btc/what-is-bitcoin.webp
+permalink: "/glossary/crypto/sto/"
+---
+<h1>security token offering (STO)</h1>
+<P> A security token offering (STO) is a form of crowdfunding that is often used by crypto companies to collect capital, in the form of <strong> security tokens, </strong> for their projects. </p > <P> In contrast to ICOS, in which the companies sell digital tokens that do not give property rights to the company, but only the right to the use of certain services within the company's platform, are <strong> Security tokens </strong> Regulatory authorities approved financial instruments that award property rights to the company. This means that they are subject to certain regulations, such as the prospectal law and the provisions of securities law. <strong> In return, security tokens offer investors a certain protection against fraud and other risks. </strong> </p> <P> The difference between a StO (Security Token Offering) and an IPO (initial public offering) is mainly in the financial instruments that are sold by the companies and the associated rights and duties. </p> <P> at the <strong> IPO </strong>, the companies sell <strong> shares to the public </strong>, which award property rights in the company and the investors participate in the profit of the company and a say in important entrepreneurial decisions grant. </p> <P> <strong> Security Tokens </strong>, on the other hand, are issued on the <strong> blockchain </strong> by regulatory authorities 'approved financial instruments', which award property rights to the company and the investors have certain rights such as the right to dividends Or grant the right to buy back. In contrast to shares, however, security tokens are subject to certain regulations, such as prospectal law and the provisions of securities law. </p>
