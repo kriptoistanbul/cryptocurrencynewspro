@@ -4,6 +4,3 @@ User-agent: *
 Disallow: /tags/*
 
 Sitemap: https://cryptocurrencynewspro.com/sitemap.xml
-
-User-agent: ChatGPT-User
-Disallow: /
