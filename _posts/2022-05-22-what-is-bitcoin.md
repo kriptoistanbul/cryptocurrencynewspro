@@ -104,7 +104,6 @@ lang2: "lt/what/bitcoin/"
   </div>
 </div>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rYQgy8QDEBI?si=BNbxMadxYM4dl074" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
   <blockquote cite="bitcoin.org">Bitcoin is a consensus network that enables a new payment system and a completely digital money. It is the first decentralized peer-to-peer payment network that is powered by its users with no central authority or middlemen. From a user perspective, Bitcoin is pretty much like cash for the Internet. Bitcoin can also be seen as the most prominent triple entry bookkeeping system in existence.</blockquote>
 <img src="/assets/img/posts-img/btc/what-is-bitcoin-at-today.webp" alt="what is btc mean" width="412" height="274" loading="lazy">
