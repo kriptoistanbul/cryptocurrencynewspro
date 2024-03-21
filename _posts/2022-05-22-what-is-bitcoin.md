@@ -1,4 +1,4 @@
----
+9---
 layout: post
 title:  "What is Bitcoin BTC?"
 date:   2022-05-20 18:03:19 -0500
@@ -84,6 +84,10 @@ lang2: "lt/what/bitcoin/"
         <meta itemprop="name" content="http://en.wikipedia.org/wiki/Cryptography"/>
     </div>
 </div>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rYQgy8QDEBI?si=BNbxMadxYM4dl074" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
 <h1 id="1"><strong>What is Bitcoin BTC?</strong></h1>
 <div itemscope itemtype="http://schema.org/currency">
   <p><strong>Bitcoin</strong> (<span itemprop="name">Bitcoin</span>) is a network cryptocurrency proposed by Satoshi Nakamoto in 2008. It is different from the currency minted and issued by the state in the past. </p>
