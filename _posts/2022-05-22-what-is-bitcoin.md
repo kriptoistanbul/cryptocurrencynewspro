@@ -103,6 +103,9 @@ lang2: "lt/what/bitcoin/"
     <p>Due to its anonymous transaction feature, Bitcoin is often <span itemprop="description">considered to be used illegally</span>.</p>
   </div>
 </div>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rYQgy8QDEBI?si=BNbxMadxYM4dl074" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
   <blockquote cite="bitcoin.org">Bitcoin is a consensus network that enables a new payment system and a completely digital money. It is the first decentralized peer-to-peer payment network that is powered by its users with no central authority or middlemen. From a user perspective, Bitcoin is pretty much like cash for the Internet. Bitcoin can also be seen as the most prominent triple entry bookkeeping system in existence.</blockquote>
 <img src="/assets/img/posts-img/btc/what-is-bitcoin-at-today.webp" alt="what is btc mean" width="412" height="274" loading="lazy">
 <p>Since Bitcoin is an online virtual currency, how did it come about? The way Bitcoin is generated is related to its core technology "blockchain". The feature of the blockchain is "decentralized computing". Each computer in the blockchain will participate in the operation of the database and record all historical bitcoin transactions. , and because of the anonymous nature of Bitcoin, in the process of split calculation, all information is encrypted, and no computer can read who the user is. Therefore, anyone only needs to run the Bitcoin software and participate in the calculation to get Bitcoin, and this process is called "mining".</p>
