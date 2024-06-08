@@ -68,13 +68,8 @@ paginate_content:
   paginate: 12
   enabled: true
   debug: true
-collections:
-  posts:
-    output: true
-  glossary:
-    output: true
-    permalink: /glossary/:name/
-
+  collections:
+    - posts
   auto: true
   separator: "--page-break--"
   permalink: "/:num/"

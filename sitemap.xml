@@ -18,6 +18,16 @@ layout: null
             <priority>0.0</priority>
         </url>
     {% endfor %}
+    {% for page in site.pages %}
+      {% if page.layout == 'post-lt' %}
+        <url>
+            <loc>{{ page.permalink | prepend: site.baseurl | prepend: site.url }}</loc>
+            <changefreq>monthly</changefreq>
+            <priority>0.5</priority>
+            <lastmod>{{ page.date | date: "%Y-%m-%d" }}</lastmod>
+        </url>
+      {% endif %}
+    {% endfor %}
     <url>
         <loc>https://cryptocurrencynewspro.com/</loc>
         <changefreq>daily</changefreq>

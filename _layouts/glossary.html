@@ -1,27 +1,37 @@
 <!DOCTYPE html>
-<html lang="{{ site.language }}">
-    {% include head.html %}
+<html lang="{{ site.language }}" class="no-js">
+    {% include head-noindex.html %}
     <body class="main-page has-push-menu">
         {% include svg-icons.html %}
         {% include header.html %}
         <section class="content">
-            <main class="home" id="glossary" role="main">
-                <h1 class="title-category">{{ page.title }}</h1>
+            <main class="home" id="post" role="main">
+                <h1 class="title-category">/{{ page.title }}</h1>
                 <div id="grid" class="row flex-grid">
-                    {% for entry in site.glossary %}
+                    {% assign glossary_entries = site.pages | where: "layout", "post-lt" %}
+                    {% for entry in glossary_entries %}
                         <article class="box-item">
                             <div class="box-body">
                                 <div class="box-info">
-                                    <a class="entry-link" href="{{ entry.url | prepend: site.baseurl }}">
-                                        <h2 class="entry-title">{{ entry.title }}</h2>
+                                    <time datetime="{{ entry.date | date_to_xmlschema }}" class="date">
+                                        {{ entry.date | date: "%B %d, %Y" }}
+                                    </time>
+                                    <a class="post-link" href="{{ entry.url | prepend: site.baseurl }}">
+                                        <h2 class="post-title">
+                                            {{ entry.title }}
+                                        </h2>
                                     </a>
-                                    <p class="description">{{ entry.excerpt | strip_html }}</p>
+                                    <p class="description">{{ entry.subtitle }}</p>
+                                    <div class="tags">
+                                        {% for tag in entry.tags %}
+                                            <a href="{{ site.baseurl }}/tags/#{{ tag | slugify }}" class="tag-link">#{{ tag }}</a>
+                                        {% endfor %}
+                                    </div>
                                 </div>
                             </div>
                         </article>
                     {% endfor %}
                 </div>
-
             </main>
         </section>
         {% include footer.html %}
