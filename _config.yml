@@ -14,15 +14,17 @@ menu:
   - title: Home
     url: /
   - title: Cryptocurrencies
-    url: /what
+    url: /what/
   - title: Airdrops
-    url: /airdrop
+    url: /airdrop/
   - title: NFTs
-    url: /nft
+    url: /nft/
   - title: About
-    url: /about
+    url: /about/
   - title: Contact
-    url: /contact
+    url: /contact/
+  - title: Glossary
+    url: /glossary/
 email: cryptocurrencynewspro@gmail.com
 # Contact Form Setting
 # See: https://formspree.io/
