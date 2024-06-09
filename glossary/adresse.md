@@ -42,41 +42,42 @@ permalink: /glossary/crypto/adress/
 <p>The sanctity of digital transactions is enshrined in <b>cryptography</b>, a silent sentinel that guards the integrity of the digital economy. It's the bedrock upon which trust in the blockchain is built, ensuring that every exchange is a fortress, impervious to the chaos of the digital frontier.</p>
 
 
-
 <div itemscope itemtype="https://schema.org/FAQPage">
     <h2>Frequently Asked Questions</h2>
 
-    <itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+    <div itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
       <h3 itemprop="name">How can I obtain a cryptocurrency address?</h3>
         <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
             <p itemprop="text">
                 Getting your own cryptocurrency address is like setting up a digital wallet for your digital coins. Start by choosing a wallet provider—there are plenty out there, including apps like Coinbase and even physical hardware options. Once your wallet is all set up, it'll generate a unique crypto address for you, making it super easy to start receiving and managing your digital currencies.
             </p>
         </div>
+    </div>
 
-
-    <itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+    <div itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
       <h3 itemprop="name">What exactly is a 'crypto address'?</h3>
         <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
             <p itemprop="text">
                 Think of a crypto address as the digital version of your home address, but instead of mail, it's where you receive or send your digital currencies. It's a unique mix of numbers and letters, kind of like a super secure code, ensuring that your cryptocurrency transactions are safe and sound on the blockchain.
             </p>
         </div>
+    </div>
 
-
-    <itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+    <div itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
        <h3 itemprop="name">Could you give me an example of what a cryptocurrency address looks like?</h3>
-            <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+        <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
             <p itemprop="text">
                 Sure thing! A typical cryptocurrency address might look something like this: "3FZbgi29cp********HuJJnkLtktZc5". Just remember, this is just a sample to give you an idea. Real addresses can vary, with different lengths and characters depending on the type of cryptocurrency.
             </p>
         </div>
+    </div>
 
-    <itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
-      <h3 itemprop="name"><h3>Is there a difference between a 'crypto address' and a 'wallet address'?</h3>
+    <div itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+      <h3 itemprop="name">Is there a difference between a 'crypto address' and a 'wallet address'?</h3>
         <div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
             <p itemprop="text">
                 Not really, they're essentially two names for the same thing. Whether you call it a 'crypto address' or a 'wallet address', it's all about the specific spot in your cryptocurrency wallet where you can send or receive tokens or coins. It's the public part of your wallet's secure key pair, acting like your digital P.O. box for all your cryptocurrency dealings.
             </p>
         </div>
+    </div>
 </div>
