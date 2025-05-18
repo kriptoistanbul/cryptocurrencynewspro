@@ -2,27 +2,29 @@ name: Deploy to Hostinger
 
 on:
   push:
-    branches: [ gh-pages ]  # Deploy when pushing to gh-pages branch
+    branches: [ gh-pages ]
 
 jobs:
-  build-and-deploy:
+  deploy:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v3
     
-    - name: Set up Ruby
+    - name: Setup Ruby
       uses: ruby/setup-ruby@v1
       with:
-        ruby-version: '3.0'
-        bundler-cache: true
+        ruby-version: '2.7'
     
-    - name: Install dependencies & build
+    - name: Install dependencies
       run: |
+        gem install bundler
         bundle install
-        bundle exec jekyll build
-        
+    
+    - name: Build site
+      run: bundle exec jekyll build
+      
     - name: Deploy to Hostinger
-      uses: SamKirkland/FTP-Deploy-Action@v4.3.4
+      uses: SamKirkland/FTP-Deploy-Action@4.3.0
       with:
         server: ${{ secrets.FTP_SERVER }}
         username: ${{ secrets.FTP_USERNAME }}
